@@ -1,0 +1,31 @@
+---
+layout: page
+permalink: /cs2020/
+title: 
+description: 
+---
+### Computer Science 
+Course 055717, Politecnico di Milano, Civil Engineering, 2020
+The course is aimed at first-year civil engineering students that are introduced to the fundamental concepts of computer science (algorithms, programs, general structure of computers and computer systems).  
+The basic notions of computer programming (programming language, abstraction techniques, fundamental data types and control structures, sub-programs) are presented taking into account the C language with an emphasis on both conceptual and practical aspects.
+
+##  Materials
+
+* Course info -  [slides][slides0]
+* What is computer science? Von Neumann architecture  [slides][slides1]
+* Introduction to algorithm and flow charts
+* Boolean logic
+
+*** 
+
+Additional information can be retrieved on
+[beep][beep]
+
+
+*** 
+
+[beep]:https://beep.metid.polimi.it/web/2020-21-computer-science-luca-magri-/
+[slides0]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EU1ibMCsByZNjMnOKdFe6DcBB2PxKAWOdzxs3RVkAhhjEQ?e=j4GjVc
+[slides1]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ea5AhcoMmzlLq6w4Mxl7zQUBDX8z-c1SnmDNOXsgtaMAsQ?e=H3RBbz
+[slides2]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EYpdoj14_RZPtrHYwiZ9x7EBnl8bz0dxbl2o7tS72n0IdQ?e=pE0Cg8
+[slides3]:https://polimi365-my.sharepoint.com/:p:/g/personal/10755186_polimi_it/EaXF-vhXv5JHjvMtxUscKtQBaPQSByGc4zRQpkdXklhcEg?e=5zX2hs
