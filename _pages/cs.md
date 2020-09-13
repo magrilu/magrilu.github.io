@@ -12,8 +12,8 @@ The basic notions of computer programming (programming language, abstraction tec
 ##  Materials
 
 * Course info -  [slides][slides0]
-* What is computer science? Von Neumann architecture  [slides][slides1]
-* Introduction to algorithms and flowcharts [slides][slides2]
+* What is computer science? Von Neumann architecture - [slides][slides1]
+* Introduction to algorithms and flowcharts - [slides][slides2]
 * Boolean logic
 
 *** 
