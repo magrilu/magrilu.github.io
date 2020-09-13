@@ -3,7 +3,7 @@ layout: page
 permalink: /cs2020/
 
 ---
-### Computer Science 
+
 Course 055717, Politecnico di Milano, Civil Engineering, 2020
 The course is aimed at first-year civil engineering students that are introduced to the fundamental concepts of computer science (algorithms, programs, general structure of computers and computer systems).  
 The basic notions of computer programming (programming language, abstraction techniques, fundamental data types and control structures, sub-programs) are presented taking into account the C language with an emphasis on both conceptual and practical aspects.
