@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /cs2020/
-title: 
-description: 
+
 ---
 ### Computer Science 
 Course 055717, Politecnico di Milano, Civil Engineering, 2020
