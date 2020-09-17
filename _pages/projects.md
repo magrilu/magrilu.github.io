@@ -7,7 +7,8 @@ description: under construction
 
 ### parametric multi model fitting
 
-fitting multiple instances of parametric models to data corrputed by noise and outliers
+fitting multiple instances of parametric models to data corrupted by noise and outliers
+(with A. Fusiello)
 
 <div class="project ">
     <div class="thumbnail">
