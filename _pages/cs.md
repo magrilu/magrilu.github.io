@@ -37,7 +37,8 @@ Additional information can be retrieved on
 
 *** 
 
-*I would like to thank Marco Lattuada, Marcello Restelli, Giacomo Boracchi and Andrea Fusiello for sharing with me their advices and their teaching materials on which the slides of this course are largely based.*
+*I would like to thank Marco Lattuada, Marcello Restelli, Giacomo Boracchi and Andrea Fusiello for sharing with me their advices and their teaching materials on which the slides of this course are largely based.
+*
 
 [beep]:https://beep.metid.polimi.it/web/2020-21-computer-science-luca-magri-/
 [slides0]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EU1ibMCsByZNjMnOKdFe6DcBB2PxKAWOdzxs3RVkAhhjEQ?e=j4GjVc
