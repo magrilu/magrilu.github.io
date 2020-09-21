@@ -18,7 +18,7 @@ The basic notions of computer programming (programming language, abstraction tec
 * What is computer science? Von Neumann architecture - [slides][slides1]
 * Introduction to algorithms and flowcharts - [slides][slides2]
 * Boolean logic
-* Binary encoding
+* Binary encoding - [slides][binary]
 
 
 
@@ -45,3 +45,4 @@ Additional information can be retrieved on
 [slides1]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ea5AhcoMmzlLq6w4Mxl7zQUBDX8z-c1SnmDNOXsgtaMAsQ?e=H3RBbz
 [slides2]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EYpdoj14_RZPtrHYwiZ9x7EBnl8bz0dxbl2o7tS72n0IdQ?e=lyZ6FP
 [slides3]:https://polimi365-my.sharepoint.com/:p:/g/personal/10755186_polimi_it/EaXF-vhXv5JHjvMtxUscKtQBaPQSByGc4zRQpkdXklhcEg?e=5zX2hs
+[binary]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eagol1oNiexHq03o6l1s07gBA4n7T0qN1WERj3pUYTQGpg?e=dhf8Le
