@@ -17,11 +17,15 @@ The basic notions of computer programming (programming language, abstraction tec
 * Course info -  [slides][slides0]
 * What is computer science? Von Neumann architecture - [slides][slides1]
 * Introduction to algorithms and flowcharts - [slides][slides2]
-* Boolean logic
 * Binary encoding - [slides][binary]
+ * Boolean logic - [slides][boolean]
+* Intro to C - [slides][introC]
 
+***
+####  Additional Resources
 
-
+* The C Programming Language [first edition available at the Internet Archive][book]
+* [C online compiler][onlineCompiler] to play with
 
 ***
 #### Tentative calendar for the AutoCAD laboratory
@@ -31,14 +35,13 @@ The basic notions of computer programming (programming language, abstraction tec
 * 17 December 2020 (2 hours)
  
 ***
-Additional information can be retrieved on
+Further information can be retrieved on
 [beep][beep]
 
 
 *** 
 
-*I would like to thank Marco Lattuada, Marcello Restelli, Giacomo Boracchi and Andrea Fusiello for sharing with me their advices and their teaching materials on which the slides of this course are largely based.
-*
+*I would like to thank Marco Lattuada, Marcello Restelli, Giacomo Boracchi and Andrea Fusiello for sharing with me their advices and their teaching materials on which the slides of this course are largely based.*
 
 [beep]:https://beep.metid.polimi.it/web/2020-21-computer-science-luca-magri-/
 [slides0]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EU1ibMCsByZNjMnOKdFe6DcBB2PxKAWOdzxs3RVkAhhjEQ?e=j4GjVc
@@ -46,3 +49,10 @@ Additional information can be retrieved on
 [slides2]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EYpdoj14_RZPtrHYwiZ9x7EBnl8bz0dxbl2o7tS72n0IdQ?e=lyZ6FP
 [slides3]:https://polimi365-my.sharepoint.com/:p:/g/personal/10755186_polimi_it/EaXF-vhXv5JHjvMtxUscKtQBaPQSByGc4zRQpkdXklhcEg?e=5zX2hs
 [binary]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eagol1oNiexHq03o6l1s07gBA4n7T0qN1WERj3pUYTQGpg?e=dhf8Le
+[boolean]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EXvYzY33ZVJKsOtCpljuy6ABvMKEtWVhg9ca0CEN2JM2vA?e=KkKTIY
+[introC]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EbwtzP8TSFhOpG4iXv9JXMMBToiABAZ19C3bgq2BoJIX3A?e=bFkzYN
+
+
+
+[book]:https://archive.org/details/TheCProgrammingLanguageFirstEdition
+[onlineCompiler]:https://repl.it/languages/c
