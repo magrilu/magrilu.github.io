@@ -20,12 +20,14 @@ The basic notions of computer programming (programming language, abstraction tec
 * Binary encoding - [slides][binary]
  * Boolean logic - [slides][boolean]
 * Intro to C - [slides][introC]
+* Control structures - [slides][control]
 
 ***
 ####  Additional Resources
 
 * The C Programming Language [first edition available at the Internet Archive][book]
 * [C online compiler][onlineCompiler] to play with
+* Peter Norvig, [Teach Yourself Programming in Ten Years][programmingIn10] (Peter Norvig was Director of Research at Google)
 
 ***
 #### Tentative calendar for the AutoCAD laboratory
@@ -51,8 +53,9 @@ Further information can be retrieved on
 [binary]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eagol1oNiexHq03o6l1s07gBA4n7T0qN1WERj3pUYTQGpg?e=dhf8Le
 [boolean]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EXvYzY33ZVJKsOtCpljuy6ABvMKEtWVhg9ca0CEN2JM2vA?e=KkKTIY
 [introC]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EbwtzP8TSFhOpG4iXv9JXMMBToiABAZ19C3bgq2BoJIX3A?e=bFkzYN
-
+[control]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EenVeX6A21tAswPGPJi1tpIB9MRSYVd95MwFIYxnHgXw9Q?e=95nUfn
 
 
 [book]:https://archive.org/details/TheCProgrammingLanguageFirstEdition
 [onlineCompiler]:https://repl.it/languages/c
+[programmingIn10]:http://norvig.com/21-days.html
