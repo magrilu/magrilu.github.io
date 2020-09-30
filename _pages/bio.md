@@ -16,7 +16,7 @@ In 2018-2019 I joined the R&D group of [FARO Technologies][faro] (Rezzato, IT) w
 
 Now I am at Dipartimento di Elettronica, Informazione e Bioingegneria of the Politecnico di Milano (DEIB) as a post-doc researcher with [Giacomo Boracchi][giacomo].
 
-* Curriculum Vitae: [<a href="../assets/pdf/luca_magri_cv_short.pdf">short cv</a>, <a href="../assets/pdf/luca_magri_cv.pdf">full cv ita</a>]
+* Curriculum Vitae: [<a href="../assets/pdf/luca_magri_cv.pdf">full cv </a>]
 * [Publications](/publications)
 
 <div class="social">
