@@ -22,6 +22,8 @@ The basic notions of computer programming (programming language, abstraction tec
 * Intro to C - [slides][introC]
 * Control structures - [slides][control]
 * Array - [slides][array]
+* String -[slides][string]
+
 
 ***
 ####  Additional Resources
@@ -56,6 +58,8 @@ Further information can be retrieved on
 [introC]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EbwtzP8TSFhOpG4iXv9JXMMBToiABAZ19C3bgq2BoJIX3A?e=bFkzYN
 [control]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EenVeX6A21tAswPGPJi1tpIB9MRSYVd95MwFIYxnHgXw9Q?e=95nUfn
 [array]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EbWFoneLk4xKmro9bFTixLoB5W1q3Qrgbbo-ON14I1WD8g?e=35ZmBK
+[string]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eb97etLaw1JEuG8MyMvvCzABS4Y_saoXAer-1VkI-OETEQ?e=x6KGNK
+
 
 [book]:https://archive.org/details/TheCProgrammingLanguageFirstEdition
 [onlineCompiler]:https://repl.it/languages/c
