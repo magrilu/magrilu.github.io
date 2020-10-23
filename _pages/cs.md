@@ -24,6 +24,7 @@ The basic notions of computer programming (programming language, abstraction tec
 * Array - [slides][array]
 * String - [slides][string]
 * Struct - [slides][struct]
+* Function - [slides][function]
 
 
 ***
@@ -61,6 +62,8 @@ Further information can be retrieved on
 [array]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EbWFoneLk4xKmro9bFTixLoB5W1q3Qrgbbo-ON14I1WD8g?e=35ZmBK
 [string]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eb97etLaw1JEuG8MyMvvCzABS4Y_saoXAer-1VkI-OETEQ?e=x6KGNK
 [struct]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ET5Do5_ELy5IjVDHEMt4BlQBwIeD8KBmqZvUn9cv60f9Fg?e=3GZDKA
+[function]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EQjmaPxnlBhHkyO2WZMzXw0BCPvnfDRVAUtGSlEr0MEEuw?e=D3vAuc
+
 
 [book]:https://archive.org/details/TheCProgrammingLanguageFirstEdition
 [onlineCompiler]:https://repl.it/languages/c
