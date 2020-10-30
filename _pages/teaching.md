@@ -8,7 +8,7 @@ description: under construction!
 ### courses
 #### @ Politecnico di Milano
 * 2020-2021 [Computer Science, (055717)][cs2020], Faculty of Civil Engineering
-* 2020-2021 Image Analysis and Computer Vision, teaching assistant (Course by V. Caglioti)
+* 2020-2021 Image Analysis and Computer Vision, teaching assistant (Course by Prof. V. Caglioti)
 
 #### @ Università degli Studi di Milano
 * 2017-2018 Introductory course in Mathematics for first year student, Faculty of Mathematics

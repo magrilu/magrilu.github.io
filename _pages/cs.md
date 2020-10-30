@@ -21,10 +21,11 @@ The basic notions of computer programming (programming language, abstraction tec
  * Boolean logic - [slides][boolean]
 * Intro to C - [slides][introC]
 * Control structures - [slides][control]
-* Array - [slides][array]
-* String - [slides][string]
-* Struct - [slides][struct] [exercise][flight]
-* Function - [slides][function]
+* Arrays - [slides][array]
+* Strings - [slides][string]
+* Structs - [slides][struct] - [exercise][flight]
+* Functions - [slides][function]
+* Pointers - [slides][pointers]
 
 
 ***
@@ -64,6 +65,8 @@ Further information can be retrieved on
 [struct]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ET5Do5_ELy5IjVDHEMt4BlQBwIeD8KBmqZvUn9cv60f9Fg?e=3GZDKA
 [flight]:https://polimi365-my.sharepoint.com/:u:/g/personal/10755186_polimi_it/ESK181kMPS5PuggCQFgHR2MBIFs2CeZDDqP_z3z4IdRb7g?e=2Nh1C8
 [function]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EQjmaPxnlBhHkyO2WZMzXw0BCPvnfDRVAUtGSlEr0MEEuw?e=D3vAuc
+[pointers]:https://polimi365-my.sharepoint.com/:p:/g/personal/10755186_polimi_it/EWQLB4AGtkBFngMjQmY-3KoB3BZgDJQ64WgnTaNea_ATSQ?e=L3O2dT
+
 
 
 [book]:https://archive.org/details/TheCProgrammingLanguageFirstEdition
