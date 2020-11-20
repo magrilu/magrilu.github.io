@@ -27,6 +27,7 @@ The basic notions of computer programming (programming language, abstraction tec
 * Functions - [slides][function]
 * Pointers - [slides][pointers]
 * File - [slides][files]
+* Fortran -[slides][fortran]
 
 
 ***
@@ -38,8 +39,6 @@ The basic notions of computer programming (programming language, abstraction tec
 
 ***
 #### Tentative calendar for the AutoCAD laboratory
-* 22 October 2020
-* 12 November 2020
 * 03 December 2020
 * 17 December 2020 (2 hours)
  
@@ -68,7 +67,7 @@ Further information can be retrieved on
 [function]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EQjmaPxnlBhHkyO2WZMzXw0BCPvnfDRVAUtGSlEr0MEEuw?e=D3vAuc
 [pointers]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EeUTmI73dM1ApP_kL3i8QLUB5u4vvyRkQDupugfjsYEq5w?e=YhFGUc
 [files]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ERJjzJwHL3xJu70GAefQf2QBnKzwo4VNHchOibFxQ8h-Gw?e=SvSvc9
-
+[fortran]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Edzrw6P6KGRCnY0KrurgUMgBnEducziaJJXENFf7kcGIYg?e=VFfaAW
 
 [book]:https://archive.org/details/TheCProgrammingLanguageFirstEdition
 [onlineCompiler]:https://repl.it/languages/c
