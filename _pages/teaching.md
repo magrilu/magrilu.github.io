@@ -5,7 +5,11 @@ title: teaching
 description: under construction!
 ---
 
-### courses
+### PhD courses
+
+* 2021 [Geometric Computer Vision: from Images to 3D Models][im23d]  (with F. Arrigoni, Monday, April 12 to Friday, April 16)
+
+### MSc courses
 #### @ Politecnico di Milano
 * 2020-2021 [Computer Science, (055717)][cs2020], Faculty of Civil Engineering
 * 2020-2021 Image Analysis and Computer Vision, teaching assistant (Course by Prof. V. Caglioti)
@@ -27,3 +31,4 @@ description: under construction!
 
 ***
 [cs2020]:/cs2020/
+[im23d]: https://ict.unitn.it/node/873
