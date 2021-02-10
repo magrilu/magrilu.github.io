@@ -6,7 +6,7 @@ description:
 ---
 ### tutorials
 
-* Jan 15,2020, at ICPR; 2020 Multiple parametric model fitting.
+* <i>Jan 15,2020, at ICPR 2020</i>: [Multiple parametric model fitting][mmf].
 
 ### talks
  {% if site.talks  %}
@@ -22,3 +22,4 @@ description:
     
 
 
+[mmf]:https://www.micc.unifi.it/icpr2020/index.php/tutorial6/
