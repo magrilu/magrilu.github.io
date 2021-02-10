@@ -1,10 +1,14 @@
 ---
 layout: page
-title: talks
+title: talks & tutorial
 permalink: /talks/
 description: 
 ---
+### tutorials
 
+* Jan 15,2020, at ICPR; 2020 Multiple parametric model fitting.
+
+### talks
  {% if site.talks  %}
   {% assign talks = site.talks | reverse %}
 {% for talk in talks %}

@@ -34,7 +34,10 @@ The basic notions of computer programming (programming language, abstraction tec
 
 
 #### Exams
-* 2020-02-05 [solutions][exam20210205]
+
+The written exam will last 2 hours during which no books or notes may be consulted, no calculators or cell phones may be used.
+The final grade is given by the sum mark if the written test (if at least 15) and the mark of the AutoCAD project (if at least 2). 
+* 2020-02-05: [exercises on MSform][exam20210205] - [solutions][exam20210205]
 
  
 ***
@@ -77,4 +80,6 @@ Further information can be retrieved on
 [programmingIn10]:http://norvig.com/21-days.html
 
 
-[exam20210205]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EYbg4MfwTsBOqvuWoYPZNs4BepVM0ShaHmtiKXLu8-FvFQ?e=jmgFA1
+
+[exam20210205]:https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6xVxyVTS1YVLhunOL1vNgIxUMzA2N05GOTUzVlZNTEg4M0ZDNkc4MzZKOC4u
+[solution20210205]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EYbg4MfwTsBOqvuWoYPZNs4BepVM0ShaHmtiKXLu8-FvFQ?e=jmgFA1
