@@ -31,18 +31,21 @@ The basic notions of computer programming (programming language, abstraction tec
 
 
 ***
+
+
+#### Exams
+* 2020-02-05 [solutions][exam20210205]
+
+ 
+***
+
 ####  Additional Resources
 
 * The C Programming Language [first edition available at the Internet Archive][book]
 * [C online compiler][onlineCompiler] to play with
 * Peter Norvig, [Teach Yourself Programming in Ten Years][programmingIn10] (Peter Norvig was Director of Research at Google)
 
-***
-#### Tentative calendar for the AutoCAD laboratory
-* 03 December 2020
-* 17 December 2020 (2 hours)
- 
-***
+
 Further information can be retrieved on
 [beep][beep]
 
@@ -72,3 +75,6 @@ Further information can be retrieved on
 [book]:https://archive.org/details/TheCProgrammingLanguageFirstEdition
 [onlineCompiler]:https://repl.it/languages/c
 [programmingIn10]:http://norvig.com/21-days.html
+
+
+[exam20210205]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EYbg4MfwTsBOqvuWoYPZNs4BepVM0ShaHmtiKXLu8-FvFQ?e=jmgFA1
