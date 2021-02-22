@@ -38,7 +38,7 @@ The basic notions of computer programming (programming language, abstraction tec
 The written exam will last 2 hours during which no books or notes may be consulted, no calculators or cell phones may be used.
 The final grade is given by the sum mark if the written test (if at least 15) and the mark of the AutoCAD project (if at least 2). 
 * 2020-02-05: [exercises on MSform][exam20210205] - [solutions][solution20210205]
-[//]: #( * 2020-02-17: [exercises on MSform][exam20210217] - [solutions][solution20210217])
+* 2020-02-17: [exercises on MSform][exam20210217] - [solutions][solution20210217]
  
 ***
 
@@ -84,4 +84,4 @@ Further information can be retrieved on
 [exam20210205]:https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6xVxyVTS1YVLhunOL1vNgIxUMzA2N05GOTUzVlZNTEg4M0ZDNkc4MzZKOC4u
 [solution20210205]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EYbg4MfwTsBOqvuWoYPZNs4B8vppXWnFWVR9jxGt8-UhHg?e=Vqv11z
 [exam20210217]:https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6xVxyVTS1YVLhunOL1vNgIxUOU5GNk1VRk9MVDI3NzdUSU1SMThVTjEwUC4u
-[solution20210217]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZERzKTPC71AslJPuZkOeFkBHTpJpipgKSFbYU-YUUeM_A?e=loKFRe
+[solution20210217]:___https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZERzKTPC71AslJPuZkOeFkBHTpJpipgKSFbYU-YUUeM_A?e=loKFRe
