@@ -38,7 +38,7 @@ The basic notions of computer programming (programming language, abstraction tec
 The written exam will last 2 hours during which no books or notes may be consulted, no calculators or cell phones may be used.
 The final grade is given by the sum mark if the written test (if at least 15) and the mark of the AutoCAD project (if at least 2). 
 * 2020-02-05: [exercises on MSform][exam20210205] - [solutions][solution20210205]
-* 2020-02-17: [exercises on MSform][exam20210217] - [solutions][solution20210217]
+[//]: <> * 2020-02-17: [exercises on MSform][exam20210217] - [solutions][solution20210217]
  
 ***
 
