@@ -26,11 +26,9 @@ Via Ponzio 34/5,<br>
 
 My [research][research]  lies at the intersection of Computer Vision and Pattern Recognition. Specifically, my work is mainly focused on robust fitting and clustering techniques for 3D model acquisition. I'm also interested in Anomaly Detection.
 
-Students interested in [Computer Science course][cs] and in thesis opportunities may have a look at the [teaching page][teaching].
-
 Here a short [biosketch][bio].
 
 [bio]:/bio/
-[research]:/projects/
+[research]:/publications/
 [teaching]:/teaching/
 [cs]:/cs2022/
