@@ -1,83 +1,420 @@
----
----
+@STRING{aaai	= "Proceedings of the National Conference on Artificial
+	Intelligence" }
+@STRING{accv	= "Proceedings of the Asian Conference on Computer Vision" }
+@STRING{ai	= "Artificial Intelligence" }
+@STRING{bmvc	= "British Machine Vision Conference" }
+@STRING{cgip	= "Computer Graphics Image Processing" }
+@STRING{tcsvt   ="IEEE Transactions on Circuits and Systems for Video
+	Technology" }
+@STRING{cvgip	= "Computer Vision, Graphics, and Image Processing" }
+@STRING{cviu	= "Computer Vision and Image Understanding" }
+@STRING{cvpr	= "Proceedings of the IEEE Conference on Computer Vision and
+	Pattern Recognition" }
+@STRING{eccv	= "Proceedings of the European Conference on Computer Vision" }
+@STRING{edim	= "Proceedings of the International Conference on 3D Digital
+	Imaging and Modeling" }
+@STRING{egrw	= "Eurographics Workshop on Rendering" }
+@STRING{ias	= "Intelligent Autonomuos Systems" }
+@STRING{icar	= "Proceedings of the International Conference on Advanced
+	Robotics" }
+@STRING{iros	= "Proceedings of the International Conference on Intelligent Robots and Systems"}
+@STRING{iccv	= "Proceedings of the International Conference on Computer
+	Vision" }
+@STRING{iciap	= "Proceedings of the International Conference on Image
+	Analysis and Processing" }
+@STRING{icip	= "Proceedings of the IEEE International Conference on Image
+	Processing" }
+@STRING{icpr	= "Proceedings of the International Conference on Pattern
+	Recognition" }
+@STRING{ijcai	= "Proceedings of the International Joint Conference on
+	Artificial Intelligence" }
+@STRING{ijcv	= "International Journal of Computer Vision" }
+@STRING{ijrr	= "International Journal of Robotics Research" }
+@STRING{inria	= "INRIA, Institut National de Recherche en Informatique et
+	an Automatique" }
+@STRING{iu	= "CVGIP: Image Understanding" }
+@STRING{ivc	= "Image and Vision Computing" }
+@STRING{josa	= "Journal of the Optical Society of America A" }
+@STRING{jra	= "IEEE Journal of Robotics and Automation" }
+@STRING{jrs	= "Journal of Robotic Systems" }
+@STRING{jvcir	= "Journal of Visual Communication and Image Representation" }
+@STRING{lncs	= "Lecture Notes in Computer Science" }
+@STRING{mva	= "Machine Vision and Applications"}
+@string{NIPS = {Neural Information Processing Systems}}
+@STRING{oceans	= "Proceedings of the OCEANS Conference" }
+@STRING{pami	= "IEEE Transactions on Pattern Analysis and Machine
+	Intelligence" }
+@STRING{pr	= "Pattern Recognition" }
+@STRING{prl	= "Pattern Recognition Letters" }
+@STRING{ra	= "IEEE Transactions on Robotics and Automation" }
+@STRING{ras	= "Robotics and Autonomous Systems" }
+@STRING{icra	= "Proceedings of the IEEE International Conference on
+	Robotics and Automation" }
+@STRING{scia	= "Scandinavian Conference on Image Analysis" }
+@STRING{siggraph= "SIGGRAPH: International Conference on Computer Graphics
+	and Interactive Techniques" }
+@STRING{smc	= "IEEE Transactions on Systems, Man and Cybernetics" }
+@STRING{tip	= "IEEE Transactions on Image Processing" }
+@STRING{tins	= "Trends in Neuroscience" }
+@STRING{tvcg	= "IEEE Transactions on Visualization and Computer Graphics" }
 
-@string{aps = {American Physical Society,}}
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,},
-  preview={brownian-motion.gif}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+@inproceedings{fragneto2012uncalibrated,
+	title={Uncalibrated view synthesis with homography interpolation},
+	author={Fragneto, Pasqualina and Fusiello, Andrea and Rossi, Beatrice and Magri, Luca and Ruffini, Matteo},
+	booktitle={Proceedings of the IEEE Conference on 3D Imaging, Modeling, Processing, Visualization and Transmission},
+	year={2012},
+	 pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EYdgHCCJFhZNpqPR0XcLX7UBExKoWwCYzKYzOvP1ECIk6A?e=QitAR3},
+	url ={https://doi.org/10.1109/3DIMPVT.2012.39}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+
+@inproceedings{2014_cvpr,
+  	abbr={cvpr},
+	title={T-linkage: A continuous relaxation of j-linkage for multi-model fitting},
+	author={Magri, Luca and Fusiello, Andrea},
+	booktitle= cvpr ,
+	year={2014},
+	pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EfJmOnuB3B1GgDrp0oMrTwIBUJpS2vvC3kL02SxJv_1Q0Q?e=RvAi8H},
+	video ={https://polimi365-my.sharepoint.com/:v:/g/personal/10755186_polimi_it/EYxfo3DB2B1Dm9UNvZ0AmwMBACunbrWwMHyIY7oeJ6FGyQ?e=cvabnJ},
+	poster ={https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ed58HYLdKjRIvJThlZ1AGgIBeM-VRzPk5Fpa75xCTOymrQ?e=MF2efn},
+	code = {http://www.diegm.uniud.it/fusiello/demo/jlk/Tlinkage.zip},
+	html = {http://www.diegm.uniud.it/fusiello/demo/jlk/},
+	url= {https://doi.org/10.1109/CVPR.2014.505},
+	note = {(Acceptance rate: {29.9\%})},
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  selected={true}
+
+@inproceedings{2014_3dv,
+	title={Robust absolute rotation estimation via low-rank and sparse matrix decomposition},
+	author={Arrigoni, Federica and Magri, Luca and Rossi, Beatrice and Fragneto, Pasqualina and Fusiello, Andrea},
+	booktitle={Proceedings of the International Conference on  3D Vision },
+	volume={1},
+	year={2014},
+	url= {https://doi.org/10.1109/3DV.2014.48}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@inproceedings{2015_jdfa,
+	title={J-DFA: A Novel Approach for Robust Differential Fault Analysis},
+	author={Magri, Luca and Mella, Silvia and Fragneto, Pasqualina and Melzani, Filippo and Rossi, Beatrice},
+	booktitle={Workshop on Fault Diagnosis and Tolerance in Cryptography},
+	pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EaKTRgsoxv5IhtRxq48ThVoBwGU_-dG2Ydm2TvGgYmMGhQ?e=9PQeiK},
+	doi={10.1109/FDTC.2015.14}, 
+	year={2015},
+	%organization={IEEE}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
+
+@inproceedings{2015_bmvc,
+	title={Robust Multiple Model Fitting with Preference Analysis and Low-rank Approximation},
+	author={Magri, Luca and Fusiello, Andrea},
+	booktitle= bmvc,
+	volume={20},
+	number={1-20},
+	 pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ERxdqx6pG-ZMjb0DgjA5QT4BFKOAfxRprTULn-VQ49yyRg?e=Nkb6Ln},
+	year={2015},
+	url ={https://dx.doi.org/10.5244/C.29.20},
+	poster ={https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ETOwieQ1VHtImnobzC_Ce-wB6x1OPmTP8mM2tCaXn_N5Rw?e=WTKKUX},
+	code = {http://www.diegm.uniud.it/fusiello/demo/rpa/RPA_v02.zip},
+	html = {http://www.diegm.uniud.it/fusiello/demo/rpa/},
+	note = {Acceptance rate: 33\%},
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@inproceedings{2015_caip,
+	title={Scale estimation in multiple models fitting via Consensus Clustering},
+	author={Magri, Luca and Fusiello, Andrea},
+	booktitle={ Proceedings of the International Conference on Computer Analysis of Images and Patterns},
+	 year={2015},
+	 pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ETN0BWtLRHtEoZUwbhSmjAsB1O_AZb8AToYA8tj1_2NM_g?e=yzNoCg},
+	 slides ={https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ESM7c3ccJZpPvwPZmD5PE_kB50yfiRnj7iEYeN2oiDC_TA?e=eWctch},
+	doi = {10.1007/978-3-319-23117-4_2},
+	note = {Oral acceptance rate: 10\%},
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+
+@inproceedings{2015_iciap,
+	title={Fitting Multiple Models via Density Analysis in Tanimoto Space},
+	author={Magri, Luca and Fusiello, Andrea},
+	booktitle= iciap,
+	%pages={73--84},
+	year={2015},
+	pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EaeqbOKVpFJDjimxhP1Nu1oB2YPIHKv6hUzXBzUcfPmadA?e=fLcFpZ},
+	poster = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EVbTrR5uRx9Mmqr-PK8oDVYBAy1lr-6lv03zR0KCZ7M6nA?e=8k0ASN},
+	doi = {10.1007/978-3-319-23231-7_7},
+	%organization={Springer, Cham}
+}
+
+
+@inproceedings{2016_cvpr,
+  	abbr={cvpr},
+	title={Multiple model fitting as a set coverage problem},
+	author={Magri, Luca and Fusiello, Andrea},
+	booktitle= cvpr,
+	doi={10.1109/CVPR.2016.361}, 
+	pages={3318--3326},
+	year={2016},
+	pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Efs_1fnkGpFPtqgFdA3o9MgBQdZy3CPP6hJ6gQb-kOs9wA?e=dbnSgC},
+	poster = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ee7PEY324vNHhgZXXV7oAaMBHsyzKNEghO0N4kOgR5jwyQ?e=gfIVK0},
+	code = {http://www.diegm.uniud.it/fusiello/demo/cov/RansaCov_beta.zip},
+	html = {http://www.diegm.uniud.it/fusiello/demo/cov/},
+	note = {(Acceptance rate: {29.9\%})},
+}
+
+
+@inproceedings{2016_biclutering,
+	title={Multiple structure recovery via probabilistic biclustering},
+	author={Denitto, Matteo and Magri, Luca and Farinelli, Alessandro and Fusiello, Andrea and Bicego, Manuele},
+	booktitle={Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition and Structural and Syntactic Pattern Recognition},
+	%pages={274--284},
+	year={2016},
+	url = {https://doi.org/10.1007/978-3-319-49055-7_25},
+	pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EQXhp-ROmFlFpzcrb5nUI_8B0km_4-mSGMpYQTsPBv6ldQ?e=aKplgT},
+	%organization={Springer International Publishing}
+}
+
+@misc{2016_patent,
+	title={Method for detecting a straight line in a digital image - US Patent 9, 245, 200 - 2016},
+	author={Magri, Luca and Rossi, Beatrice and Tripathi, Subarna and Fragneto, Pasqualina and Piccinelli, Emiliano Mario},
+	html = {https://patents.google.com/patent/US9245200B2/en},
+}
+
+@article{magri2017multiple,
+  title={Multiple structure recovery via robust preference analysis},
+  author={Magri, Luca and Fusiello, Andrea},
+  journal={Image and Vision Computing},
+  volume={67},
+  %pages={1--15},
+  year={2017},
+   pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EYwqpeZ0Q-5NnDgCgJSMh2YBimDzDfmBX7-L0ty_CxoZ9Q?e=2Jng1X},
+  url = {https://doi.org/10.1016/j.imavis.2017.09.005},
+  html = {http://www.diegm.uniud.it/fusiello/demo/rpa/},
+    %note = {(SJR class Q1)},
+  %publisher={Elsevier}
+}
+
+@inproceedings{2017_iciap,
+  title={A Matrix Decomposition Perspective on Calibrated Photometric Stereo},
+  author={Magri, Luca and Toldo, Roberto and Castellani, Umberto and Fusiello, Andrea},
+  booktitle=iciap,
+  %pages={507--517},
+  pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EaT9NxMktZVHmrv_s2lUdT4B2310M3FNcK2AMeeTpGYCpg?e=kJRzN6},
+  poster = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EY7RQR7cle9Opj7o8GufnEEB73ZKMtyLA3WDS09BSr4d-w?e=apPR7G},
+  year={2017},
+  %organization={Springer}
+}
+
+
+@inproceedings{2017_ispr,
+  title={Bending the doming effect in structure from motion reconstructions through bundle adjustment},
+  author={Magri, Luca and Toldo, Roberto},
+  booktitle={The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  volume={42},
+  pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ERYHQnOvpe5LrSPFogGWZgABv465n2m37g8Z9keW0vdbig?e=UK2dSA},
+  poster = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EUvtYIYlU-lDufAGZtcvGZwBgNo0vtxQ0SLIduh6D9Xx_g?e=KEePWB},
+  %pages={235},
+  year={2017},
+  %publisher={Copernicus GmbH}
+}
+
+
+
+@article{2017_jcvi,
+	title = "Multiple structure recovery with T-linkage",
+	author={Magri, Luca and Fusiello, Andrea},
+	journal = "Journal of Visual Communication and Image Representation",
+	volume = "49",
+	%pages = "57 - 77",
+	year = "2017",
+	   pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eb4Ti-nudH9MobEwICGF7kIBGPtOmSJMxhcwGNgRU6_yiQ?e=ZGuqJU},
+	url = "http://dx.doi.org/10.1016/j.jvcir.2017.08.005",
+	html = {http://www.diegm.uniud.it/fusiello/demo/jlk/},
+	%note = {(SJR class Q1) },
+}
+
+@inproceedings{2018_3dv,
+  title={Reconstruction of interior walls from point cloud data with min-hashed J-linkage},
+  author={Magri, Luca and Fusiello, Andrea},
+  booktitle={Proceedins of the International Conference on 3D Vision},
+  %pages={131--139},
+  year={2018},
+  pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ERD0lKPMy7lBsazbKt3mqj0BveVH6jTZ-piKPEW3tYkZpA?e=Otl5d2},
+  doi = {10.1109/3DV.2018.00025},
+  poster = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EbESRD3ck7tGhlChVrumfzsBQpe1DGxQiVwdHeFENFl-dg?e=bMl6Qh},
+  slides = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ER7c-GquGVBBkAlewO_NmgIBVOLqRzATeGLIDtmEIVdhpw?e=sBMRMz},
+  html = {http://www.diegm.uniud.it/fusiello/demo/scan2bim/},
+  code = {http://www.diegm.uniud.it/fusiello/demo/scan2bim/minHashJLinkage_beta.zip},
+  %organization={IEEE}
+}
+
+@article{2018_mva,
+  title={Multiple structure recovery with maximum coverage},
+  author={Magri, Luca and Fusiello, Andrea},
+  journal={Machine Vision and Applications},
+  volume={29},
+  number={1},
+  %pages={159--173},
+  year={2018},
+  pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EegwWCem2KJEu9dWizoIc4kBs-XFl7QesdjSOg_d1rkHhQ?e=4lPOxi},
+  url = {https://doi.org/10.1007/s00138-017-0883-x},
+  %note = {(SJR class Q2)},
+  html = {http://www.diegm.uniud.it/fusiello/demo/cov/},
+  %publisher={Springer}
+}
+
+
+@misc{singh2019method,
+  title={Method for 3D modelling based on structure from motion processing of sparse 2D images},
+  author={Singh, Yash and Toldo, Roberto and Magri Luca and Fantoni, Simone and Fusiello, Andrea},
+  year={2019},
+  month=feb # "~5",
+  publisher={Google Patents},
+  html = {https://patents.google.com/patent/US10198858B2/en},
+  note={US Patent App. 10/198,858}
+}
+
+@article{bertolini2019critical,
+  title={Critical Loci for two views reconstruction as quadratic transformations between images},
+  author={Bertolini, Marina and Magri, Luca and Turrini, Cristina},
+  journal={Journal of Mathematical Imaging and Vision},
+  %pages={1--7},
+  year={2019},
+  pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZmStAeli3dHmivyW9A-GJIBO_hu2T6G252eIDfTaR3itw?e=ecxfMO},
+  url = "https://doi.org/10.1007/s10851-019-00908-w",
+  	%note = {(SJR class Q1)} ,
+  %publisher={Springer}
+}
+
+@inproceedings{2019_ispr,
+  title={Improving Automatic Reconstruction of Interior Walls from Point Cloud Data},
+  author={Maset, E and Magri, L and Fusiello, A},
+  booktitle={International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  volume={42},
+  number={2/W13},
+  pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ETOrkE7K_GBBj_wqwYeVQgkBIazsgDnysU_420wAkNnz_A?e=twpLad},
+  DOI = {10.5194/isprs-archives-XLII-2-W13-849-2019},
+  year={2019}
+}
+
+@inproceedings{2019_cvpr,
+  abbr={cvpr},
+  title={Fitting Multiple Heterogeneous Models by Multi-Class Cascaded T-Linkage},
+  author={Magri, Luca and Fusiello, Andrea},
+  booktitle=cvpr,
+  pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EY0fUkfqp-JCnl6liWPTEwwBaTseDunY7J0jYyY2k-eFeg?e=2jZffo},
+  DOI = {10.1109/CVPR.2019.00764},
+  %pages={7460--7468},
+  year={2019},
+  code = {http://www.dpia.uniud.it/fusiello/demo/mct/MCT_code_beta.zip},
+  html = {http://www.dpia.uniud.it/fusiello/demo/mct/},
+  poster = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eaf8INzIEDJNlikcuYP9sqQB4wa4s1O8aNyk9Rh9mhXoWw?e=O6ENNH},
+  note = {(Acceptance rate: {25.1\%})},
+}
+
+
+@inproceedings{2020_icprFede,
+  title={Motion segmentation with pairwise matches and unknown number of motions},
+  author={Arrigoni, Federica and Padja, Tomas  and Magri, Luca},
+  booktitle={Proceedings of the International Conference on Pattern
+	Recognition},
+  %pages={1--15},
+  year={2020},
+  pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eb5cqRMn3ihAt7_DFpfvDcMBof91dB2II6GJ9kcJrproPA?e=efXcPa},
+  slides = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EUXgwVMs7DZHsoqMdjjJrrkB3-nrxu7lP2qEl4IdPESkqw?e=XTZsi1},
+  %publisher={Elsevier}
+}
+
+@inproceedings{2020_eccv,
+abbr={eccv},
+  author={Arrigoni, Federica   and Magri, Luca and Padja, Tomas},
+title = {On the Usage of the Trifocal Tensor in Motion Segmentation},
+ booktitle={Proceedings of the European Conference on Computer Vision},
+ year={2020},
+ pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EWYMSEtVNxxBiZx1CgU2p9QBb2PQQ1wnCJ0wnvTou5M09Q?e=l0G3yV},
+ code = {https://github.com/federica-arrigoni/ECCV_20},
+ slides = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EXB53XeponRCsyI53HlLpXwBeO913X_mBFSgyJxyrCIHAw?e=cODb2f},
+ url = {https://doi.org/10.1007/978-3-030-58565-5_31},
+ note = {(Acceptance rate: {27.1\%})},
+}
+
+
+
+@inproceedings{leveni2020,
+title = {Pif: anomaly detection via preference analysis},
+author ={Leveni, Filippo and Magri,Luca, and Boracchi, Giacomo and Alippi, Cesare},
+booktitle ={Proceedings of the International Conference on Pattern
+	Recognition.},
+	  pdf ={https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ee-FqdRpobZJgZ5vj7iYWZQBbmKPtZPUDQID1nBBxN2HqA?e=mfr1QN},
+	  year={2020}
+}
+
+
+@article{bertolini2020critical,
+  title={Critical hypersurfaces and instability for reconstruction of scenes in high dimensional projective spaces},
+  author={Bertolini, Marina and Magri, Luca},
+  journal={Machine Graphics \& Vision},
+  pdf ={https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EYOcLhIm-yhCmzvN6fBIj4MBmjkTzMRoifg41xuOJEKdLg?e=OgymWM},
+  volume={29},
+  number={1/4},
+  %pages={3--20},
+  year={2020}
+}
+
+@inproceedings{maset2020,
+	title={Bundle Block Adjustment with Constrained Relative Orientations},
+	author={Maset, Eleonora and Magri, Luca and Toschi, Isabella and Fusiello, Andrea},
+	booktitle={Proceedings of the XXIV ISPRS Congress},
+	%pages={270--277},
+	year={2020},
+	pdf = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZxb8l6u-HdEv2Loxzsa8mUBBPjoqxAfukuoS7tYyH72FQ?e=nGq1BL},
+	DOI = {10.5194/isprs-annals-V-2-2020-49-2020},
+	html = {http://www.diegm.uniud.it/fusiello/demo/oba/},
+	code = {http://www.diegm.uniud.it/fusiello/demo/oba/cro-bba-code.zip},
+	%organization={IEEE}
+}
+
+@inproceedings{magri2021,
+	abbr={cvpr},
+	title={MultiLink: Multi-class Structure Recovery via Agglomerative Clustering  and Model Selection},
+	author={Magri, Luca and Leveni, Filippo and Boracchi, Giacomo},
+	  booktitle=cvpr,
+	  pdf ={https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ETMgwOaSSGtNg7fSp4NjMKcBetHv_Eob2QkOAd166m2Y7A?e=AVboCI},
+	  code = {https://github.com/magrilu/multilink},
+	  slides = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EeOjPRq5CE5Lm4QBkVE_MugBBiEUmXoVkGJsXDFteuiB4Q?e=8Q79xt},
+	 poster = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EbdUFKPEsaRGp__kknUQj3YBbYsHEyyyZ5i7_dW3Ld1vEA?e=gWOAb1},
+	note= {Accepted. Acceptance rate: ~27\%},
+	  year={2021},
+}
+
+@inproceedings{cin2021,
+	abbr={iccv},
+  title={Synchronization of Group-labelled Multi-graphs},
+  author={Cin, Andrea Porfiri Dal and Magri, Luca and Arrigoni, Federica and Fusiello, Andrea and Boracchi, Giacomo},
+   pdf ={https://openaccess.thecvf.com/content/ICCV2021/papers/Dal_Cin_Synchronization_of_Group-Labelled_Multi-Graphs_ICCV_2021_paper.pdf},
+  booktitle=iccv,
+  	 poster = {https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EaBIpJkx9AxKs79s8yKS5egBmmEVXzc7k4un5j4ZlEiXXA?e=3NzHqM},
+	 slides ={https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eepqx3yEjJJIlGnqWMzLwjQBW1lSm5T6TchYRbOwivspZg?e=8sgRI1},
+	 code ={https://github.com/andreadalcin/multisync},
+  pages={6453--6463},
+  year={2021}
+}
+
+@article{rizzo22,
+	title={Known and unknown event detection in OTDR traces by deep learning networks},
+	author ={Maria Rizzo, Antonino  and  Magri, Luca and  Rutigliano, Davide and  Invernizzi, Pietro and  Sozio, Enrico and  Alippi, Cesare and  Binetti,Stefano and  Boracchi,Giacomo },
+	journal = "Neural Computing and Applications",
+	doi = {https://doi.org/10.1007/s00521-022-07634-2},
+	year={2022},
+}
+
+@inproceedings{dalcin2022,
+	title={Multi-body Self-Calibration},
+	author={Porfiri Dal Cin, Andrea and Boracchi, Giacomo and Magri, Luca},
+	  year={2022},
+	
+	booktitle= bmvc,
 }
