@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Luca Magri
+title: about
 permalink: /
 subtitle: Researcher (RTD-b)
 
