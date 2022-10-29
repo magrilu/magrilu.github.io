@@ -4,9 +4,14 @@
 
 // Typography
 
-p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
+//p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
+p, em, div, li, span, strong {
   color: var(--global-text-color);
-  font-family: 'Source Serif Pro', serif, 'Source Sans Pro', sans-serif;
+  font-family: 'Source Serif Pro', serif;
+
+h1, h2, h3, h4 {
+  color: var(--global-theme-color);
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 hr {
