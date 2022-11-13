@@ -16,3 +16,15 @@ Tutto il materiale è disponibile in questa [cartella condivisa](https://polimi3
 * [Quanto sei alto?](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EZfml_Gjfb9Nuoyc-V7kR-4BQCmHDGBNLnA6sDMleKSAXw?e=haPusH)
 * [Accetta valori](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EQYyn3jtrs9ElpKsDkqnuoIBbdxhfopIw9EVh7LmPPrvqA?e=0qUXCX)
 * [Triangoli](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EdSlCXL3fGdOm-lV5XBqH7IBxzBmzRkTpKRV2U_3QBZJEw?e=JKHVoa)
+
+
+# Lab 2 - [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10453617_polimi_it/EXK9_B7So31Kvkj5Y59LAHkBsV5o9HNmGaPIfYVYAgqO3A?e=WJrd8n) 
+
+* [Interesse](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/Ef3JdAMN7jpLrHlOZQq6RZIBLzoYbf9A3NU5nzMqcRqhNQ?e=twgFFW)
+* [Somma e prodotto](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/ESmfHwiEq61FiLtnutOZ_HoB3NcC5WMvuNqxL6qejTadIg?e=kKeBvS)
+* [Gare di tuffi](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EeRxvdPH4HpMkSA00g-ZT-EBN6349MmrELoGkrFuJJZEGw?e=fX8g5c)
+* [Sequenze numeriche](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/Ee5SkAYpCWJJmIo6s7C2J9UBYNkryYrGE_vwebiyVNuH9Q?e=jRazeu)
+* [Sotto sequenza ordinata](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EY66KbnantJEvgr6coJPNIQB2wa4_D1tO5G_biaw7RG73g?e=pRLkoG)
+* [Fusione di due vettori](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EWzIktJw021Cvy48kjpFiEYBCErdwSV2Xqx-4fvlqpvdbw?e=9oMvqw)
+* [Occorrenze](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EVvk_A4Gi7hAmvuwzeiUwkIBwXL-_qnFjplRQsLTXDx75w?e=vIcGlg)
+* [Crivello di Eratostene](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/ETMPZKSG-mNNtUI_wJ7b11gB2IDt2MHMeBVC2htki6a_lA?e=gExgdT)
