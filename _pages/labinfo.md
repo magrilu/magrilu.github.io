@@ -27,4 +27,13 @@ Tutto il materiale è disponibile in questa [cartella condivisa](https://polimi3
 * [Sotto sequenza ordinata](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EY66KbnantJEvgr6coJPNIQB2wa4_D1tO5G_biaw7RG73g?e=pRLkoG)
 * [Fusione di due vettori](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EWzIktJw021Cvy48kjpFiEYBCErdwSV2Xqx-4fvlqpvdbw?e=9oMvqw)
 * [Occorrenze](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EVvk_A4Gi7hAmvuwzeiUwkIBwXL-_qnFjplRQsLTXDx75w?e=vIcGlg)
-* [Crivello di Eratostene](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/ETMPZKSG-mNNtUI_wJ7b11gB2IDt2MHMeBVC2htki6a_lA?e=gExgdT)
+* [Crivello di Eratostene](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/ETMPZKSG-mNNtUI_wJ7b11gB2IDt2MHMeBVC2htki6a_lA?e=gExgdT) 
+
+# Lab 3 - [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10453617_polimi_it/ES_0Gyr_7mZNr26PNgtWGW8BL4xHT6td7wMiRwoRK6-X9w?e=CEL0eG)
+
+* [Copia stringa](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EXfNcFTgzuJPjUbXSrULRRUBbGBy4FuvoBWSM5RLkHkXDA?e=gIB6hH)
+* [Parentesi](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EeStLC9YvdhDs6SuzZLMuaYBA4k289Ygg4pwfh0LCKtauQ?e=UmpAm0)
+* [Palindorme](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EeezNzDIT4VLtnQRKxROQwQB5ctcVBtab08biUYHNIDhFA?e=dlCeD2)
+* [Gioco dell'impiccato](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EbsemvVU4xNOgUeXzNfkLqgBRQRffJkbi84s8CMm_zcP1w?e=25qVkQ)
+* [Diagonali](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EeB0PRPzlPBFn3-CLUyTuLMB7Lo_SqJeAURe7HrZ2ptYNw?e=28INf7)
+* [Spirale](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EWGaz-W1PFJOvz1kaMF6xhwBZDM1TnhERU6JgLRI5CUfig?e=vZWybR)

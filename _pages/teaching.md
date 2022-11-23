@@ -11,6 +11,6 @@ children:
       permalink: /cs2022/
     - title: Lab InfoA
       permalink: /labinfo/
-    - title: Other Courses
+    - title: All courses
       permalink: /courses/
 ---
