@@ -42,7 +42,7 @@ Practical sessions are provided by Dr. Diego Stucchi.
 
 ### AutoCAD Lab 
 
-Dates (to be confirmed): 
+Dates: 
 * 20/10/2022
 * 27/10/2022
 * 03/11/2022
@@ -50,7 +50,7 @@ Dates (to be confirmed):
 * 18/11/202
 
 
-> **IMPORTANT:**  The deadline  for the submission of the AutoCAD project will be in January 2023. Please note that <mark>this will be the <b>only</b> deadline</mark>: projects turned it after the deadline will be ignored. The mark of the project (if at least 2), will be valid for the whole year. 
+> **IMPORTANT:**  The deadline  for the submission of the AutoCAD project is <b>monday 9th January 2023</b>. Please note that <mark>this will be the <b>only</b> deadline</mark>: projects turned in after the deadline will be ignored. The mark of the project (if at least 2), will be valid for the whole year. 
 The grades of the AutoCAD projects of the previous a.y. 2020/2021 and 2021/2022 are still valid.
 
 
