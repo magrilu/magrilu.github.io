@@ -37,3 +37,14 @@ Tutto il materiale è disponibile in questa [cartella condivisa](https://polimi3
 * [Gioco dell'impiccato](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EbsemvVU4xNOgUeXzNfkLqgBRQRffJkbi84s8CMm_zcP1w?e=25qVkQ)
 * [Diagonali](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EeB0PRPzlPBFn3-CLUyTuLMB7Lo_SqJeAURe7HrZ2ptYNw?e=28INf7)
 * [Spirale](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EWGaz-W1PFJOvz1kaMF6xhwBZDM1TnhERU6JgLRI5CUfig?e=vZWybR)
+
+
+# Lab 4 [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10453617_polimi_it/EYN3fkb2jGJGmTFuU1xJaMsB4KzgtOXjlnn-KOiHwU8t5Q?e=YNmH7H)
+
+*[Fattoriale e esponenziale](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/ESCFsT_avZNCqkuvqKAmS3UBVPeBOaq4TbzHXrl1JDYHIQ?e=tNuSTa)
+*[Codifica stringa](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/ET9ZnmVQltxMjUU7iZQw5GEBL_X6cTHr85hjRSM9l5Sztg?e=eQsHl2)
+*[Inversione array](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EcIsWUORxYpDqIxjSDUr8QEBPyEXHOsxqppMgezZG3RBQA?e=LAEYyp)
+*[Ordinamento](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EU5rxQZmYvNOjW_Oc22BFtABxjyeWomWkkbI0b5cBZo-KQ?e=S0vcev)
+*[Cerca](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EQsI59Mfb0xGlXjtTkjl2UgBFlSDMeAD0ySjXn8SxPBuUA?e=52gDsH)
+*[Caratteri in comune](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EXZlZFjHexdGorVrtlw6wQkB0sPJw6thVcyKQ-VWN78U7Q?e=cueufD)
+*[Tris](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EV9hLmta6LlChtsqv5kOCZIBH0UzZvhSFfA73ycCKSQQnQ?e=PiClCd)
