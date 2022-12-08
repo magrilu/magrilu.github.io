@@ -48,3 +48,13 @@ Tutto il materiale è disponibile in questa [cartella condivisa](https://polimi3
 * [Cerca](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EQsI59Mfb0xGlXjtTkjl2UgBFlSDMeAD0ySjXn8SxPBuUA?e=52gDsH)
 * [Caratteri in comune](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EXZlZFjHexdGorVrtlw6wQkB0sPJw6thVcyKQ-VWN78U7Q?e=cueufD)
 * [Tris](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EV9hLmta6LlChtsqv5kOCZIBH0UzZvhSFfA73ycCKSQQnQ?e=PiClCd)
+
+
+# Lab 5 [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10453617_polimi_it/EQqyva77aJxKttko175UH6UBVnRmtF83WU2J-67ue8jFEQ?e=408td3)
+
+* [Triangoli](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EUd3RFrNNVxFgfbqtvhoyZkBrQyh4ckcPboGxC04oXvjgg?e=95yDJ8)
+* [Rubrica](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EUfFbfty6iZCodfSq7wdnb4BUlLrWIAfx26oMG3NQ95f7g?e=9DaQvk)
+* [Vini](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EUZvg5NKFdxLjIZXjmTAcDMBC-DR0rlhkkpcF4UnIfHRWw?e=E1KuRm)
+* [Altezze](https://polimi365-my.sharepoint.com/:u:/g/personal/10453617_polimi_it/EQxYPXYqyb9FsQdz_5BD3IEBwhShb5haTf9WNVsQ9kuBXw?e=tEhjAe)
+
+All the source files are available [here](https://polimi365-my.sharepoint.com/:f:/g/personal/10453617_polimi_it/EjZIae1lOCVEv0UXu9aGYKkBWUsKM7jMVwHCC5t5fhRkWg?e=IZEkTQ).
