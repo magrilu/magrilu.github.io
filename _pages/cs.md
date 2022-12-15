@@ -31,6 +31,9 @@ The basic notions of computer programming (programming language, abstraction tec
 * [Code snippets](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/Eufq1E1hYOREmq39shMoZakBZAuVRRiPsjkGN91FE1bNJw?e=XBCR3g)
 * [Exercise Sessions](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/Eu1YSyED7J5MsmMTyXa8WW8BdG0W1WfqlcrSkBE1O7NL7Q?e=PaSMAC)
 * Homeworks: [Assignements](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EqNZfkKNjaBEp4qYLHmizR0BvwAZEsXcLMJYyhl8vslj6w?e=afEADe) & [Solutions](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EsmF1DVi3qVPmHSslMncNiABwHhj5DnPAD887vDUofbPTA?e=mk9EYn)
+* [An incomplete list to check your preparation](https://docs.google.com/document/d/1IGm8rZXVTdxsjXNxhyApiEnXeCJJqnJj4EBAIzTrGFE/edit?usp=sharing)
+* [An incomplete Cheatsheet](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EXF4GsQN9odHjEm6teH-EpQBD02r3hRQXl7hj9bVr1obLw?e=bNKIKv) (you can *not* use it during the exam, it is only meant to help you when you do the exercises at home)
+
 
 ***
 
@@ -40,15 +43,11 @@ Practical sessions are provided by Dr. Diego Stucchi.
 
 ***
 
-### AutoCAD Lab 
+### Tutoring 
 
-Dates: 
-* 20/10/2022
-* 27/10/2022
-* 03/11/2022
-* 10/11/2022
-* 18/11/202
-
+Tutoring sessions are provided by Michele Craighero during January and February 2023.
+Partecipation is not mandatory but it is higly reccomended.
+Dates will be defined soon!
 
 > **IMPORTANT:**  The deadline  for the submission of the AutoCAD project is <b>monday 9th January 2023</b>. Please note that <mark>this will be the <b>only</b> deadline</mark>: projects turned in after the deadline will be ignored. The mark of the project (if at least 2), will be valid for the whole year. 
 The grades of the AutoCAD projects of the previous a.y. 2020/2021 and 2021/2022 are still valid.
