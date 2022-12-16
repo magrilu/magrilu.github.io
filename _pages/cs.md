@@ -81,7 +81,7 @@ if(scoreAutoCad >=2 && scoreWrittenTest>=15){
 
 ### Mock exams
 
-* 2022-12-16: [exercises](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EfrM8Y6uzEFDgwU5pd7tlusBLGtEQoQtJcQB2oK_yolfRw?e=xVyfhz)
+* 2022-12-16: [exercises](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EUipfHP6hUVJpCAH1oGqPZABMDRG0PuvNOPFraIc456L0w?e=JXC0xs)
 
 ### <a name="previousexams">Previous exams</a>
 
