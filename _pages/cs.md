@@ -23,6 +23,10 @@ The basic notions of computer programming (programming language, abstraction tec
 
 <iframe src="https://calendar.google.com/calendar/embed?height=250&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FRome&showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&hl=en&mode=AGENDA&src=cXJ0am40b25jNDY1bzI4ZTdyYWxzdTBrcnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA" style="border-width:0" width="800" height="250" frameborder="0" scrolling="no"></iframe>
 
+> **IMPORTANT:**  The deadline  for the submission of the AutoCAD project is <b>monday 9th January 2023</b>. Please note that <mark>this will be the <b>only</b> deadline</mark>: projects turned in after the deadline will be ignored. The mark of the project (if at least 2), will be valid for the whole year. 
+The grades of the AutoCAD projects of the previous a.y. 2020/2021 and 2021/2022 are still valid.
+
+
 ***
 
 ### Material
@@ -49,9 +53,6 @@ Tutoring sessions are provided by Michele Craighero during January and February 
 Partecipation is not mandatory but it is higly reccomended.
 Dates will be defined soon!
 
-> **IMPORTANT:**  The deadline  for the submission of the AutoCAD project is <b>monday 9th January 2023</b>. Please note that <mark>this will be the <b>only</b> deadline</mark>: projects turned in after the deadline will be ignored. The mark of the project (if at least 2), will be valid for the whole year. 
-The grades of the AutoCAD projects of the previous a.y. 2020/2021 and 2021/2022 are still valid.
-
 
 ***
 
@@ -77,6 +78,10 @@ if(scoreAutoCad >=2 && scoreWrittenTest>=15){
 {% endhighlight %}
 
 ***
+
+### Mock exams
+
+* 2022-12-16: [exercises](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EfrM8Y6uzEFDgwU5pd7tlusBLGtEQoQtJcQB2oK_yolfRw?e=Vnblq3)
 
 ### <a name="previousexams">Previous exams</a>
 
