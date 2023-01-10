@@ -50,8 +50,12 @@ Practical sessions are provided by Dr. Diego Stucchi.
 ### Tutoring 
 
 Tutoring sessions are provided by Michele Craighero during January and February 2023.
-Partecipation is not mandatory but it is higly reccomended.
-Dates will be defined soon!
+Partecipation is not mandatory but it is *higly* reccomended.
+Tutoring session will delivered both in presence and on-line: [Webex room]( https://politecnicomilano.webex.com/meet/michele.craighero)
+
+* 13th January 14:30-17:00
+* 17th January 14:30-17:00
+* 25th January 14:30-17:00
 
 
 ***
