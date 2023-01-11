@@ -53,6 +53,8 @@ Tutoring sessions are provided by Michele Craighero during January and February 
 Partecipation is not mandatory but it is *higly* reccomended.
 Tutoring session will delivered both in *presence* and on-line: [Webex room]( https://politecnicomilano.webex.com/meet/michele.craighero)
 
+Please use [www.tutorapp.polimi.it](www.tutorapp.polimi.it) to register your presence.
+
 * 13th January 14:30-17:00 - classroom 26.04
 * 17th January 14:30-17:00 - classroom 3.1.9
 * 25th January 14:30-17:00
