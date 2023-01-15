@@ -54,6 +54,8 @@ Partecipation is not mandatory but it is *higly* reccomended.
 Tutoring session will delivered both in *presence* and on-line: [Webex room]( https://politecnicomilano.webex.com/meet/michele.craighero)
 
 Please use [www.tutorapp.polimi.it](www.tutorapp.polimi.it) to register your presence.
+Material is available [here](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/Eoh-rER2vzVHildA09qUdh8BK3F1WyUn4kNE-t2UXowS6g?e=0vJ8Ef).
+
 
 * 13th January 14:30-17:00 - classroom 26.04
 * 17th January 14:30-17:00 - classroom 3.1.9
