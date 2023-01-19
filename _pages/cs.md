@@ -7,7 +7,7 @@ title: Computer Science
 Border="0"  width="200" height="auto">
 #####   Civil Engineering, Politecnico di Milano, 2022/2023
 
- The course is aimed at first-year civil engineering students that are introduced to the fundamental concepts of Computer Science (algorithms, programs, general structure of computers and computer systems).  
+The course is aimed at first-year civil engineering students that are introduced to the fundamental concepts of Computer Science (algorithms, programs, general structure of computers and computer systems).  
 The basic notions of computer programming (programming language, abstraction techniques, fundamental data types and control structures, sub-programs) are presented taking into account mainly the C language with an emphasis on both conceptual and practical aspects.
 
 
