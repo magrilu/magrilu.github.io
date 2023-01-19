@@ -59,7 +59,10 @@ Material is available [here](https://polimi365-my.sharepoint.com/:f:/g/personal/
 
 * 13th January 14:30-17:00 - classroom 26.04
 * 17th January 14:30-17:00 - classroom 3.1.9
-* 25th January 14:30-17:00
+* 26th January 14:30-17:00 - classroom 3.1.5  
+* 30th January 14:30-17:00 - classroom 3.1.3
+* 08th February 14:30-17:00 - classroom 3.1.8  
+* 13th February 14:30-17:00 - classroom 3.1.4 
 
 
 ***
@@ -93,6 +96,7 @@ if(scoreAutoCad >=2 && scoreWrittenTest>=15){
 
 ### <a name="previousexams">Previous exams</a>
 
+* 2023-01-19: [exercises with solutions](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ERRjpjcmBNFPu7yFk6ARSMEBOqWIB_BYnfntsq6MUXbd8Q?e=MLzn0Y)
 * 2022-07-19: [exercises with solutions](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ERVKdPdGOmhGrkbgwhftp6oBfdyFlpj6IRRQdCFx4I08BA?e=TJydNZ)
 * 2022-02-17: [exercises with solutions](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EVhgTeWYVsFKhH8TcsIj1SYBF9psdl__4SI7AIPc2Q3aXA?e=uaGnfD)
 * 2022-02-04: [exercises with solutions](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EftodYBU0JJBhr9AXvdLsD4BgaA1mdr0xynhy1JYYI3TfQ?e=dL87CN)
