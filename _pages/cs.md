@@ -96,6 +96,7 @@ if(scoreAutoCad >=2 && scoreWrittenTest>=15){
 
 ### <a name="previousexams">Previous exams</a>
 
+* 2023-02-16: [exercises with solutions](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EYM69I_34NhOly0kJ_ruUSwBveBuGN7SNr_7vbRVn159BA?e=ZJa3uq)
 * 2023-02-03: [exercises with solutions](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ESWha6hyVmhNnn1At_TIOkkBhc72qx2LHS0ZngV1yjyzmg?e=bGUQNf)
 * 2023-01-19: [exercises with solutions](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ERRjpjcmBNFPu7yFk6ARSMEBOqWIB_BYnfntsq6MUXbd8Q?e=MLzn0Y)
 * 2022-07-19: [exercises with solutions](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ERVKdPdGOmhGrkbgwhftp6oBfdyFlpj6IRRQdCFx4I08BA?e=TJydNZ)
