@@ -19,7 +19,12 @@ and Pattern Recognition
 Please see [thesis opportunities][thesisProposal] for updated thesis proposals.
 
 #### Thesis supervised 
-* Giuseppe Bertolini, _Towards a practical, fully automated joint calibration pipeline for X-Ray-RGB medical imaging systems_, MSc in Computer Science and Engineering. April 2022. PoliMi.
+* Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._  MSc in Computer Science and Engineering. October 2023, PoliMi.
+* Leonardo Perelli, _Trifocal Tensor Estimation for n-view Deep Structure-from-Motion._ MSc  in Mathematical Engineering. October 2022, PoliMi.
+* Lucia Gioria, _Improving Explainable Clustering via Probabilistic Modeling._ MSc  in Mathematical Engineering. October 2022, PoliMi.
+* Valentina Sgarbossa, _Visual Localization in presence of match scarcity._ MSc  in Mathematical Engineering. October 2022, PoliMi.
+* Danilo Catone, _Anomaly detection via learned models and preference analysis._  MSc in Computer Science and Engineering. October 2022, PoliMi.
+* Giuseppe Bertolini, _Towards a practical, fully automated joint calibration pipeline for X-Ray-RGB medical imaging systems._ MSc in Computer Science and Engineering. April 2022. PoliMi.
 * Filippo Galli, _Camera Pose Estimation for planar configurations._ MSc in GeoInformatics. April 2022. PoliMi.
 * Enrico Ruggiano, _Detezione di Linee in Immagini Distorte tramite Analisi delle Preferenze_, MSc in Computer Science and Engineering. April 2022. PoliMi.
 * Diana Isaeva, _Robust homography estimation for image matching._ MSc in Mathematical Engineering. December 2021, PoliMi.
