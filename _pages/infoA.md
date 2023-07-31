@@ -21,7 +21,9 @@ TBD
 
 ### Calendario
 
-<iframe src="https://calendar.google.com/calendar/embed?height=250&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FRome&showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&hl=en&mode=AGENDA&src=cXJ0am40b25jNDY1bzI4ZTdyYWxzdTBrcnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA" style="border-width:0" width="800" height="250" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=e309ce1d766fb4d718b79436264421b1c3dd5ec884673e920ed231cb379f9ac3%40group.calendar.google.com&ctz=Europe%2FRome" style="border: 0" width="800" height="250" frameborder="0" scrolling="no"></iframe>
+
 
 ***
 
