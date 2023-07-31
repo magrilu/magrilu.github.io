@@ -9,12 +9,12 @@ Lecture slides in Geometric Computer Vision [available here][GCVslides].
 
 #### A.Y. 2023-2024
 
-* Informatica A (Ingegneria Gestionale)
-* Image Analysis and Computer Vision
+* [Informatica A]([infoa]) (Ingegneria Gestionale)
+* [Image Analysis and Computer Vision](iacv)
 * Deep learning for Computer Vision
 * 3D Structure from Visual Motion (PhD course)
 
-A full list of all past courses is provided below. 
+A full list of all past courses is provided below
 
 ## All Courses
 
@@ -37,7 +37,7 @@ A full list of all past courses is provided below.
 * 2020-2021 Image Analysis and Computer Vision, teaching assistant (course by Prof. V. Caglioti)
 
 #### MSc @ Bocconi
-*2023-2024 Deep learning for Computer Vision
+* 2023-2024 Deep learning for Computer Vision
 
 #### Undergrad @ Università degli Studi di Milano
 * 2017-2018 Introductory course in Mathematics for first year student, Faculty of Mathematics
@@ -50,6 +50,7 @@ A full list of all past courses is provided below.
 
 
 ***
+[infoa]:/infoa/
 [labinfo]:/labinfo/
 [cs]:/cs2022/
 [iacv]:https://boracchi.faculty.polimi.it/teaching/IACV.htm
