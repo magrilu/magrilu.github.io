@@ -5,16 +5,28 @@ title: Courses
 description:
 ---
 
+Lecture slides in Geometric Computer Vision [available here][GCVslides]. 
 
-### PhD Courses in Geometric Computer Vision
-Lecture slides are  [available here][GCVslides]. 
+#### A.Y. 2023-2024
 
+* Informatica A (Ingegneria Gestionale)
+* Image Analysis and Computer Vision
+* Deep learning for Computer Vision
+* 3D Structure from Visual Motion (PhD course)
+
+A full list of all past courses is provided below. 
+
+## All Courses
+
+#### PhD Courses in Computer Vision
+
+* 2023 3D Structure from Visual Motion: Structure from Motion, Visual Odometry, and Visual Simultaneous Localization and Mapping
 * 2022 Geometric Computer Vision: from Images to 3D Models with F. Arrigoni (15h, 1.5 ECTS) Doctoral Program in Information and Communication Technology, DDepartment of Computer Control and Management Engineering, Università Sapienza di Roma.<br>
-
 * 2021 [Geometric Computer Vision: from Images to 3D Models][im23d] with F. Arrigoni (20h, 3CFU) Doctoral Program in Information Engineering and Computer Science, Department of Information Engineering and Computer Science, University of Trento.<br>
 
 
-### MSc  @ Politecnico di Milano
+#### MSc  @ Politecnico di Milano
+* 2023-2024 Informatica A, Faculty of Managment Engeneering
 * 2022-2023 [Computer Science][cs], Faculty of Civil Engineering
 * 2022-2023 [Image Analysis and Computer Vision][iacv], teaching assistant (course by Prof. V. Caglioti)
 * 2022-2023 [Laboratorio di Informatica A][labinfo], teaching assistant (course by Prof. F. Arrigoni), Faculty of Managment Engineering
@@ -24,7 +36,10 @@ Lecture slides are  [available here][GCVslides].
 * 2020-2021 Computer Science, Faculty of Civil Engineering
 * 2020-2021 Image Analysis and Computer Vision, teaching assistant (course by Prof. V. Caglioti)
 
-### Undergrad @ Università degli Studi di Milano
+#### MSc @ Bocconi
+*2023-2024 Deep learning for Computer Vision
+
+#### Undergrad @ Università degli Studi di Milano
 * 2017-2018 Introductory course in Mathematics for first year student, Faculty of Mathematics
 * 2014-2015 Geometry 1, teaching assistant, Faculty of Phisics (course by Prof. C. Turrini) 
 * 2013-2014 Mathematics and Statistics, teaching assistant, Faculty of Agricultural and Food Sciences (course by Prof. E. Pacifici)
