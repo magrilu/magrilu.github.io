@@ -7,10 +7,17 @@ title: Informatica A
 Border="0"  width="200" height="auto">
 #####   Ingegneria Gestionale, Politecnico di Milano, 2023/2024
 
-<details>
-  <summary> Ma perché degli aspiranti ingegneri gestionali dovrebbero studiare informatica? :point_right::point_left: </summary>
-> Per imparare a...
+*** 
 
+*  Informazioni utili
+* Tutto il materiale del corso (slide delle lezioni, codici, esercitazioni e laboratori) verrà pubblicato in [questa cartella condivisa](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EgjfFrnKl7pOv1bmhrscOkgBpJcrYKu0yCrjEfnlXevivw?e=dlA5JO)
+* [Setup dell'ambiente di sviluppo](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EWIYiT78wgFDujmby9coK-IBuN9afHqLVpiF4OQBrjrUHw?e=fNFich) è fondamentale che abbiate sul vostro computer un ambiente di sviluppo funzionante il prima possibile. Seguite la guida per iniziare a programmare.
+* [FAQ](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EfUIuYh-QpJLhhDjDkA4HV8BJO2nUN5pcVSs968xa5Xzhw?e=AUJJGw) 
+
+<details>
+  <summary> Ma perché degli aspiranti ingegneri gestionali dovrebbero studiare informatica? </summary>
+
+> Per imparare a...
 > * **analizzare e risolvere i problemi**: nel vostro lavoro di ingegneri gestionali, dove dovrete affrontare scenari decisionali complessi che richiedono creatività e precisione. L'informatica insegna a pensare in modo logico e ad aggredire problemi difficili scomponendoli  in fasi più piccole e gestibili.
 > * **ottimizzare**: non basta risolvere un problema, un ingegnere gestionale deve assicurarsi che la soluzione trovata sia la migliore possibile. Una mente algoritmica è in grado di snellire le operazioni, ridurre i costi e migliorare l'efficienza complessiva di qualsiasi processo, dalla gestione della catena di approvvigionamento di un magazzino alla pianificazione delle attività di un'azienda.
 > * **automatizzare**: l'informatica insegna la pigrizia... saper individuare le opportunità di automazione all'interno di un'organizzazione, non solo aumenta la produttività, ma anche le possibilità di concentrarsi su altre attività più strategiche e innovative.
@@ -18,12 +25,6 @@ Border="0"  width="200" height="auto">
 > * **stare al passo**: le tecnologie emergenti stanno ridisegnando completamente il mondo del lavoro. La familiarità con l'informatica vi aiuterà a cogliere il potenziale di queste tecnologie e a sfruttarle per essere all'avanguardia.
 
 </details>
-*** 
-
-*  Info
-* [FAQ](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EfUIuYh-QpJLhhDjDkA4HV8BJO2nUN5pcVSs968xa5Xzhw?e=AUJJGw) 
-* How to [Setup dell'IDE](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EWIYiT78wgFDujmby9coK-IBuN9afHqLVpiF4OQBrjrUHw?e=fNFich)
-* [Lecture recording]()
 
 ***
 
@@ -34,10 +35,8 @@ Border="0"  width="200" height="auto">
 
 ***
 
-### Materiali
 
-* [Una lista (incompleta) per verificare la vostra preparazione](https://docs.google.com/document/d/1IGm8rZXVTdxsjXNxhyApiEnXeCJJqnJj4EBAIzTrGFE/edit?usp=sharing)
-* [An incomplete Cheatsheet](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EXF4GsQN9odHjEm6teH-EpQBD02r3hRQXl7hj9bVr1obLw?e=bNKIKv) (you can *not* use it during the exam, it is only meant to help you when you do the exercises at home)
+
 
 ***
 
