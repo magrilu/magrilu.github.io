@@ -8,8 +8,8 @@ Border="0"  width="200" height="auto">
 #####   Ingegneria Gestionale, Politecnico di Milano, 2023/2024
 
 <details>
-  <summary> *Ma perché degli aspiranti ingegneri gestionali dovrebbero studiare informatica?* :point_right: :point_left: </summary>
-  
+  <summary> Ma perché degli aspiranti ingegneri gestionali dovrebbero studiare informatica? :point_right::point_left: </summary>
+
 * **Per analizzare e risolvere i problemi**: nel vostro lavoro di ingegneri gestionali, dove dovrete affrontare scenari decisionali complessi che richiedono creatività e precisione. L'informatica insegna a pensare in modo logico e ad aggredire problemi difficili scomponendoli  in fasi più piccole e gestibili.
 * **Per ottimizzare**: non basta risolvere un problema, un ingegnere gestionale deve assicurarsi che la soluzione trovata sia la migliore possibile. Una mente algoritmica è in grado di snellire le operazioni, ridurre i costi e migliorare l'efficienza complessiva di qualsiasi processo, dalla gestione della catena di approvvigionamento di un magazzino alla pianificazione delle attività di un'azienda.
 * **Per automatizzare**: l'informatica insegna la pigrizia... saper individuare le opportunità di automazione all'interno di un'organizzazione, non solo aumenta la produttività, ma anche le possibilità di concentrarsi su altre attività più strategiche e innovative.
