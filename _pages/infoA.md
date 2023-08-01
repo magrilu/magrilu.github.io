@@ -15,22 +15,23 @@ Border="0"  width="200" height="auto">
 * [FAQ](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EfUIuYh-QpJLhhDjDkA4HV8BJO2nUN5pcVSs968xa5Xzhw?e=AUJJGw) 
 
 > *Ma perché degli aspiranti ingegneri gestionali devono studiare informatica?*
-Per imparare a...
+
+Ad esempio, per imparare a...
 <details>
 <summary>analizzare e risolvere i problemi:</summary>
 nel vostro lavoro di ingegneri gestionali, dove dovrete affrontare scenari decisionali complessi che richiedono creatività e precisione. L'informatica insegna a pensare in modo logico e ad aggredire problemi difficili scomponendoli  in fasi più piccole e gestibili.
 </details>
 <details>
-<summary>ottimizzare:</summary>
+<summary>ottimizzare le soluzioni:</summary>
 non basta risolvere un problema, un ingegnere gestionale deve assicurarsi che la soluzione trovata sia la migliore possibile. Una mente algoritmica è in grado di snellire le operazioni, ridurre i costi e migliorare l'efficienza complessiva di qualsiasi processo, dalla gestione della catena di approvvigionamento di un magazzino alla pianificazione delle attività di un'azienda.
 </details>
 <details>
-<summary>automatizzare:</summary>
+<summary>automatizzare i processi:</summary>
 l'informatica insegna la pigrizia... saper individuare le opportunità di automazione all'interno di un'organizzazione, non solo aumenta la produttività, ma anche le possibilità di concentrarsi su altre attività più strategiche e innovative. 
 </details>
 <details>
-<summary>collaborare:</summary>
-lavorerete spesso con professionisti di altri settori, tecnici e sviluppatori di software. Veramente volete pagare 5k o aspettare un mese, perchè un consulente scriva un semplice ciclo for?
+<summary>collaborare consapevolemente:</summary>
+lavorerete spesso con professionisti di altri settori, tecnici e sviluppatori di software. Veramente volete pagare 5k, perchè un consulente scriva un semplice ciclo for?
 </details>
 <details>
 <summary>stare al passo:</summary>
