@@ -7,9 +7,17 @@ title: Informatica A
 Border="0"  width="200" height="auto">
 #####   Ingegneria Gestionale, Politecnico di Milano, 2023/2024
 
-
-TBD
-
+<details>
+  <summary>Perché degli aspiranti ingegneri gestionali dovrebbero studiare informatica?</summary>
+  
+    * Analizzare e risolvere i problemi: l'informatica insegna a pensare in modo logico e a scomporre problemi complessi in fasi più piccole e gestibili. Queste capacità di problem solving saranno preziose nel vostro lavoro di ingegneri gestionali, dove dovrete affrontare scenari decisionali complessi che richiedono precisione e pensiero critico.
+    * Ottimizzazione ed efficienza: Gli algoritmi svolgono un ruolo cruciale nell'ottimizzazione dei processi, dalla gestione della catena di approvvigionamento alla pianificazione delle attività. Una mente algoritmica è in grado di snellire le operazioni, ridurre i costi e migliorare l'efficienza complessiva in vari aspetti della gestione aziendale e ingegneristica.
+    * Trasformare i dati in informazione: avrete spesso a che fare con grandi moli di dati, sia che si tratti di analisi finanziarie, di allocazione delle risorse o di metriche di performance. La conoscenza dell'informatica vi consentirà di elaborare e interpretare questi dati in modo efficace, portando a decisioni informate basate su solide analisi fattuali.
+    * Automazione e innovazione: Nel mondo di oggi l'automazione sta trasformando le industrie. La conoscenza dell'informatica consente di individuare le opportunità di automazione all'interno di un'organizzazione, aumentando non solo la produttività, ma anche le possibilità per voi di concentrarsi su attività strategiche e innovative.
+    * Tecnologie emergenti: stanno ridisegnando completamente il mondo del lavoro. La familiarità con l'informatica vi aiuterà a cogliere il potenziale di queste tecnologie e a sfruttarle per essere all'avanguardia.
+    * Collaborazione interdisciplinare: Come ingegneri gestionali, lavorerete spesso con professionisti di altri settori, tecnici e sviluppatori di software. La comprensione dei concetti informatici faciliterà la comunicazione tra di loro.
+    
+</details>
 
 *  Info
 * [FAQ](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EfUIuYh-QpJLhhDjDkA4HV8BJO2nUN5pcVSs968xa5Xzhw?e=AUJJGw) 
@@ -19,7 +27,7 @@ TBD
 
 ***
 
-### Calendario
+### Calendario & syllabus
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FRome&showTitle=0&showDate=1&showPrint=0&showTabs=0&showTz=0&showCalendars=0&mode=AGENDA&showNav=0&src=ZTMwOWNlMWQ3NjZmYjRkNzE4Yjc5NDM2MjY0NDIxYjFjM2RkNWVjODg0NjczZTkyMGVkMjMxY2IzNzlmOWFjM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%2333B679" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
 
@@ -36,6 +44,11 @@ TBD
 ### Esercitazioni
 
 Le esercitazioni del corso sono tenute dal Dr. Michele Zanella il giovedì dalle ore 15:15 alle ore 18:15 secondo il calendario del corso.
+
+### Laboratori
+
+I laboratori del corso sono tenuti da. Roberto Basla e Michele Craighero il venerdì secondo il calendario del corso.
+I laboratori sono articolati su 3 squadre in 3 turni differenti.
 
 ***
 

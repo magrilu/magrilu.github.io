@@ -7,7 +7,7 @@ nav: true
 dropdown: true
 nav_order: 3
 children: 
-    - title: Info A
+    - title: Informatica A
       permalink: /infoA/
     - title: Computer Science
       permalink: /cs2022/

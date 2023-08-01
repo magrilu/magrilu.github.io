@@ -50,7 +50,7 @@ A full list of all past courses is provided below
 
 
 ***
-[infoa]:/infoa/
+[infoa]:/infoA/
 [labinfo]:/labinfo/
 [cs]:/cs2022/
 [iacv]:https://boracchi.faculty.polimi.it/teaching/IACV.htm
