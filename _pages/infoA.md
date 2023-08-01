@@ -17,12 +17,12 @@ Border="0"  width="200" height="auto">
 <details>
   <summary> Ma perché degli aspiranti ingegneri gestionali dovrebbero studiare informatica? </summary>
 
-> Per imparare a...
-> * **analizzare e risolvere i problemi**: nel vostro lavoro di ingegneri gestionali, dove dovrete affrontare scenari decisionali complessi che richiedono creatività e precisione. L'informatica insegna a pensare in modo logico e ad aggredire problemi difficili scomponendoli  in fasi più piccole e gestibili.
-> * **ottimizzare**: non basta risolvere un problema, un ingegnere gestionale deve assicurarsi che la soluzione trovata sia la migliore possibile. Una mente algoritmica è in grado di snellire le operazioni, ridurre i costi e migliorare l'efficienza complessiva di qualsiasi processo, dalla gestione della catena di approvvigionamento di un magazzino alla pianificazione delle attività di un'azienda.
-> * **automatizzare**: l'informatica insegna la pigrizia... saper individuare le opportunità di automazione all'interno di un'organizzazione, non solo aumenta la produttività, ma anche le possibilità di concentrarsi su altre attività più strategiche e innovative.
-> * **collaborare**: lavorerete spesso con professionisti di altri settori, tecnici e sviluppatori di software. Veramente volete pagare 5k o aspettare un mese, perchè un consulente scriva un semplice ciclo for? 
-> * **stare al passo**: le tecnologie emergenti stanno ridisegnando completamente il mondo del lavoro. La familiarità con l'informatica vi aiuterà a cogliere il potenziale di queste tecnologie e a sfruttarle per essere all'avanguardia.
+ Per imparare a...</br>
+ 1. **analizzare e risolvere i problemi**: nel vostro lavoro di ingegneri gestionali, dove dovrete affrontare scenari decisionali complessi che richiedono creatività e precisione. L'informatica insegna a pensare in modo logico e ad aggredire problemi difficili scomponendoli  in fasi più piccole e gestibili.</br>
+2. **ottimizzare**: non basta risolvere un problema, un ingegnere gestionale deve assicurarsi che la soluzione trovata sia la migliore possibile. Una mente algoritmica è in grado di snellire le operazioni, ridurre i costi e migliorare l'efficienza complessiva di qualsiasi processo, dalla gestione della catena di approvvigionamento di un magazzino alla pianificazione delle attività di un'azienda. </br>
+3. **automatizzare**: l'informatica insegna la pigrizia... saper individuare le opportunità di automazione all'interno di un'organizzazione, non solo aumenta la produttività, ma anche le possibilità di concentrarsi su altre attività più strategiche e innovative. </br>
+4. **collaborare**: lavorerete spesso con professionisti di altri settori, tecnici e sviluppatori di software. Veramente volete pagare 5k o aspettare un mese, perchè un consulente scriva un semplice ciclo for?  </br>
+5. **stare al passo**: le tecnologie emergenti stanno ridisegnando completamente il mondo del lavoro. La familiarità con l'informatica vi aiuterà a cogliere il potenziale di queste tecnologie e a sfruttarle per essere all'avanguardia.</br>
 
 </details>
 
