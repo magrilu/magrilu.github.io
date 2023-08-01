@@ -14,7 +14,7 @@ Border="0"  width="200" height="auto">
 * [Setup dell'ambiente di sviluppo](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EWIYiT78wgFDujmby9coK-IBuN9afHqLVpiF4OQBrjrUHw?e=fNFich)
 * [FAQ](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EfUIuYh-QpJLhhDjDkA4HV8BJO2nUN5pcVSs968xa5Xzhw?e=AUJJGw) 
 
-> *Ma perché degli aspiranti ingegneri gestionali devono studiare informatica?*
+*Ma perché degli aspiranti ingegneri gestionali dovrebbero studiare informatica?*
 
 Ad esempio, per imparare a...
 <details>
@@ -48,10 +48,6 @@ lavorerete spesso con professionisti di altri settori, tecnici e sviluppatori di
 
 ***
 
-
-
-
-***
 
 ### Esercitazioni
 
@@ -87,10 +83,8 @@ if(risposte_corrette_parte_A>=5){
 }
 {% endhighlight %}
 
-***
-### Temi d'esame
 
-I temi d'esami degli anni passati sono disponibili [qui](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EoqBf6kpCkhEg0mr3tjv7J0BpolR6VzGWB5FNBaO2uRRZA?e=W91r6P)
+I **temi d'esame** degli anni passati sono disponibili [qui](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EoqBf6kpCkhEg0mr3tjv7J0BpolR6VzGWB5FNBaO2uRRZA?e=W91r6P)
 
 ***
 
