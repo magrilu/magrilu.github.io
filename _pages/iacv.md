@@ -29,8 +29,7 @@ If you are interested in doing a [thesis in Computer Vision](https://magrilu.git
 * Homogenous coordinates, points line and duality: [code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ESBh9VXfD8JMlaY2HznxOykBxsYrUJL_UvasAOlUZhwYgQ?e=PNI2GY). 
 * Drawing a cube in isometric projection: [code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EREdWc5lK9BDoj0VfpkDxy0BHuuZogbld4d2sV7H_Xu1gw?e=dq8oll).
 
-I'm sorry but the audio recording did not start, you can see the [recording from last year](Webex meeting recording: Luca Magri's Personal Room-20220921 1031-1
-Recording link: https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=087d50a09c84491071529fbb1669eb60).
+I'm sorry but the audio recording did not start, you can see the [recording from last year](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=087d50a09c84491071529fbb1669eb60).
 
 ***
 
