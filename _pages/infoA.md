@@ -14,30 +14,6 @@ Border="0"  width="200" height="auto">
 * [Setup dell'ambiente di sviluppo](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EWIYiT78wgFDujmby9coK-IBuN9afHqLVpiF4OQBrjrUHw?e=fNFich)
 * [Link alle registrazioni](https://docs.google.com/spreadsheets/d/1AOhwVo7HZd1SCarp8LmnCF28lwVxABxuuRHCtluKuyY/edit?usp=sharing) 
 
-*Ma perché degli aspiranti ingegneri gestionali dovrebbero studiare informatica?*
-
-Ad esempio, per imparare a...
-<details>
-<summary>analizzare e risolvere i problemi:</summary>
-nel vostro lavoro di ingegneri gestionali, dove dovrete affrontare scenari decisionali complessi che richiedono creatività e precisione. L'informatica insegna a pensare in modo logico e ad aggredire problemi difficili scomponendoli  in fasi più piccole e gestibili.
-</details>
-<details>
-<summary>ottimizzare le soluzioni:</summary>
-non basta risolvere un problema, un ingegnere gestionale deve assicurarsi che la soluzione trovata sia la migliore possibile. Una mente algoritmica è in grado di snellire le operazioni, ridurre i costi e migliorare l'efficienza complessiva di qualsiasi processo, dalla gestione della catena di approvvigionamento di un magazzino alla pianificazione delle attività di un'azienda.
-</details>
-<details>
-<summary>automatizzare i processi:</summary>
-l'informatica insegna la pigrizia... saper individuare le opportunità di automazione all'interno di un'organizzazione, non solo aumenta la produttività, ma anche le possibilità di concentrarsi su altre attività più strategiche e innovative. 
-</details>
-<details>
-<summary>collaborare consapevolemente:</summary>
-lavorerete spesso con professionisti di altri settori, tecnici e sviluppatori di software. Veramente volete pagare 5k, perchè un consulente scriva un semplice ciclo for?
-</details>
-<details>
-<summary>stare al passo:</summary>
- le nuove tecnologie stanno ridisegnando completamente il mondo del lavoro. Una buona conoscenza dell'informatica di base è la grammatica con cui potrete impadronirvi delle tecnologie del momento e di quelle del futuro.
-</details>
-
 
 ***
 
@@ -88,6 +64,20 @@ I **temi d'esame** degli anni passati sono disponibili [qui](https://polimi365-m
 
 ***
 
+Degli aspiranti ingegneri gestionali devono studiare informatica non solo per passare l'esame ma per imparare a...
+* _analizzare e risolvere i problemi_:
+    nel vostro lavoro di ingegneri gestionali, dove dovrete affrontare scenari decisionali complessi che richiedono creatività e precisione. L'informatica insegna a pensare in modo logico e ad aggredire problemi difficili scomponendoli  in fasi più piccole e gestibili.
+* _ottimizzare le soluzioni_:
+    non basta risolvere un problema, un ingegnere gestionale deve assicurarsi che la soluzione trovata sia la migliore possibile. Una mente algoritmica è in grado di snellire le operazioni, ridurre i costi e migliorare l'efficienza complessiva di qualsiasi processo, dalla gestione della catena di approvvigionamento di un magazzino alla pianificazione delle attività di un'azienda.
+* _automatizzare i processi_:
+    l'informatica insegna la pigrizia... saper individuare le opportunità di automazione all'interno di un'organizzazione, non solo aumenta la produttività, ma anche le possibilità di concentrarsi su altre attività più strategiche e innovative. 
+* _collaborare consapevolemente_:
+    lavorerete spesso con professionisti di altri settori, tecnici e sviluppatori di software. Veramente volete pagare 5k, perchè un consulente scriva un semplice ciclo for?
+* _stare al passo_:
+    le nuove tecnologie stanno ridisegnando completamente il mondo del lavoro. Una buona conoscenza dell'informatica di base è la grammatica con cui potrete impadronirvi delle tecnologie del momento e di quelle del futuro.
+
+***
+
 ####  Risorse aggiuntive 
 
 * The C Programming Language [prima edizione disponible su Internet Archive](https://archive.org/details/TheCProgrammingLanguageFirstEdition)
@@ -95,7 +85,9 @@ I **temi d'esame** degli anni passati sono disponibili [qui](https://polimi365-m
 * Peter Norvig, [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) (Peter Norvig è stato Director of Research a Google)
 * George Polya [Come si risolve un problema](https://math.hawaii.edu/home/pdf/putnam/PolyaHowToSolveIt.pdf)
 
-*** 
+
+***
+
 
 *I would like to thank Monica Vitali, Diego Stucchi, Marco Lattuada, Marcello Restelli, Giacomo Boracchi and Andrea Fusiello for sharing with me their advices and their teaching materials on which the slides of this course are largely based.*
 

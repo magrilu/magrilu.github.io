@@ -1,30 +1,35 @@
 ---
 layout: page
 permalink: /thesis/
-title: thesis
+title: thesis 
 nav: true
 description: 
 nav_order: 5
-toc:
-  sidebar: left
+
 ---
+Already enrolled in one of our theses? Have a look at the [Thesis-How-To](/tht/) page!
 
+Are you interested in doing a thesis in Computer Vision or in an industrial internship?
+Typically twice a year (September-February) we present our [thesis proposals][thesisProposal], but if you want to be updated on the latest opportunities drop me an email and let's set up a meeting!
 
-Main focus on Computer Vision  
-* 3D vision
-* Multi-model fitting
-* Model selection
-* Synchronization problems 
+Currently I am interested in
+* 3D vision: 3D reconstruction, camera localization, calibration, Structure from Motion, Nerf,...
+* Multi-model fitting: robust estimation, primitive decomposition, motion segmentation, scan2bim, template matching...
+* Pattern Recognition: clustering, anomaly detection, explainability...
+* Quantum Computer Vision.
 
-and Pattern Recognition
-* Clustering/anomaly detection
-
-{% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
-A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
-
-Please see [thesis opportunities][thesisProposal] for updated thesis proposals and send a mail to fix a meeting.
-{% include figure.html path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+      {% include figure.html path="assets/img/volpe_bad.gif" class="img-fluid rounded z-depth-1" zoomable=true %} 
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/volpe_good.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="caption">
+         A demo from the thesis of F. Azzoni to auto-calibrate a wide-angle camera (AR video before the and after the autocalibration).
+    </div> 
+</div>
+You can have a look at the thesis I supervised to get an idea of the topics I worked on.
 
 #### Thesis supervised 
 * Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._  MSc in Computer Science and Engineering. October 2023, PoliMi.
@@ -40,6 +45,9 @@ Please see [thesis opportunities][thesisProposal] for updated thesis proposals a
 * Antonino Maria Rizzo , _Semantic aware Sampling for Robust Multi-model Fitting._ MSc in Computer Science and Engineering. April 2021, PoliMi.
 * William Bonvini, _Unsupervised Learning for Multi-Model Consensus Maximization._ MSc in Computer Science and Engineering. April 2021, PoliMi.
 * Simone Francavilla, _Image Mosaicing: An approach based on Synchronization and Game Theory._ MSc in Computer Science and Engineering. April 2021, PoliMi.
+
+***
+
 
 
 [thesisProposal]:https://boracchi.faculty.polimi.it/docs/Thesis_Opportunities_Boracchi.pdf
