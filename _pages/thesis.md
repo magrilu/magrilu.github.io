@@ -5,7 +5,10 @@ title: thesis
 nav: true
 description: 
 nav_order: 5
+toc:
+  sidebar: left
 ---
+
 
 Main focus on Computer Vision  
 * 3D vision
@@ -16,7 +19,12 @@ Main focus on Computer Vision
 and Pattern Recognition
 * Clustering/anomaly detection
 
-Please see [thesis opportunities][thesisProposal] for updated thesis proposals.
+{% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
+A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+
+Please see [thesis opportunities][thesisProposal] for updated thesis proposals and send a mail to fix a meeting.
+{% include figure.html path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 
 #### Thesis supervised 
 * Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._  MSc in Computer Science and Engineering. October 2023, PoliMi.

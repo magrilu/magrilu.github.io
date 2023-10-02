@@ -2,8 +2,6 @@
 layout: page
 permalink: /iacv/
 title: Image Analysis and Computer Vision
-toc:
-  beginning: true
 ---
 <img src="../assets/img/ciclope.jpg" align="right" Hspace="15" Vspace="0" 
 Border="0"  width="200" height="auto">
@@ -31,9 +29,6 @@ If you are interested in doing a [thesis in Computer Vision](https://magrilu.git
 * Drawing a cube in isometric projection: [code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EREdWc5lK9BDoj0VfpkDxy0BHuuZogbld4d2sV7H_Xu1gw?e=dq8oll).
 
 I'm sorry but the audio recording did not start, you can see the [recording from last year](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=087d50a09c84491071529fbb1669eb60).
-
-### Other Resources:
-* Inside P
 
 ***
 
