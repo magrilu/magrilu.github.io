@@ -13,7 +13,7 @@ This page collects material for the Image Analysis and Computer Vision course ta
 ***
 
 ### Available thesis in Computer Vision
-If you are interested in doing a [thesis in Computer Vision](https://magrilu.github.io/thesis/) send an email! We will update you on the [latest opportunities][thesisProposal] available.
+If you are interested in doing a [thesis in Computer Vision](https://magrilu.github.io/thesis/) send an email to schedule a meeting! We will update you on the [latest opportunities][thesisProposal] available.
 
 ***
 
