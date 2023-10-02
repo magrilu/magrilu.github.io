@@ -12,7 +12,7 @@
 
 "Leveni":
   - firstname: ["Filippo", "F."]
-    url:
+    url: https://scholar.google.com/citations?user=dYX0BRwAAAAJ&hl=en
 
 "Padja":
   - firstname: ["Tomas", "T."]
@@ -22,3 +22,10 @@
   - firstname: ["Roberto", "R."]
     url: https://www.3dflow.net
     
+"Porfiri Dal Cin":
+  - firstname: ["Andrea", "A."]
+    url: https://scholar.google.com/citations?user=2kS6qIoAAAAJ&hl=en
+
+"Rizzo"
+  - firstname: ["Antonino Maria", "A.M."]
+  - url: https://antoninomariarizzo.github.io/
