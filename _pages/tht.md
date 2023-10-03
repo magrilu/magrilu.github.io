@@ -21,7 +21,3 @@ This content is mostly curated by by [Prof. Boracchi](https://boracchi.faculty.p
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FRome&showNav=1&showPrint=0&showTabs=1&showCalendars=0&showTz=0&mode=AGENDA&showTitle=0&src=NDE3OTljMmZmMGY4ZWZlZDY4ZWM0OTQ1ZGU1ZThhNGVkM2I1N2IzNjY4ZDJmMzU0ODFiNWY4ZDI2MzE3YThjNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%239d5eb2" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
 
-
-## All of fame
-Here you can find some examples of theses (presentations and executive summaries) that stand out for their quality. Do you want to be next in the hall of fame?
-

@@ -11,12 +11,12 @@ This page collects material for the Image Analysis and Computer Vision course ta
 
 ***
 
-### Available thesis in Computer Vision
+> ##### Theses in Computer Vision available!
 If you are interested in doing a [thesis in Computer Vision](https://magrilu.github.io/thesis/) send an email to schedule a meeting! We will update you on the [latest opportunities][thesisProposal] available.
 
 ***
 
-### Material
+## Material
 
 * [Here](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/Eob0HjQK20FKj315cVLFH-sBYxt9Clukjnq4zmjmtBWHSg?e=Tvkoqq) you can find a shared folder with all the source files to be completed and the data I used during the practical sessions.
 * The template for the report of the final project is available here: [zip file](https://polimi365-my.sharepoint.com/:u:/g/personal/10755186_polimi_it/EXhqADe0KkZGlp9CWQ1nitsBlfI9aLphLl1cqkoIHmJ5Yg?e=X0joWl)

@@ -7,16 +7,25 @@ description:
 nav_order: 5
 
 ---
-Already enrolled in one of our theses? Have a look at the [Thesis-How-To](/tht/) page!
 
-Are you interested in doing a thesis in Computer Vision or in an industrial internship?
-Typically twice a year (September-February) we present our [thesis proposals][thesisProposal], but if you want to be updated on the latest opportunities drop me an email and let's set up a meeting!
 
-Currently I am interested in
-* 3D vision: 3D reconstruction, camera localization, calibration, Structure from Motion, Nerf,...
-* Multi-model fitting: robust estimation, primitive decomposition, motion segmentation, scan2bim, template matching...
-* Pattern Recognition: clustering, anomaly detection, explainability...
-* Quantum Computer Vision.
+
+
+
+> Are you interested in doing a thesis or an industrial internship in Computer Vision?
+
+Typically twice a year (September-February) we present our [thesis proposals][thesisProposal] and you can apply to one of the available thesis. If you want to be updated on the very latest opportunities, just drop an email and let's set up a meeting! 
+
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:2px 0; margin-top:0px; margin-bottom:2px">
+ Are already enrolled in one of our theses? Have a look at the <a href="/tht">Thesis-How-To</a> page!
+</div>
+
+
+Thesis topics include
+* _3D vision_: 3D reconstruction, camera localization, calibration, Nerf...
+* _Model fitting_: robust estimation, primitive decomposition, motion segmentation, scan2bim, template matching...
+* _Pattern Recognition_: clustering, anomaly detection, explainability...
+* _Quantum Computer Vision_...
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
