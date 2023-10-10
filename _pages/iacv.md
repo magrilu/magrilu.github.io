@@ -18,8 +18,8 @@ If you are interested in doing a [thesis in Computer Vision](https://magrilu.git
 
 ## Material
 
-* [Here](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/Eob0HjQK20FKj315cVLFH-sBYxt9Clukjnq4zmjmtBWHSg?e=Tvkoqq) you can find a shared folder with all the source files to be completed and the data I used during the practical sessions.
-* The template for the report of the final project is available here: [zip file](https://polimi365-my.sharepoint.com/:u:/g/personal/10755186_polimi_it/EXhqADe0KkZGlp9CWQ1nitsBlfI9aLphLl1cqkoIHmJ5Yg?e=X0joWl)
+* [Shared folder](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/Eob0HjQK20FKj315cVLFH-sBYxt9Clukjnq4zmjmtBWHSg?e=Tvkoqq) collecting the "todo" source files and the data I used during the practical sessions.
+* The template for the report of the final project: [zip file](https://polimi365-my.sharepoint.com/:u:/g/personal/10755186_polimi_it/EXhqADe0KkZGlp9CWQ1nitsBlfI9aLphLl1cqkoIHmJ5Yg?e=X0joWl)
 
 #### First practical session
 
@@ -30,8 +30,15 @@ If you are interested in doing a [thesis in Computer Vision](https://magrilu.git
 
 I'm sorry but the audio recording did not start, you can see the [recording from last year](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=087d50a09c84491071529fbb1669eb60).
 
+#### Second practical session
 
-
+* Vanishing points, vanishing lines and affine rectification: [code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Edc6GXQEmp1Gnzs_215QHyUBde22dhS_0jW6TA_ezCBqAA?e=6qNhqA).
+* Affine measurements of objects on a plane: [code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ESucvFpICgNIs5DoD1DIQ38BpqziA8p_YfvC8z9CSdt8Lg?e=GF0cLw).
+* Conic estimation via DLT: [code](https://polimi365-my.sharepoint.com/:u:/g/personal/10755186_polimi_it/EX-98jj4zalDvUju9wOPa7ABoWjTtFNQDqi07X8M4rHZSQ?e=0W2MSz).
+* Horizon from three equally spaced coplanar lines: [code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ebr1CMH6bNtFhmM8wbYLbnIB6vxB5Gno_oLOx6Pyc7x2Tw?e=J5SPhJ).
+<div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.html path="assets/img/metric_iacv.jpg" class="img-fluid rounded" zoomable=false %} 
+</div>
 
 ***
 
