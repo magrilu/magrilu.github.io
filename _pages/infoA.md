@@ -3,18 +3,21 @@ layout: page
 permalink: /infoA/
 title: Informatica A
 ---
-<img src="../assets/img/cavaliere_cs.jpg" align="right" Hspace="15" Vspace="0" 
-Border="0"  width="200" height="auto">
-#####   Ingegneria Gestionale, Politecnico di Milano, 2023/2024
+
+<img src="../assets/img/dog_infoa.jpg" align="right" Hspace="18" Vspace="15" 
+Border="0"  width="350" height="auto">
+#####   Ingegneria Gestionale, PoliMi, 2023/2024
 
 *** 
 
-* Il materiale del corso (slide delle lezioni, codici, esercitazioni e laboratori) verrà pubblicato in [questa cartella condivisa](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EgjfFrnKl7pOv1bmhrscOkgBpJcrYKu0yCrjEfnlXevivw?e=dlA5JO)
+* [Cartella condivisa](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EgjfFrnKl7pOv1bmhrscOkgBpJcrYKu0yCrjEfnlXevivw?e=dlA5JO) con i materiali del corso
 * [Setup dell'ambiente di sviluppo](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EWIYiT78wgFDujmby9coK-IBuN9afHqLVpiF4OQBrjrUHw?e=fNFich)
 * [Link alle registrazioni](https://docs.google.com/spreadsheets/d/1AOhwVo7HZd1SCarp8LmnCF28lwVxABxuuRHCtluKuyY/edit?usp=sharing) 
-* [Il programma del corso](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=810748&polij_device_category=DESKTOP&__pj0=0&__pj1=494e7d3539f7256c4c116f019ff29dee)
+* [Programma del corso](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=810748&polij_device_category=DESKTOP&__pj0=0&__pj1=494e7d3539f7256c4c116f019ff29dee)
+
 
 ***
+
 
 ### Calendario
 
@@ -46,13 +49,13 @@ Le esercitazioni del corso sono tenute dal Dr. Michele Zanella il giovedì dalle
 
 I laboratori del corso sono tenuti da Roberto Basla e Michele Craighero il venerdì secondo il calendario.
 I laboratori sono articolati su 3 squadre in 3 turni differenti:
-* Squadra 1: _BL27.16, 8:15-11:15, da AAKRI a BABBO
+* Squadra 1: BL27.16, 8:15-11:15, da AAKRI a BABBO
 * Squadra 2: BL27.16, 11:15-14:15,  da BACCINI a BERNASCONI
 * Squadra 3: B8.1.2, 11:15-14:15,  da BERTI a CHIRASOLE
 
 ***
 
-### Esami 
+### Esame
 
 L'esame consiste di due parti:
 * Parte A (durata 30 minuti - 4 punti): domande a risposta multipla. Ogni risposta corretta vale 0,5 punti; una risposta sbagliata o lasciata vuota vale 0. La prova si intende superata se si risponde correttamente ad almeno 5 domande su 8. 
@@ -81,7 +84,7 @@ if(risposte_corrette_parte_A>=5){
 
 I **temi d'esame** degli anni passati sono disponibili [qui](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EoqBf6kpCkhEg0mr3tjv7J0BpolR6VzGWB5FNBaO2uRRZA?e=W91r6P). È un'ottima idea svolgere i vecchi temi d'esame per verificare la propria preparazione.
 
-L'esame si svolgerà al computer ma non sarà possibile usare IDE, bisognerà completare un pdf utilizzando adobe reader e sarà necessario collegarsi a zoom (è necessario aver installato e funzionanti entrambe le applicazioni). Vi verranno fornite per tempo istruzioni dettagliate su come procedere per poter svolgere l'esame in modo sereno. 
+L'esame si svolgerà al computer ma non sarà possibile usare un IDE, bisognerà completare un pdf utilizzando adobe reader e sarà necessario collegarsi a zoom (è necessario aver installato e funzionanti entrambe le applicazioni). Vi verranno fornite per tempo istruzioni dettagliate su come procedere per poter svolgere l'esame in modo sereno. 
 
 
 ***
@@ -104,10 +107,10 @@ L'esame si svolgerà al computer ma non sarà possibile usare IDE, bisognerà co
 ####  Risorse aggiuntive 
 
 * [Dispensa a cura del Prof. Barenghi](https://barenghi.faculty.polimi.it/lib/exe/fetch.php?media=teaching:dispensa.pdf) che copre i prima argomenti del corso.
-* The C Programming Language [prima edizione disponible su Internet Archive](https://archive.org/details/TheCProgrammingLanguageFirstEdition)
-* [C compilatore online](https://repl.it/languages/c) può essere utile per iniziare a familiarizzare con il C. Tuttavia cercate di iniziare ad utilizzare un IDE il prima possibile.
-* Peter Norvig, [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) (Peter Norvig è stato Director of Research a Google)
-* George Polya [Come si risolve un problema](https://math.hawaii.edu/home/pdf/putnam/PolyaHowToSolveIt.pdf)
+* [The C Programming Language](https://venkivasamsetti.github.io/ebookworm.github.io/Books/cse/C%20Programming%20Language%20(2nd%20Edition).pdf).
+* Un [compilatore online](https://repl.it/languages/c) che può essere utile per iniziare a familiarizzare con il C. Tuttavia cercate di iniziare ad utilizzare un IDE il prima possibile.
+* Peter Norvig, [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) (Peter Norvig è stato Director of Research a Google).
+* George Polya, [Come si risolve un problema](https://math.hawaii.edu/home/pdf/putnam/PolyaHowToSolveIt.pdf).
 
 
 ***

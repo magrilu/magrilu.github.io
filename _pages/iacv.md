@@ -30,6 +30,9 @@ If you are interested in doing a [thesis in Computer Vision](https://magrilu.git
 
 I'm sorry but the audio recording did not start, you can see the [recording from last year](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=087d50a09c84491071529fbb1669eb60).
 
+
+
+
 ***
 
 
