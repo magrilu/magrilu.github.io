@@ -39,6 +39,8 @@ I'm sorry but the audio recording of the first lecture didn't start, you can see
 * Affine measurements of objects on a plane: [code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ESucvFpICgNIs5DoD1DIQ38BpqziA8p_YfvC8z9CSdt8Lg?e=GF0cLw).
 * Conic estimation via DLT: [code](https://polimi365-my.sharepoint.com/:u:/g/personal/10755186_polimi_it/EX-98jj4zalDvUju9wOPa7ABoWjTtFNQDqi07X8M4rHZSQ?e=0W2MSz).
 * Horizon from three equally spaced coplanar lines: [code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ebr1CMH6bNtFhmM8wbYLbnIB6vxB5Gno_oLOx6Pyc7x2Tw?e=J5SPhJ).
+
+
 [Recording]( https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=3d2cd4625ecab6891630a3c80b4e94a4)
 
 ***
