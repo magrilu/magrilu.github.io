@@ -16,10 +16,9 @@ You can join our [Discord server](https://discord.gg/8Pyapvw3).
 ## Slides
 
 1. [Getting started](https://www.dropbox.com/scl/fi/ytbjyt1vn9ot26v1srt3o/2023_10_A_Thesis_How_To.pdf?rlkey=nswxq13geo668onbuw98azlom&dl=0)
-2. Problem formulation
-3. Related Work
-4. Thesis preparation
-5. Thesis presentation
+2. Related Work & Problem formulation
+3. [Thesis preparation](https://www.dropbox.com/scl/fi/1p5wp360hvybzgn5hlhhm/2023_10_Thesis_Preparation.pdf?rlkey=cks9tmbqejypch14luw4slb8w&dl=0)
+4. Thesis presentation
 
 ## Calendar
 
