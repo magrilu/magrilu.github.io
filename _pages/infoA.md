@@ -11,7 +11,7 @@ Border="0"  width="350" height="auto">
 *** 
 
 * [Cartella condivisa](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EgjfFrnKl7pOv1bmhrscOkgBpJcrYKu0yCrjEfnlXevivw?e=dlA5JO) con i materiali del corso
-* [Setup dell'ambiente di sviluppo](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EWIYiT78wgFDujmby9coK-IBuN9afHqLVpiF4OQBrjrUHw?e=fNFich)
+* [Setup dell'ambiente di sviluppo](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EQNd_I3LNbBBs0FG1DAKER0BlRMDiU1FZNQ-tByHaDZ9ow?e=CgXkGj )
 * [Link alle registrazioni](https://docs.google.com/spreadsheets/d/1AOhwVo7HZd1SCarp8LmnCF28lwVxABxuuRHCtluKuyY/edit?usp=sharing) 
 * [Programma del corso](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=810748&polij_device_category=DESKTOP&__pj0=0&__pj1=494e7d3539f7256c4c116f019ff29dee)
 
