@@ -55,7 +55,7 @@ I'm sorry but the audio recording of the first lecture didn't start, you can see
 * Image stiching: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EerjLTrVropOj0L0SbrUzT8BTlsr46A0iE2Ivp_0Ge74Aw?e=jVUrZ9).
 * Image rectification: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZ6WvA7bSTlGtjdRuuP0mzUB3XywbMEhqdK50Is68mdupQ?e=gHGJZ9).
 
-[Here](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EnkMVsuAT3JGmQQ25LsDZxUBauW3ukGSPrdOFs--BqLTHQ?e=MUdZmg) are some of the functions employed (please note that these functions are for didactic purposes only, and are efficent).
+[Here](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EnkMVsuAT3JGmQQ25LsDZxUBauW3ukGSPrdOFs--BqLTHQ?e=MUdZmg) are some of the functions employed (please note that these functions are for didactic purposes only).
 
 ***
 
