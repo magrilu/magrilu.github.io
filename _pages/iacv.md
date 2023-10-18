@@ -42,7 +42,7 @@ I'm sorry but the audio recording of the first lecture didn't start, you can see
 * Horizon from three equally spaced coplanar lines: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ebr1CMH6bNtFhmM8wbYLbnIB6vxB5Gno_oLOx6Pyc7x2Tw?e=J5SPhJ).
 
 
-[Recording]( https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=3d2cd4625ecab6891630a3c80b4e94a4)
+[Recording]( https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=3d2cd4625ecab6891630a3c80b4e94a4).
 
 
 #### Third practical session
@@ -56,7 +56,7 @@ I'm sorry but the audio recording of the first lecture didn't start, you can see
 * Image rectification: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZ6WvA7bSTlGtjdRuuP0mzUB3XywbMEhqdK50Is68mdupQ?e=gHGJZ9).
 
 [Here](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EnkMVsuAT3JGmQQ25LsDZxUBauW3ukGSPrdOFs--BqLTHQ?e=MUdZmg) are some of the functions employed (please note that these functions are for didactic purposes only).
-
+[Recording](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=5f7e1b1729eac9f3e06b7d96248e17eb).
 ***
 
 
