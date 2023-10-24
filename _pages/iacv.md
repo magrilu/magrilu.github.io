@@ -57,6 +57,19 @@ I'm sorry but the audio recording of the first lecture didn't start, you can see
 
 [Here](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EnkMVsuAT3JGmQQ25LsDZxUBauW3ukGSPrdOFs--BqLTHQ?e=MUdZmg) are some of the functions employed (please note that these functions are for didactic purposes only).
 [Recording](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=5f7e1b1729eac9f3e06b7d96248e17eb).
+
+#### Fourth practical session
+<div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.html path="assets/img/rectification.jpg" class="img-fluid rounded" zoomable=false %} 
+</div>
+
+* Affine rectification: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EXwBb81GfuFJugoxEyZTh6kBV3xMQlPByw_GvWTsomFCiA?e=1bPnB0).
+* Metric rectification: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EQUpmenNUeRNqZeXWf60SyABPlKE2oYt_iK_ynzoh2k4UQ?e=MvvO4B).
+* Metric rectification stratified: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EevfTOckyURLq99y7R3RmsgBR-E0lv4dg08fMIsj_PoADg?e=zFVEIt).
+* Metric rectification from one circle: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ESpNIqwWmHBBvEiOlf07YewBSBc43kgtv2oiH3hS3oNIUA?e=ig8CHG).
+* Metric rectification from two circles: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZla6bNYXQhKs4cyhCdzKDkBZc30gHPf8uVqClnHfZPUHg?e=T8oT1s).
+
+
 ***
 
 
