@@ -16,7 +16,7 @@ You can join our [Discord server](https://discord.gg/8Pyapvw3).
 ## Slides
 
 1. [Getting started](https://www.dropbox.com/scl/fi/ytbjyt1vn9ot26v1srt3o/2023_10_A_Thesis_How_To.pdf?rlkey=nswxq13geo668onbuw98azlom&dl=0)
-2. [Related Work](https://www.dropbox.com/scl/fi/zhog3vfrc57ryj26e6hxk/2023_10_C_Thesis_Related-Work.pdf?rlkey=7cmu43pd9pg0guz2o4fh9c947&dl=0) & [Problem formulation]()
+2. [Related Work](https://www.dropbox.com/scl/fi/zhog3vfrc57ryj26e6hxk/2023_10_C_Thesis_Related-Work.pdf?rlkey=7cmu43pd9pg0guz2o4fh9c947&dl=0) & [Problem formulation](https://www.dropbox.com/scl/fi/tigyurpth60q7jj6roy8z/2023_10_B_Problem_Formulation.pdf?rlkey=j9lnr91dbkcpt6mytx4kupthx&dl=0)
 3. [Thesis preparation](https://www.dropbox.com/scl/fi/1p5wp360hvybzgn5hlhhm/2023_10_Thesis_Preparation.pdf?rlkey=cks9tmbqejypch14luw4slb8w&dl=0)
 4. Thesis presentation
 
