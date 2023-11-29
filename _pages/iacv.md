@@ -68,7 +68,14 @@ I'm sorry but the audio recording of the first lecture didn't start, you can see
 * Metric rectification stratified: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EevfTOckyURLq99y7R3RmsgBR-E0lv4dg08fMIsj_PoADg?e=zFVEIt).
 * Metric rectification from one circle: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ESpNIqwWmHBBvEiOlf07YewBSBc43kgtv2oiH3hS3oNIUA?e=ig8CHG).
 * Metric rectification from two circles: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZla6bNYXQhKs4cyhCdzKDkBZc30gHPf8uVqClnHfZPUHg?e=T8oT1s).
+
+
 [Recording](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=5b3ccd25ff528590a63069e78846d162).
+
+### Fifth practical session (by Prof. Boracchi)
+
+* [slides](https://boracchi.faculty.polimi.it/teaching/IAS/2023_IACV_5_Linear_Filters.pdf)
+* [recording](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=70af512bcd849fa22c2cbdcba7965536).
 
 ***
 
