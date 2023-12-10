@@ -77,6 +77,17 @@ I'm sorry but the audio recording of the first lecture didn't start, you can see
 * [slides](https://boracchi.faculty.polimi.it/teaching/IAS/2023_IACV_5_Linear_Filters.pdf)
 * [recording](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=70af512bcd849fa22c2cbdcba7965536).
 
+#### Eight practical session
+<div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.html path="assets/img/ransac.jpg" class="img-fluid rounded" zoomable=false %} 
+</div>
+
+* Feature matching: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ER-BbzdpZIxAs8ZSpbA-g4AB6RC9Yz4qq4uMmXLn7k3CKw?e=KZggFs).
+* Random Sample Consensus : [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EXhVEKV9ZSRCisPpBtvlCloBDxTRaJoClD_JEpBtzOz5Fw?e=5wt7gR).
+* Least Median of Squares rectification stratified: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EU649eHcmbdIo6MT4pxKT8wBzAhLP6RK7NlNPbnke43q0Q?e=vJZhfE).
+* Multi-model fitting: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ed-xn64yLU5NhKz0m-eyk3gByCw1HSP5AFLw9wEvAKA1hQ?e=bggGdk).
+
+
 ***
 
 
