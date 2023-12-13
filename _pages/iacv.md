@@ -82,6 +82,7 @@ I'm sorry but the audio recording of the first lecture didn't start, you can see
     {% include figure.html path="assets/img/ransac.jpg" class="img-fluid rounded" zoomable=false %} 
 </div>
 
+* [Slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ee-2oFfzrZFOpPDVcGP7aeABfRjSxqwl6z7UjCLitOdIsA?e=HjiNBa)
 * Feature matching: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ER-BbzdpZIxAs8ZSpbA-g4AB6RC9Yz4qq4uMmXLn7k3CKw?e=KZggFs).
 * Random Sample Consensus : [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EXhVEKV9ZSRCisPpBtvlCloBDxTRaJoClD_JEpBtzOz5Fw?e=5wt7gR).
 * Least Median of Squares rectification stratified: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EU649eHcmbdIo6MT4pxKT8wBzAhLP6RK7NlNPbnke43q0Q?e=vJZhfE).
