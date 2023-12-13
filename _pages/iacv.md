@@ -89,6 +89,8 @@ I'm sorry but the audio recording of the first lecture didn't start, you can see
 * Multi-model fitting: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ed-xn64yLU5NhKz0m-eyk3gByCw1HSP5AFLw9wEvAKA1hQ?e=bggGdk).
 
 
+[Recording](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=475768d5ed91adfbc12abfec461f2000)
+
 ***
 
 
