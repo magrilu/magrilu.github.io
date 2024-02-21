@@ -20,6 +20,24 @@ description:
 * Basla, _Generative Data Augmentation for Instance Segmentation in Fluorescence Microscopy Images._ [summary](https://www.dropbox.com/scl/fi/0nmm4wrhu54whz6xnqa65/2023_05_Basla_ExecutiveSummary_02.pdf?rlkey=tmg3jknubse6b6gb2hlvahnux&dl=0).
 * Rizzo, _Enhancing QuantTree using kernel functions._ [summary](https://www.dropbox.com/scl/fi/9od8o2x808knojfjmjbni/Kernel_QuantTree___Paolo_Rizzo___Executive_Summary_final.pdf?rlkey=h8yap6fx4gus1v3c6htqtkv33&dl=0), [ppt](https://www.dropbox.com/scl/fi/40urjpf25uuyuhnfy8ivu/Enhancing-QuantTree-using-kernel-functions-Rizzo-Paolo.pptx?rlkey=i0se3sp5h7gzr97emsh0t5hot&dl=0)
 * Gusmeroli, [summary](https://www.dropbox.com/scl/fi/3k651gkckm4k4tb4g721h/Executive_Summary-Stefano-gusmeroli.pdf?rlkey=yvp8wtzm1jjj4n8ryww3h2ukg&dl=0), [ppt](https://www.dropbox.com/scl/fi/rlorfda92a3c7f6cgqj3r/Presentation_Thesis-7_221215_180215.pdf?rlkey=olbwgtf2dmpkd0pkac7zououn&dl=0)
-* Peretti, _Enhancing CNN for Image Denoising by Promoting Non-Local Self-Similarity._ [summary](https://www.dropbox.com/scl/fi/p4q6nc5ef1itfa4m74zvw/executive_summary.pdf?rlkey=lbf0qkobwp7192m1k0m88f7v6&dl=0)
+* Albergoni, 
+* Craighero, 
+* Salamino, 
+* Stven Metaj, 
+* Corsini, 
+* Pecchia, 
+* Gavarini, 
+* Rutigliano, 
+* Randazzo, 
+* Floris,
+* Peretti, _Enhancing CNN for Image Denoising by Promoting Non-Local Self-Similarity._ [summary](https://www.dropbox.com/scl/fi/p4q6nc5ef1itfa4m74zvw/executive_summary.pdf?rlkey=lbf0qkobwp7192m1k0m88f7v6&dl=0), [ppt]()
+* Giulivi, 
 * Diecidue, _Detection of Critical Faults in Deep Neural Networks via auxiliary models._  [ppt](https://www.dropbox.com/scl/fi/8onpcqkxe17jzxnuzjdiv/Detection-of-Critical-Faults-in-Deep-Neural-Networks-1.pdf?rlkey=rjngpe1xjyif9eqk0e6wy2nz6&dl=0) 
+* Fumagalli, 
 * Leveni, _Non-planar Object Detection and Identification by Features Matching and Triangulation Growth._ [ppt](https://www.dropbox.com/scl/fi/b98pjt6jlsvljnoq83aoa/2018_Thesis_Presentation.pdf?rlkey=ywp4c1gp7pwp290v2q25vq6b3&dl=0)
+* Frittoli, 
+* Moioli,
+*  Longoni
+
+
+
