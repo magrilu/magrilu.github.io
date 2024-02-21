@@ -7,7 +7,7 @@ description:
 ---
 
 On this page you will find useful materials to better set up your thesis work.
-This content is mostly curated by by [Prof. Boracchi](https://boracchi.faculty.polimi.it) and it is based on the hints and advices of [Prof. Florian](https://www.floriandaniel.it/students.html) who is kindly aknowledged here.
+This content is mostly curated by by [Prof. Boracchi](https://boracchi.faculty.polimi.it) and it is based on the hints and advices of [Prof. Florian](https://www.floriandaniel.it/students.html) who is kindly acknowledged here.
 
 
 You can join our [Discord server](https://discord.gg/8Pyapvw3).

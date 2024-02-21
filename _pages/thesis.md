@@ -14,7 +14,9 @@ nav_order: 5
 
 > Are you interested in doing a thesis or an industrial internship in Computer Vision?
 
-Typically twice a year (September-February) we present our [thesis proposals][thesisProposal] and you can apply to one of the available thesis. If you want to be updated on the very latest opportunities, just drop an email and let's set up a meeting! 
+Typically twice a year (September-February) we present our [thesis proposals][thesisProposal] and you can apply to one of the available thesis. If you want to be updated on the very latest opportunities, just drop an email and let's set up a meeting!  
+You can visit our <a href="/thof">Thesis-Hall-of-Fame</a>  to get an idea of our past theses.
+
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:2px 0; margin-top:0px; margin-bottom:2px">
  Are already enrolled in one of our theses? Have a look at the <a href="/tht">Thesis-How-To</a> page!
