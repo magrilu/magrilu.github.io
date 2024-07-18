@@ -11,7 +11,8 @@ Lecture slides in Geometric Computer Vision [available here][GCVslides].
 
 * [Informatica A]([infoa]) (Ingegneria Gestionale)
 * [Image Analysis and Computer Vision](iacv)
-* Deep learning for Computer Vision
+* Deep learning for Computer Vision (@Bocconi)
+* Computer Vision and Image Processing (@Bocconi)
 * 3D Structure from Visual Motion (PhD course)
 
 A full list of all past courses is provided below
