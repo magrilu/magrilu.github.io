@@ -43,6 +43,11 @@ Thesis topics include
 You can have a look at the thesis I supervised to get an idea of the topics I worked on.
 
 #### Thesis supervised 
+
+
+* Andrea Bonatti, _Liquid Lens Calibration._  MSc in Computer Science and Engineering. July 2024, PoliMi. 
+* Barini Matteo, _Image rectification with a known template._  MSc in Mathematical Engineering. March 2024, PoliMi. 
+* Simone Colombara, _Computing correspondences for Partial Shape Matching via Functional Maps._  MSc in Mathematical Engineering. December 2023, PoliMi.
 * Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._  MSc in Computer Science and Engineering. October 2023, PoliMi.
 * Leonardo Perelli, _Trifocal Tensor Estimation for n-view Deep Structure-from-Motion._ MSc  in Mathematical Engineering. October 2022, PoliMi.
 * Lucia Gioria, _Improving Explainable Clustering via Probabilistic Modeling._ MSc  in Mathematical Engineering. October 2022, PoliMi.
