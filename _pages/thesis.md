@@ -19,7 +19,6 @@ You can visit our <a href="/thof">Thesis-Hall-of-Fame</a>  to get an idea of our
 
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:2px 0; margin-top:0px; margin-bottom:2px">
- Are already enrolled in one of our theses? Have a look at the <a href="/tht">Thesis-How-To</a> page!
 </div>
 
 
