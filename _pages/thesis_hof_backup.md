@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /thof/
+permalink: /thof_bkp/
 title: Thesis Hall of Fame
 nav: false
 description: 
