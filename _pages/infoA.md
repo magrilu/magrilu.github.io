@@ -21,6 +21,8 @@ Border="0"  width="350" height="auto">
 
 ### Calendario
 
+La prima lezione del corso si terrà lunedì 16/09/24 in L.09 dalle 9:30 alle 11:15.
+
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FRome&showTitle=0&showDate=1&showPrint=0&showTabs=0&showTz=0&showCalendars=0&mode=AGENDA&showNav=0&src=ZTMwOWNlMWQ3NjZmYjRkNzE4Yjc5NDM2MjY0NDIxYjFjM2RkNWVjODg0NjczZTkyMGVkMjMxY2IzNzlmOWFjM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%2333B679" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
 
 
@@ -43,15 +45,15 @@ Quando disponibile, potete consultare la versione completa per verificare la cor
 
 ### Esercitazioni
 
-Le esercitazioni del corso sono tenute dal Dr. Michele Zanella il giovedì dalle ore 15:15 alle ore 18:15 secondo il calendario. Il materiale delle esercitazioni è disponibile su Webeep.
+Le esercitazioni del corso sono tenute da Dr. Michele Zanella, Dr. Michele Craighero.  Il materiale delle esercitazioni è disponibile anche su Webeep.
 
 ### Laboratori
 
-I laboratori del corso sono tenuti da Roberto Basla e Michele Craighero il venerdì secondo il calendario.
+I laboratori del corso sono tenuti da Roberto Basla e Riccardo Margheritti e Olmo Notarianni il venerdì secondo il calendario.
 I laboratori sono articolati su 3 squadre in 3 turni differenti:
-* Squadra 1: BL27.16, 8:15-11:15, da AAKRI a BABBO
-* Squadra 2: BL27.16, 11:15-14:15,  da BACCINI a BERNASCONI
-* Squadra 3: B8.1.2, 11:15-14:15,  da BERTI a CHIRASOLE
+* Squadra 1: BL27.1.4, 8:15-11:15, da ABDELGALIL a BERTOLI 
+* Squadra 2: BL27.1.4, 11:15-14:15,  da BESATI a CAMPAGNA 
+* Squadra 3: B6.2.1, 11:15-14:15,  da CAMPOREALE a CHITTI
 
 ***
 
@@ -84,7 +86,7 @@ if(risposte_corrette_parte_A>=5){
 
 I **temi d'esame** degli anni passati sono disponibili [qui](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EoqBf6kpCkhEg0mr3tjv7J0BpolR6VzGWB5FNBaO2uRRZA?e=W91r6P). È un'ottima idea svolgere i vecchi temi d'esame per verificare la propria preparazione.
 
-L'esame si svolgerà al computer ma non sarà possibile usare un IDE, bisognerà completare un pdf utilizzando adobe reader e sarà necessario collegarsi a zoom (è necessario aver installato e funzionanti entrambe le applicazioni). Vi verranno fornite per tempo istruzioni dettagliate su come procedere per poter svolgere l'esame in modo sereno. 
+ Vi verranno fornite per tempo istruzioni dettagliate su come procedere per poter svolgere l'esame in modo sereno. 
 
 
 ***
