@@ -5,8 +5,32 @@ title: Thesis Hall of Fame
 nav: false
 description: 
 ---
+Here are some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 
 
+{% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+* Francesco Azzoni
+* Andrea Marelli
+* Carlo Sgaravatti
+* Olmo Michelangelo Notarianni
+* Fiore Amarù, Michele Alziati
+* Andrea Porfiri Dal Cin
+* Matteo Farina
+
+
+We are happy if you wanto to aim at a publication, but please keep also in mind, that:
+
+> It is good to have an end to journey toward; but it is the journey that matters, in the end. _Hemingway_
+
+A thesis is successful if, regardless of publications, it makes you grow as a student, engineer, researcher, and, why not? human being.
+
+
+
+
+Other theses to have a look at:
 
 * Romeo, _Forcing latent space Disentanglement for enhanced model Explainability._ [summary](https://www.dropbox.com/scl/fi/a11svgvqudkv9aeh6ggvi/Thesis.pdf?rlkey=wjknv1flrybvm3nkxbo5em1ub&dl=0), [ppt](https://www.dropbox.com/scl/fi/leotn6igx7hj4e83c4oal/slides-Federico-Romeo_final.pptx?rlkey=ihwklfqdreundl8t7f4ey7fl6&dl=0)
 * Rios,_Geometric Supervision for Efficient Reconstruction and Pose Refinement in Neural Radiance Fields_ [summary](https://www.dropbox.com/scl/fi/kawfljy558gcdl8ajhesi/nerf_executive_summary_19_09.pdf?rlkey=wokvaxpl3mgktqfiyuxw6f7r9&dl=0)
