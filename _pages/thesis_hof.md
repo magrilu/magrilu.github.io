@@ -9,13 +9,30 @@ Here are some particularly worthy theses, some of which have been then evolved i
 
 
 
-* Francesco Azzoni
-* Andrea Marelli
-* Carlo Sgaravatti
+### Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._
+*[Executive Summary]()
+*[Slides]()
+*[Paper]()
+The work has been published and presented at ECCV 2024.
+
+### Andrea Marelli,
+*[Executive Summary]()
+*[Slides]()
+*[Paper]()
+The work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
+
+### Carlo Sgaravatti
+*[Executive Summary]()
+*[Slides]()
+*[Paper]()
+The work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
+
 * Olmo Michelangelo Notarianni
-* Fiore Amarù, Michele Alziati
-* Andrea Porfiri Dal Cin
+### Fiore Amarù, Michele Alziati
 * Matteo Farina
+
+* Andrea Porfiri Dal Cin
+
 
 
 We are happy if you wanto to aim at a publication, but please keep also in mind, that:
