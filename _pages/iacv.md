@@ -5,9 +5,10 @@ title: Image Analysis and Computer Vision
 ---
 <img src="../assets/img/ciclope.jpg" align="right" Hspace="15" Vspace="0" 
 Border="0"  width="200" height="auto">
-#####   Politecnico di Milano, 2023/2024
+#####   Politecnico di Milano, 2024/2025
 
-This page collects material for the Image Analysis and Computer Vision course taught by Prof. Caglioti at the Politecnico di Milano. In particular, you will find material for the practical sessions given by  Prof. Giacomo Boracchi and me. You can consult both weebep and [Prof. Boracchi's page](https://boracchi.faculty.polimi.it/teaching/IACV.htm) for other resources.
+This page collects material for the Image Analysis and Computer Vision course taught by Prof. Caglioti. 
+In particular, here you will find some material for the practical sessions. You can consult both weebep and [Prof. Boracchi's page](https://boracchi.faculty.polimi.it/teaching/IACV.htm) for other resources.
 
 ***
 
@@ -27,7 +28,7 @@ If you are interested in doing a [thesis in Computer Vision](https://magrilu.git
     {% include figure.html path="assets/img/cube_iacv.png" class="img-fluid rounded" zoomable=false %} 
 </div>
 
-* Introduction to MatLab:  [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ES_imzLg2ClHiSaPRU6EXOsBVhtbhJZDJBdkl0-GyMXVsg?e=gUqsRg).
+* Introduction to MatLab: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ES_imzLg2ClHiSaPRU6EXOsBVhtbhJZDJBdkl0-GyMXVsg?e=gUqsRg).
 * Introduction to image processing in MatLab: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EWekWQ3NPDlCqubZjncu3sABQe1IIw0gaFzzvnJXtIJEJw?e=iZNWXg).
 * Homogenous coordinates, points line and duality: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EXwgWsWwyIVDu_FCkdQ3pRsBhU1-jQQchsbl7WmEdQHrZw?e=prh6aj). 
 * Drawing a cube in isometric projection: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EREdWc5lK9BDoj0VfpkDxy0BHuuZogbld4d2sV7H_Xu1gw?e=dq8oll).
@@ -40,11 +41,11 @@ Extra:
 * Horizon from three equally spaced coplanar lines: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ebr1CMH6bNtFhmM8wbYLbnIB6vxB5Gno_oLOx6Pyc7x2Tw?e=J5SPhJ).
 
 <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.html path="assets/img/metric_iacv.jpg" class="img-fluid rounded" zoomable=false %} 
+    {% include figure.html path="assets/img/metric_iacv.jpg" class="img-fluid rounded"  style="max-width: 50%;" zoomable=false %} 
 </div>
 
 
-#### Conic and Homography estimation
+#### Conic and Homography estimation via DLT
 
 <div class="col-sm-6 mt-3 mt-md-0">
     {% include figure.html path="assets/img/panorama.jpg" class="img-fluid rounded" zoomable=false %} 
