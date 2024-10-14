@@ -6,7 +6,7 @@ title: Informatica A
 
 <img src="../assets/img/dog_infoa.jpg" align="right" Hspace="18" Vspace="15" 
 Border="0"  width="350" height="auto">
-#####   Ingegneria Gestionale, PoliMi, 2023/2024
+#####   Ingegneria Gestionale, PoliMi, 2024/2025
 
 *** 
 

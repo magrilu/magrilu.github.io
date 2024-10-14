@@ -7,19 +7,19 @@ title: Image Analysis and Computer Vision
 Border="0"  width="200" height="auto">
 #####   Politecnico di Milano, 2024/2025
 
-This page collects material for the Image Analysis and Computer Vision course taught by Prof. Caglioti. 
-In particular, here you will find some material for the practical sessions. You can consult both weebep and [Prof. Boracchi's page](https://boracchi.faculty.polimi.it/teaching/IACV.htm) for other resources.
+This page collects some material for the the practical sessions of Image Analysis and Computer Vision course taught by Prof. Caglioti. You can consult weebep for other resources.
 
 ***
 
 > ##### Theses in Computer Vision available!
-If you are interested in doing a [thesis in Computer Vision](https://magrilu.github.io/thesis/) send an email to schedule a meeting! We will update you on the [latest opportunities][thesisProposal] available.
+If you are interested in doing a [thesis in Computer Vision](https://magrilu.github.io/thesis/) send an email to schedule a meeting!
 
 ***
 
 ## Material
 
 * [Shared folder](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/Eob0HjQK20FKj315cVLFH-sBYxt9Clukjnq4zmjmtBWHSg?e=Tvkoqq) collecting the "todo" source files and the data I used during the practical sessions.
+* Recordings of my practical sessions [link](https://docs.google.com/spreadsheets/d/1SWuwLzWNb-8hCOPULQUSghMeCD174pNePTUSh1BfUuY/edit?usp=sharing)
 * The template for the report of the final project: [zip file](https://polimi365-my.sharepoint.com/:u:/g/personal/10755186_polimi_it/EXhqADe0KkZGlp9CWQ1nitsBlfI9aLphLl1cqkoIHmJ5Yg?e=X0joWl)
 
 #### Homogeneous coordinates, lines and vanishing points
