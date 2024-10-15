@@ -11,8 +11,6 @@ children:
       permalink: /infoA/
     - title: IACV
       permalink: /iacv/
-    - title: Computer Science
-      permalink: /cs2022/
     - title: All courses
       permalink: /courses/
 ---
