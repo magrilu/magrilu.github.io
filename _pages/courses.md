@@ -7,29 +7,30 @@ description:
 
 Lecture slides in Geometric Computer Vision [available here][GCVslides]. 
 
-#### A.Y. 2023-2024
+## A.Y. 2024-2025
 
 * [Informatica A]([infoa]) (Ingegneria Gestionale)
-* [Image Analysis and Computer Vision](iacv)
+* [Image Analysis and Computer Vision](iacv) T.A.
 * Deep learning for Computer Vision (@Bocconi)
 * Computer Vision and Image Processing (@Bocconi)
-* 3D Structure from Visual Motion (PhD course)
 
-A full list of all past courses is provided below
 
-## All Courses
+
+## Past Courses
 
 #### PhD Courses in Computer Vision
 
-* 2023 3D Structure from Visual Motion: Structure from Motion, Visual Odometry, and Visual Simultaneous Localization and Mapping
-* 2022 Geometric Computer Vision: from Images to 3D Models with F. Arrigoni (15h, 1.5 ECTS) Doctoral Program in Information and Communication Technology, DDepartment of Computer Control and Management Engineering, Università Sapienza di Roma.<br>
+* 2023 Advanced Deep Learning Models and Methods for 3D spatial data, 1 CFU on [depth map estimation][depthmap], Doctoral Program in Information Technology,  DEIB, PoliMi.<br>
+* 2023 3D Structure from Visual Motion: Structure from Motion, Visual Odometry, and Visual Simultaneous Localization and Mapping, 1 CFU on [image matching and robust fitting][stereo_matching],  Doctoral Program in Information Technology,  DEIB, PoliMi.<br>
+* 2022 Geometric Computer Vision: from Images to 3D Models with F. Arrigoni (15h, 1.5 ECTS) Doctoral Program in Information and Communication Technology, Department of Computer Control and Management Engineering, Università Sapienza di Roma.<br>
 * 2021 [Geometric Computer Vision: from Images to 3D Models][im23d] with F. Arrigoni (20h, 3CFU) Doctoral Program in Information Engineering and Computer Science, Department of Information Engineering and Computer Science, University of Trento.<br>
 
 
 #### MSc  @ Politecnico di Milano
+* 2023-2024 [Image Analysis and Computer Vision][iacv], teaching assistant (course by Prof. V. Caglioti)
 * 2023-2024 Informatica A, Faculty of Managment Engeneering
 * 2022-2023 [Computer Science][cs], Faculty of Civil Engineering
-* 2022-2023 [Image Analysis and Computer Vision][iacv], teaching assistant (course by Prof. V. Caglioti)
+* 2022-2023 Image Analysis and Computer Vision, teaching assistant (course by Prof. V. Caglioti)
 * 2022-2023 [Laboratorio di Informatica A][labinfo], teaching assistant (course by Prof. F. Arrigoni), Faculty of Managment Engineering
 * 2022-2023 Laboratorio di Informatica B, teaching assistant (coruse by Prof. M.D. Santambrogio), Faculty of Mechanical Engineering
 * 2021-2022 Computer Science, Faculty of Civil Engineering
@@ -38,7 +39,8 @@ A full list of all past courses is provided below
 * 2020-2021 Image Analysis and Computer Vision, teaching assistant (course by Prof. V. Caglioti)
 
 #### MSc @ Bocconi
-* 2023-2024 Deep learning for Computer Vision
+* 2023-2024 Computer Vision and Image Processing (co-taught with Prof. Giacomo Boracchi)
+* 2023-2024 Deep learning for Computer Vision (co-taught with Prof. Giacomo Boracchi)
 
 #### Undergrad @ Università degli Studi di Milano
 * 2017-2018 Introductory course in Mathematics for first year student, Faculty of Mathematics
@@ -58,3 +60,5 @@ A full list of all past courses is provided below
 [im23d]: https://ict.unitn.it/node/873
 [GCVslides]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eauelm2WqCJFloXOfv1OLjYBGTifoqyQAYQY1zTwccyu7A?e=CwzS05
 [thesisProposal]:https://boracchi.faculty.polimi.it/docs/Thesis_Opportunities_Boracchi.pdf
+[depthmap]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZ2JwXdypa1IhL7Fjz-Ivp4BN1UsVGqixy9WnvMFVukWpg?e=rOllRS
+[stereo_matching]:https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EVTa-cYDneJJgK_vTiIc6qcBfm3Y_2gbqG16GqtFgPEh6w?e=slY44i

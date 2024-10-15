@@ -7,7 +7,7 @@ title: Image Analysis and Computer Vision
 Border="0"  width="200" height="auto">
 #####   Politecnico di Milano, 2024/2025
 
-This page collects some material for the the practical sessions of Image Analysis and Computer Vision course taught by Prof. Caglioti. You can consult weebep for other resources.
+This page collects some material for the the practical sessions of Image Analysis and Computer Vision taught by Prof. Caglioti. Please consult weebep for other resources.
 
 ***
 
@@ -25,7 +25,7 @@ If you are interested in doing a [thesis in Computer Vision](https://magrilu.git
 #### Homogeneous coordinates, lines and vanishing points
 
 <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.html path="assets/img/cube_iacv.png" class="img-fluid rounded" zoomable=false %} 
+    {% include figure.html path="assets/img/cube_iacv.png" class="img-fluid rounded" style="max-width: 20%;" zoomable=false %} 
 </div>
 
 * Introduction to MatLab: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ES_imzLg2ClHiSaPRU6EXOsBVhtbhJZDJBdkl0-GyMXVsg?e=gUqsRg).
