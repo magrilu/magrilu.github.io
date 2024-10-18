@@ -9,27 +9,28 @@ Page under construction
 
 Here are some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 
+<img src="../assets/img/imthof.jpg" align="right" Hspace="18" Vspace="15" 
+Border="0"  width="350" height="auto">
 
-
-* Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._
+* Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._<br>
 The work has been published and presented at ECCV 2024.
 
-* Andrea Marelli, _Temporal consistent CAMs for weakly supervised video segmentation in Waste Sorting_
+* Andrea Marelli, _Temporal consistent CAMs for weakly supervised video segmentation in Waste Sorting_<br>
 The work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
 
-* Carlo Sgaravatti, _A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection_
+* Carlo Sgaravatti, _A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection_<br>
 The work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
 
-* Olmo Michelangelo Notarianni, _Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree_
+* Olmo Michelangelo Notarianni, _Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree_<br>
 The work has been published and presented at the Advanced Analytics and Learning on Temporal Data Workshop at ECML 2024
 
-* Fiore Amarù, Michele Alziati, _Ensemble clustering via synchronized relabelling_
-The work has been published at Pattern Recognition Letters.
+* Fiore Amarù, Michele Alziati, _Ensemble clustering via synchronized relabelling_.<br>
+The work has been published at Pattern Recognition Letters, August 2024
 
-* Matteo Farina, _Quantum Multi-Model Fitting_.
+* Matteo Farina, _Quantum Multi-Model Fitting_.<br>
 The work has been published and presented as an highlights at CVPR 2023.
 
-* Andrea Porfiri Dal Cin, _Synchronization of Group-labelled Multi-graphs_
+* Andrea Porfiri Dal Cin, _Synchronization of Group-labelled Multi-graphs_.<br>
 The work has been published and presented  at ICCV 2022.
 
 
@@ -38,8 +39,6 @@ We are happy if you wanto to aim at a publication, but please keep also in mind,
 > It is good to have an end to journey toward; but it is the journey that matters, in the end. _Hemingway_
 
 A thesis is successful if, regardless of publications, it makes you grow as a student, engineer, researcher, and, why not? human being.
-
-
 
 
 Other theses to have a look at:
