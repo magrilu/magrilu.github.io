@@ -5,32 +5,34 @@ title: Thesis Hall of Fame
 nav: false
 description: 
 ---
+Page under construction
+
 Here are some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 
 
 
-### Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._
+ Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._
 *[Executive Summary]()
 *[Slides]()
 *[Paper]()
 The work has been published and presented at ECCV 2024.
 
-### Andrea Marelli,
+ Andrea Marelli,
 *[Executive Summary]()
 *[Slides]()
 *[Paper]()
 The work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
 
-### Carlo Sgaravatti
+ Carlo Sgaravatti,
 *[Executive Summary]()
 *[Slides]()
 *[Paper]()
 The work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
 
 * Olmo Michelangelo Notarianni
-### Fiore Amarù, Michele Alziati
-* Matteo Farina
+* Fiore Amarù, Michele Alziati,
 
+* Matteo Farina
 * Andrea Porfiri Dal Cin
 
 
