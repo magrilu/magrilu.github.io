@@ -10,7 +10,7 @@ Page under construction
 Here are some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 
 <img src="../assets/img/imthof.jpg" align="right" Hspace="18" Vspace="15" 
-Border="0"  width="350" height="auto">
+Border="0"  width="auto" height="350">
 
 * Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._<br>
 The work has been published and presented at ECCV 2024.
