@@ -11,30 +11,26 @@ Here are some particularly worthy theses, some of which have been then evolved i
 
 
 
- Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._
-*[Executive Summary]()
-*[Slides]()
-*[Paper]()
+* Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._
 The work has been published and presented at ECCV 2024.
 
- Andrea Marelli,
-*[Executive Summary]()
-*[Slides]()
-*[Paper]()
+* Andrea Marelli, _Temporal consistent CAMs for weakly supervised video segmentation in Waste Sorting_
 The work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
 
- Carlo Sgaravatti,
-*[Executive Summary]()
-*[Slides]()
-*[Paper]()
+* Carlo Sgaravatti, _A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection_
 The work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
 
-* Olmo Michelangelo Notarianni
-* Fiore Amarù, Michele Alziati,
+* Olmo Michelangelo Notarianni, _Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree_
+The work has been published and presented at the Advanced Analytics and Learning on Temporal Data Workshop at ECML 2024
 
-* Matteo Farina
-* Andrea Porfiri Dal Cin
+* Fiore Amarù, Michele Alziati, _Ensemble clustering via synchronized relabelling_
+The work has been published at Pattern Recognition Letters.
 
+* Matteo Farina, _Quantum Multi-Model Fitting_.
+The work has been published and presented as an highlights at CVPR 2023.
+
+* Andrea Porfiri Dal Cin, _Synchronization of Group-labelled Multi-graphs_
+The work has been published and presented  at ICCV 2022.
 
 
 We are happy if you wanto to aim at a publication, but please keep also in mind, that:
