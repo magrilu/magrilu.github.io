@@ -9,6 +9,8 @@ Page under construction
 
 Here are some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 
+{% include figure.liquid loading="eager" path="../assets/img/imthof.jpg"  class="img-fluid rounded z-depth-1" %}
+
 <img src="../assets/img/imthof.jpg" align="center" Hspace="18" Vspace="15" 
 Border="0"  width="auto" height="150">
 
