@@ -13,7 +13,7 @@ nav_order: 5
 > Are you interested in doing a thesis or an industrial internship in Computer Vision?
 
 Typically twice a year (September-February) we present our thesis proposal. If you want to be updated on the very latest opportunities, just drop an email!  
-We organize a series of <a href="/thof">Thesis-How-To</a> meetings to guide you towards the tehsis process.
+We organize a series of <a href="/tht">Thesis-How-To</a> meetings to guide you towards the tehsis process.
 
 You can visit our <a href="/thof">Thesis-Hall-of-Fame</a>  to get an idea of our past theses.
 
@@ -43,7 +43,7 @@ You can have a look at the thesis I supervised to get an idea of the topics I wo
 
 #### Thesis supervised 
 
-
+* Erica Manfrin, _Structure-based anomaly detection on 3D Point Clouds._ MSc in Mathematical Engineering. October 2024, PoliMi.
 * Andrea Bonatti, _Liquid Lens Calibration._  MSc in Computer Science and Engineering. July 2024, PoliMi. 
 * Barini Matteo, _Image rectification with a known template._  MSc in Mathematical Engineering. March 2024, PoliMi. 
 * Simone Colombara, _Computing correspondences for Partial Shape Matching via Functional Maps._  MSc in Mathematical Engineering. December 2023, PoliMi.
