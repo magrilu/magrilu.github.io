@@ -5,13 +5,29 @@ title: Thesis Hall of Fame
 nav: false
 description: 
 ---
-Page under construction
+:construction: Page under construction :construction:
 
-Here are some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
+Here you can find some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 
 
 <img src="../assets/img/imthof.jpg" align="center" 
-Border="0"  width="auto" height="150">
+Border="0"  width="auto" height="160">
+
+# Theses and Publications
+
+| **Autore** | **Nome della Tesi**                                                                                     | **Slide** | **Extended Abstract** | **Pubblicazione**                                       |
+|-----------------------------|---------------------------------------------------------------------------------------------------------|-----------|------------------------|---------------------------------------------------------|
+| Francesco Azzoni            | *Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras*                              | -         | -                      | ECCV 2024                                               |
+| Andrea Marelli              | *Temporal consistent CAMs for weakly supervised video segmentation in Waste Sorting*                   | -         | -                      | Industrial Vision Workshop at ECCV 2024                |
+| Carlo Sgaravatti            | *A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection*                     | -         | -                      | Industrial Vision Workshop at ECCV 2024                |
+| Olmo Michelangelo Notarianni| *Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree*                 | -         | -                      | Advanced Analytics and Learning on Temporal Data Workshop at ECML 2024 |
+| Fiore Amarù, Michele Alziati| *Ensemble clustering via synchronized relabelling*                                                     | -         | -                      | Pattern Recognition Letters, August 2024               |
+| Matteo Farina               | *Quantum Multi-Model Fitting*                                                                         | -         | -                      | CVPR 2023 Highlights                                    |
+| Andrea Porfiri Dal Cin      | *Synchronization of Group-labelled Multi-graphs*                                                      | -         | -                      | ICCV 2022                                               |
+
+
+
+
 
 * Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._<br>
 The work has been published and presented at ECCV 2024.

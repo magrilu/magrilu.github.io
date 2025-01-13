@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-* Politecnico di Milano, <br> <a href="https://www.deib.polimi.it/ita/home">Dipartimento di Elettronica Informazione Bioingegneria</a> <br>
+* Associate Professor at Politecnico di Milano, <br> <a href="https://www.deib.polimi.it/ita/home">Dipartimento di Elettronica Informazione Bioingegneria</a> <br>
 Via Ponzio 34/5,<br>
 20133 Milano, Italia ([map](https://www.deib.polimi.it/eng/how-to-reach-us))
 
