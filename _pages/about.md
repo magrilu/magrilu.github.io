@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher (RTD-b)
+subtitle: Associate Professor
 
 profile:
   align: right

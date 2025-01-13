@@ -39,10 +39,12 @@ Thesis topics include
          A demo from the thesis of F. Azzoni to auto-calibrate a wide-angle camera (AR video before the and after the autocalibration).
     </div> 
 </div>
-You can have a look at the thesis I supervised to get an idea of the topics I worked on.
+You can have a look at the thesis I supervised to get an idea of the topics I am interested in.
 
 #### Thesis supervised 
 
+* Andrea Ferraris, _Geometric-Aware Local Optimization for Primitive Fitting_. MSc in Computer Science and Engineering. December 2024, PoliMi.
+* Andrea Naclerio, _Vision-Based Heart Rate Monitoring: Towards Adaptive Dynamic ROI Selection._ MSc in Biomedical Engineering. December 2024, PoliMi.
 * Erica Manfrin, _Structure-based anomaly detection on 3D Point Clouds._ MSc in Mathematical Engineering. October 2024, PoliMi.
 * Andrea Bonatti, _Liquid Lens Calibration._  MSc in Computer Science and Engineering. July 2024, PoliMi. 
 * Barini Matteo, _Image rectification with a known template._  MSc in Mathematical Engineering. March 2024, PoliMi. 

@@ -14,7 +14,7 @@ From 2015 to 2018, I have been a post-doc researcher first at the University of 
 
 In 2018-2019 I joined the R&D group of [FARO Technologies][faro] (Rezzato, IT) where I worked as a 3D software Engineer on acquisition and registration techniques for structured light scanner.
 
-Now I am at Dipartimento di Elettronica, Informazione e Bioingegneria of the Politecnico di Milano (DEIB) as an Assistant Professor (RTD-b).
+Since november 2019 I joined the Dipartimento di Elettronica, Informazione e Bioingegneria of the Politecnico di Milano (DEIB) where now I am an Associate Professor.
 
 * Curriculum Vitae: [<a href="https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EbuNPSfUEdpGlpQhguuCaRcBzy4X_zgzxZ2laowF-zkEnQ?e=UWAhTL">full cv </a>]
 * [Publications](/publications)
