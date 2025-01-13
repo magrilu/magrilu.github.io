@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /thof/
-title: Thesis Hall of Fame :trophy:
+title: Thesis Hall of Fame 
 nav: false
 description: Here you can find some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 ---
