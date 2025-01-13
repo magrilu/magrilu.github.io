@@ -9,7 +9,6 @@ description: :trophy: Here you can find some particularly worthy theses, some of
 <img src="../assets/img/imthof.jpg" align="center" 
 Border="0"  width="auto" height="160">
 
-:construction: `work in progess`
 
 
 *  Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._<br>
@@ -28,11 +27,10 @@ The work has been published and presented as an highlights at CVPR 2023.
 The work has been published and presented  at ICCV 2022.
 
 
-We are happy if you wanto to aim at a publication, but please keep also in mind, that:
+We are happy if you want to aim at a publication, but please keep also in mind, that:
 
 > It is good to have an end to journey toward; but it is the journey that matters, in the end. _Hemingway_
 
-A thesis is successful if, regardless of publications, it makes you grow as a student, engineer, researcher, and, why not? human being.
 
 
 Other theses to have a look at:
