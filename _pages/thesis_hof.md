@@ -11,7 +11,7 @@ Border="0"  width="auto" height="160">
 
 :construction: `work in progess`
 
-<div style="background-color:rgb(239, 149, 84); padding: 10px; border-radius: 5px;">
+
 *  Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._<br>
 The work has been published and presented at ECCV 2024.
 * Andrea Marelli, _Temporal consistent CAMs for weakly supervised video segmentation in Waste Sorting_<br>
@@ -26,9 +26,6 @@ The work has been published at Pattern Recognition Letters, August 2024
 The work has been published and presented as an highlights at CVPR 2023.
 * Andrea Porfiri Dal Cin, _Synchronization of Group-labelled Multi-graphs_.<br>
 The work has been published and presented  at ICCV 2022.
-
-
-</div>
 
 
 We are happy if you wanto to aim at a publication, but please keep also in mind, that:
