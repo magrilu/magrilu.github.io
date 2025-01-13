@@ -1,52 +1,30 @@
 ---
 layout: page
 permalink: /thof/
-title: Thesis Hall of Fame
+title: Thesis Hall of Fame :trophy:
 nav: false
-description: 
+description: Here you can find some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 ---
 :construction: Page under construction :construction:
-
-Here you can find some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 
 
 <img src="../assets/img/imthof.jpg" align="center" 
 Border="0"  width="auto" height="160">
 
-# Theses and Publications
-
-| **Autore** | **Nome della Tesi**                                                                                     | **Slide** | **Extended Abstract** | **Pubblicazione**                                       |
-|-----------------------------|---------------------------------------------------------------------------------------------------------|-----------|------------------------|---------------------------------------------------------|
-| Francesco Azzoni            | *Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras*                              | -         | -                      | ECCV 2024                                               |
-| Andrea Marelli              | *Temporal consistent CAMs for weakly supervised video segmentation in Waste Sorting*                   | -         | -                      | Industrial Vision Workshop at ECCV 2024                |
-| Carlo Sgaravatti            | *A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection*                     | -         | -                      | Industrial Vision Workshop at ECCV 2024                |
-| Olmo Michelangelo Notarianni| *Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree*                 | -         | -                      | Advanced Analytics and Learning on Temporal Data Workshop at ECML 2024 |
-| Fiore Amarù, Michele Alziati| *Ensemble clustering via synchronized relabelling*                                                     | -         | -                      | Pattern Recognition Letters, August 2024               |
-| Matteo Farina               | *Quantum Multi-Model Fitting*                                                                         | -         | -                      | CVPR 2023 Highlights                                    |
-| Andrea Porfiri Dal Cin      | *Synchronization of Group-labelled Multi-graphs*                                                      | -         | -                      | ICCV 2022                                               |
 
 
-
-
-
-* Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._<br>
+*  Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._<br>
 The work has been published and presented at ECCV 2024.
-
 * Andrea Marelli, _Temporal consistent CAMs for weakly supervised video segmentation in Waste Sorting_<br>
 The work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
-
 * Carlo Sgaravatti, _A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection_<br>
 The work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
-
 * Olmo Michelangelo Notarianni, _Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree_<br>
 The work has been published and presented at the Advanced Analytics and Learning on Temporal Data Workshop at ECML 2024
-
 * Fiore Amarù, Michele Alziati, _Ensemble clustering via synchronized relabelling_.<br>
 The work has been published at Pattern Recognition Letters, August 2024
-
 * Matteo Farina, _Quantum Multi-Model Fitting_.<br>
 The work has been published and presented as an highlights at CVPR 2023.
-
 * Andrea Porfiri Dal Cin, _Synchronization of Group-labelled Multi-graphs_.<br>
 The work has been published and presented  at ICCV 2022.
 
