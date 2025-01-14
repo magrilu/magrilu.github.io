@@ -7,11 +7,9 @@ description: Here you can find some particularly worthy theses, some of which ha
 ---
 
 <div class="d-flex justify-content-center">
-    {% include figure.html path="assets/img/imthof.jpg" class="img-fluid rounded" style="max-width: 50%;" zoomable=false %}
+    {% include figure.html path="assets/img/imthof.jpg" class="img-fluid rounded" style="max-width: 40%; caption="Our students A. Marelli, F. Azzoni and M. Farina proudly presenting their work during a poster sessions at international conferences."; " zoomable=false %}
 </div>
 
-<img src="../assets/img/imthof.jpg" align="center" 
-Border="0"  width="auto" height="160">
 
 
 *  Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._<br>
