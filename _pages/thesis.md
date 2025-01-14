@@ -10,10 +10,12 @@ nav_order: 5
 > It is good to have an end to journey toward; but it is the journey that matters, in the end. _Hemingway_
 
 :mortar_board: Typically twice a year (September-February) we present our **thesis proposal**.
-:envelope: If you want to be updated on the very latest opportunities, just drop an email! 
+
 :pushpin: We organize a series of <a href="/tht">Thesis-How-To</a> meetings to guide you during your thesis.
+
 :trophy: You can visit our <a href="/thof">Thesis-Hall-of-Fame</a>  to get an idea of our past theses.
 
+:envelope: If you want to be updated on the very latest opportunities, just drop an email!
 
 
 Thesis topics include

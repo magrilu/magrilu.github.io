@@ -12,7 +12,7 @@ This page collects some material for the the practical sessions of Image Analysi
 ***
 
 > ##### Theses in Computer Vision available!
-If you are interested in doing a [thesis in Computer Vision](https://magrilu.github.io/thesis/) send an email to schedule a meeting!
+If you are interested in doing a [thesis in Computer Vision](https://magrilu.github.io/thesis/) send me an email to schedule a meeting!
 
 ***
 
@@ -74,15 +74,22 @@ Extra:
 
 #### Robust fitting
 <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.html path="assets/img/ransac.jpg" class="img-fluid rounded" zoomable=false %} 
+    {% include figure.html path="assets/img/ransac.gif" class="img-fluid rounded" zoomable=false %} 
 </div>
 
 * [Slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ee-2oFfzrZFOpPDVcGP7aeABfRjSxqwl6z7UjCLitOdIsA?e=HjiNBa)
-* Feature matching: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ER-BbzdpZIxAs8ZSpbA-g4AB6RC9Yz4qq4uMmXLn7k3CKw?e=KZggFs).
 * Random Sample Consensus : [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EXhVEKV9ZSRCisPpBtvlCloBDxTRaJoClD_JEpBtzOz5Fw?e=5wt7gR).
-* Least Median of Squares rectification stratified: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EU649eHcmbdIo6MT4pxKT8wBzAhLP6RK7NlNPbnke43q0Q?e=vJZhfE).
+* Least Median of Squares: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EU649eHcmbdIo6MT4pxKT8wBzAhLP6RK7NlNPbnke43q0Q?e=vJZhfE).
 * Multi-model fitting: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ed-xn64yLU5NhKz0m-eyk3gByCw1HSP5AFLw9wEvAKA1hQ?e=bggGdk).
 
+
+#### Matching
+
+<div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.html path="assets/img/cavallo.jpg" class="img-fluid rounded" zoomable=false %} 
+</div>
+* [Slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EX2JdhAq3OJDqPhsfxEnVgwBVPzknIyS1g06uJzvXW62JQ?e=YPHffc)
+* Feature matching: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ER-BbzdpZIxAs8ZSpbA-g4AB6RC9Yz4qq4uMmXLn7k3CKw?e=KZggFs).
 
 ***
 

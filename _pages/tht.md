@@ -21,7 +21,6 @@ The content is also curated by [Prof. Boracchi](https://boracchi.faculty.polimi.
 
 ## Resources
 
-Please fill in this [form](https://forms.office.com/e/ZWxekFkUem) to request access to our machines with GPU and to the Airlab.
+:abacus: Please fill in this [form](https://forms.office.com/e/ZWxekFkUem) to request access to our machines with GPU and to the Airlab.
 
-
-You can join our [Discord server](https://discord.gg/2C6rt3NBke).
+:wave: You can join our [Discord server](https://discord.gg/2C6rt3NBke).
