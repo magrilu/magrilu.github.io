@@ -27,11 +27,6 @@ The work has been published and presented as an highlights at CVPR 2023.
 The work has been published and presented  at ICCV 2022.
 
 
-
-
-
-
-
 Other theses to have a look at:
 
 * Romeo, _Forcing latent space Disentanglement for enhanced model Explainability._ [summary](https://www.dropbox.com/scl/fi/a11svgvqudkv9aeh6ggvi/Thesis.pdf?rlkey=wjknv1flrybvm3nkxbo5em1ub&dl=0), [ppt](https://www.dropbox.com/scl/fi/leotn6igx7hj4e83c4oal/slides-Federico-Romeo_final.pptx?rlkey=ihwklfqdreundl8t7f4ey7fl6&dl=0)

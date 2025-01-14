@@ -3,9 +3,10 @@ layout: page
 permalink: /tht/
 title: Thesis How to
 nav: false
-description: On this page you will find useful materials to better set up your thesis work.
-The content is mostly curated by [Prof. Boracchi](https://boracchi.faculty.polimi.it) and it is based on the hints and advices of [Prof. Florian](https://www.floriandaniel.it/students.html) who is kindly acknowledged here.
+description:
 ---
+On this page you can find useful materials to better set up your thesis work.
+The content is also curated by [Prof. Boracchi](https://boracchi.faculty.polimi.it) and it is based on the hints and advices of [Prof. Florian](https://www.floriandaniel.it/students.html) who is kindly acknowledged here.
 
 ## Slides
 
