@@ -11,7 +11,7 @@ nav_order: 5
 
 - :mortar_board: Typically twice a year (September-February) we present our **thesis proposal**.
 - :pushpin: We organize a series of <a href="/tht">Thesis-How-To</a> meetings to guide you during your thesis.
-- :trophy: You can visit our <a href="/thof">Thesis-Hall-of-Fame</a>  to get an idea of our past theses.
+- :star: You can visit our <a href="/thof">Thesis-Hall-of-Fame</a>  to get an idea of our past theses (some of which have been published at workshops, conferences and journals)
 - :envelope: If you want to be updated on the very latest opportunities, just drop an email!
 
 

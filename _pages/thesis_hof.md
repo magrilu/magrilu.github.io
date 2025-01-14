@@ -3,11 +3,11 @@ layout: page
 permalink: /thof/
 title: Thesis Hall of Fame 
 nav: false
-description: :trophy: Here you can find some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
+description: Here you can find some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 ---
 
-<div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.html path="assets/img/imthof.jpg" class="img-fluid rounded" style="max-width: 50%;" zoomable=false %} 
+<div class="d-flex justify-content-center">
+    {% include figure.html path="assets/img/imthof.jpg" class="img-fluid rounded" style="max-width: 50%;" zoomable=false %}
 </div>
 
 <img src="../assets/img/imthof.jpg" align="center" 
