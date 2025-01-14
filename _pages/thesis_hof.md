@@ -8,7 +8,7 @@ description: :trophy: Here you can find some particularly worthy theses, some of
 
 <img src="../assets/img/imthof.jpg" align="center" 
 Border="0"  width="auto" height="160">
-
+> It is good to have an end to journey toward; but it is the journey that matters, in the end. _Hemingway_
 
 
 *  Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._<br>
@@ -27,9 +27,8 @@ The work has been published and presented as an highlights at CVPR 2023.
 The work has been published and presented  at ICCV 2022.
 
 
-We are happy if you want to aim at a publication, but please keep also in mind, that:
 
-> It is good to have an end to journey toward; but it is the journey that matters, in the end. _Hemingway_
+
 
 
 

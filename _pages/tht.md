@@ -3,15 +3,9 @@ layout: page
 permalink: /tht/
 title: Thesis How to
 nav: false
-description: 
+description: On this page you will find useful materials to better set up your thesis work.
+The content is mostly curated by [Prof. Boracchi](https://boracchi.faculty.polimi.it) and it is based on the hints and advices of [Prof. Florian](https://www.floriandaniel.it/students.html) who is kindly acknowledged here.
 ---
-
-On this page you will find useful materials to better set up your thesis work.
-This content is mostly curated by by [Prof. Boracchi](https://boracchi.faculty.polimi.it) and it is based on the hints and advices of [Prof. Florian](https://www.floriandaniel.it/students.html) who is kindly acknowledged here.
-
-
-You can join our [Discord server](https://discord.gg/2C6rt3NBke).
-
 
 ## Slides
 
@@ -28,3 +22,5 @@ You can join our [Discord server](https://discord.gg/2C6rt3NBke).
 
 Please fill in this [form](https://forms.office.com/e/ZWxekFkUem) to request access to our machines with GPU and to the Airlab.
 
+
+You can join our [Discord server](https://discord.gg/2C6rt3NBke).
