@@ -3,13 +3,16 @@ layout: page
 permalink: /thof/
 title: Thesis Hall of Fame 
 nav: false
-description:
+description: :trophy: Here you can find some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 ---
 
-:trophy: Here you can find some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
+<div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.html path="assets/img/imthof.jpg" class="img-fluid rounded" style="max-width: 50%;" zoomable=false %} 
+</div>
 
 <img src="../assets/img/imthof.jpg" align="center" 
 Border="0"  width="auto" height="160">
+
 
 *  Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._<br>
 The work has been published and presented at ECCV 2024.
