@@ -6,25 +6,25 @@ nav: false
 description: Here you can find some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 ---
 
-*  Francesco Azzoni, **Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras.**<br>
+*  Francesco Azzoni, *Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras.*<br>
 :clipboard: [executive summary](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eefl1otmF2hJmrCQi7bBXDYBvgois0Y0wmmtcdL2enBxlg?e=kptqx5), 
-:mortar_board: [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EUBoO1IcMjBJi-W-vgta8zYBbwXuQoeSjRvJDVIformYqg?e=X7RZz2), the work has been published and presented at ECCV 2024.
+:mortar_board: [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EUBoO1IcMjBJi-W-vgta8zYBbwXuQoeSjRvJDVIformYqg?e=X7RZz2), published at ECCV 2024.
 * Andrea Marelli, **Temporal consistent CAMs for weakly supervised video segmentation in Waste Sorting.**<br>
 :clipboard: [executive summary](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZZsLJt2JmNAiFFxPO7RaIoB3v3P413yryBvXNiXqVjtSA?e=bw0eI9), 
-:mortar_board: [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZZsLJt2JmNAiFFxPO7RaIoB3v3P413yryBvXNiXqVjtSA?e=bw0eI9), the work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
+:mortar_board: [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZZsLJt2JmNAiFFxPO7RaIoB3v3P413yryBvXNiXqVjtSA?e=bw0eI9),  published at the Industrial Vision Workshop hosted at ECCV 2024.
 * Carlo Sgaravatti, **A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection.**<br>
 :closed_book: [thesis article](), 
-:mortar_board: [slides](), the work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
+:mortar_board: [slides](),  published  at the Industrial Vision Workshop hosted at ECCV 2024.
 * Olmo Michelangelo Notarianni, **Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree.**<br>
 :clipboard: [executive summary](), 
-:mortar_board: [slides](), the work has been published and presented at the Advanced Analytics and Learning on Temporal Data Workshop at ECML 2024
+:mortar_board: [slides](),  published at the Advanced Analytics and Learning on Temporal Data Workshop at ECML 2024.
 * Fiore Amarù, Michele Alziati, **Ensemble clustering via synchronized relabelling**.<br>
 :clipboard: [executive summary](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EbjTlovJzcVAnL51RR5ugM4BXkwB0TGabCFBffCD9mCDkg?e=tGp9k5), 
-:mortar_board: [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EVgNJpq-BIhEtEB8Hau8Ap0BuHpasroBZ3jXjq_0bg4rVQ?e=YBffB3), the work has been published at Pattern Recognition Letters, August 2024
+:mortar_board: [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EVgNJpq-BIhEtEB8Hau8Ap0BuHpasroBZ3jXjq_0bg4rVQ?e=YBffB3),  published at Pattern Recognition Letters, August 2024.
 * Matteo Farina, **Quantum Multi-Model Fitting**.<br>
-:mortar_board: [poster](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ERzWbWCEI95Ks75YwHMLJuMB6SfQCU-xwwB3C_UdDr5ZCQ?e=r6btKf), the work has been published and presented as an highlights at CVPR 2023
+:mortar_board: [poster](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ERzWbWCEI95Ks75YwHMLJuMB6SfQCU-xwwB3C_UdDr5ZCQ?e=r6btKf),  published at CVPR 2023
 * Andrea Porfiri Dal Cin, **Synchronization of Group-labelled Multi-graphs**.<br>
-:mortar_board: [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ETbpaPurA_5Ogf261RRkyMIBG9ZUAH8aDW75RJtXvq3Syg?e=jSlIXQ), the work has been published and presented  at ICCV 2022.
+:mortar_board: [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ETbpaPurA_5Ogf261RRkyMIBG9ZUAH8aDW75RJtXvq3Syg?e=jSlIXQ),  published  at ICCV 2022.
 
 
 Other theses to have a look at:
@@ -42,12 +42,12 @@ Other theses to have a look at:
 :clipboard:[executive summary](https://www.dropbox.com/scl/fi/91tjqnr3frn3jovr0anf9/2023_07_Wisniewski_Executive_Summary_02.pdf?rlkey=zkqg21mv9wjmxlkf30izbttgo&dl=0), :mortar_board:[slides](https://www.dropbox.com/scl/fi/t4xzn5smrztyks8sf9nin/2023_07_Wisniewski_Thesis_Presentation.pptx?rlkey=735sbzuge592yrrda6w1qeu7q&dl=0)
 * Musiari, **Unsupervised Illegal Landfills Detection using Land Cover specic Autoencoders.**<br> :clipboard:[executive summary](https://www.dropbox.com/scl/fi/y3r284dpy4fmof3efkp5v/2023_10_Musiari_executive.pdf?rlkey=lu2ewdej92yk1dwazejssr9uz&dl=0), :mortar_board:[slides](https://www.dropbox.com/scl/fi/rmhmn2xrv5ff4wqfo4gcb/Musiari_presentazione_5102023.pdf?rlkey=hxyb61wrd5iz2oo7edpldptxi&dl=0)
 * Puddu, **Enhanced Graph Reconstruction using Graph Neural Networks.**<br> :clipboard:[executive summary](https://www.dropbox.com/scl/fi/j0t4zpd92ccu617yb5xst/2023_05_puddu_summary_02.pdf?rlkey=wzkimf9l91bl4gkq8touh0ljp&dl=0), :mortar_board:[slides](https://www.dropbox.com/scl/fi/v8cv66v9hdiep6lsv4wyr/slides_puddu_finali.pdf?rlkey=iq6ax6es8qka3js2ew92zjyf4&dl=0)
-* Innocenti, **Diffusion Models for Image Motion Blur Removal.**<br> :clipboard:[executive summary](https://www.dropbox.com/scl/fi/vf6fr6g1tq9ynoq69zxkc/2023_07_Innocenti_Executive_Summary-1.pdf?rlkey=cybta4rk3o3cjmrtxke1ecmxh&dl=0), :clipboard:[slides](https://www.dropbox.com/scl/fi/xttg7zz8cnqy2oedfjljh/slides_final.pdf?rlkey=6ac0xvrci1zt6a623vad79rm7&dl=0)
+* Innocenti, **Diffusion Models for Image Motion Blur Removal.**<br> :clipboard:[executive summary](https://www.dropbox.com/scl/fi/vf6fr6g1tq9ynoq69zxkc/2023_07_Innocenti_Executive_Summary-1.pdf?rlkey=cybta4rk3o3cjmrtxke1ecmxh&dl=0), :mortar_board:[slides](https://www.dropbox.com/scl/fi/xttg7zz8cnqy2oedfjljh/slides_final.pdf?rlkey=6ac0xvrci1zt6a623vad79rm7&dl=0)
 * Basla, **Generative Data Augmentation for Instance Segmentation in Fluorescence Microscopy Images.**<br> :clipboard:[executive summary](https://www.dropbox.com/scl/fi/0nmm4wrhu54whz6xnqa65/2023_05_Basla_ExecutiveSummary_02.pdf?rlkey=tmg3jknubse6b6gb2hlvahnux&dl=0).
 * Rizzo, **Enhancing QuantTree using kernel functions.**<br> :clipboard:[executive summary](https://www.dropbox.com/scl/fi/9od8o2x808knojfjmjbni/Kernel_QuantTree___Paolo_Rizzo___Executive_Summary_final.pdf?rlkey=h8yap6fx4gus1v3c6htqtkv33&dl=0), [slides](https://www.dropbox.com/scl/fi/40urjpf25uuyuhnfy8ivu/Enhancing-QuantTree-using-kernel-functions-Rizzo-Paolo.pptx?rlkey=i0se3sp5h7gzr97emsh0t5hot&dl=0)
 * Gusmeroli, **Advanced Deep Learning Methods for Anomaly Detection in Point Clouds.** <br>:clipboard:[executive summary](https://www.dropbox.com/scl/fi/3k651gkckm4k4tb4g721h/Executive_Summary-Stefano-gusmeroli.pdf?rlkey=yvp8wtzm1jjj4n8ryww3h2ukg&dl=0), :mortar_board:[slides](https://www.dropbox.com/scl/fi/rlorfda92a3c7f6cgqj3r/Presentation_Thesis-7_221215_180215.pdf?rlkey=olbwgtf2dmpkd0pkac7zououn&dl=0)
 * Peretti, **Enhancing CNN for Image Denoising by Promoting Non-Local Self-Similarity.**<br> :clipboard:[executive summary](https://www.dropbox.com/scl/fi/p4q6nc5ef1itfa4m74zvw/executive_summary.pdf?rlkey=lbf0qkobwp7192m1k0m88f7v6&dl=0)
 * Diecidue, **Detection of Critical Faults in Deep Neural Networks via auxiliary models.**<br> :mortar_board:[slides](https://www.dropbox.com/scl/fi/8onpcqkxe17jzxnuzjdiv/Detection-of-Critical-Faults-in-Deep-Neural-Networks-1.pdf?rlkey=rjngpe1xjyif9eqk0e6wy2nz6&dl=0) 
-* Frittoli, **Improving Horizontal Power-Analysis Attacks using Time Series Methods.**<br> :clipboard: :closed_book:[thesis](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EWMkuwhW28NNk6veJ0ENuiUBf1Q9dUmDEffC19hr_7_hKg?e=JjxMRv), 
+* Frittoli, **Improving Horizontal Power-Analysis Attacks using Time Series Methods.**<br>  :closed_book:[thesis](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EWMkuwhW28NNk6veJ0ENuiUBf1Q9dUmDEffC19hr_7_hKg?e=JjxMRv), 
 * Leveni, **Non-planar Object Detection and Identification by Features Matching and Triangulation Growth.**<br>
 :closed_book:[thesis](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EcKCxSnjOgFGs7ZSBAahOzgBSNMS5SYCcUf-lEPtWBZ-Zg?e=jMaNW2) [slides](https://www.dropbox.com/scl/fi/b98pjt6jlsvljnoq83aoa/2018_Thesis_Presentation.pdf?rlkey=ywp4c1gp7pwp290v2q25vq6b3&dl=0)
