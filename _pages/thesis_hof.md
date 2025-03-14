@@ -15,7 +15,7 @@ description: Here you can find some particularly worthy theses, some of which ha
  [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZZsLJt2JmNAiFFxPO7RaIoB3v3P413yryBvXNiXqVjtSA?e=bw0eI9),  published at the Industrial Vision Workshop hosted at ECCV 2024.
 
 :star: Carlo Sgaravatti, *A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection.*<br>
-:closed_book: [thesis article](), 
+ [thesis article](), 
  [slides](),  published  at the Industrial Vision Workshop hosted at ECCV 2024.
 
 :star: Olmo Michelangelo Notarianni, *Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree.*<br>
@@ -65,7 +65,7 @@ Other theses to have a look at:
 
 :star: Diecidue, *Detection of Critical Faults in Deep Neural Networks via auxiliary models.*<br> [slides](https://www.dropbox.com/scl/fi/8onpcqkxe17jzxnuzjdiv/Detection-of-Critical-Faults-in-Deep-Neural-Networks-1.pdf?rlkey=rjngpe1xjyif9eqk0e6wy2nz6&dl=0) 
 
-:star: Frittoli, *Improving Horizontal Power-Analysis Attacks using Time Series Methods.*<br>  :closed_book:[thesis](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EWMkuwhW28NNk6veJ0ENuiUBf1Q9dUmDEffC19hr_7_hKg?e=JjxMRv), 
+:star: Frittoli, *Improving Horizontal Power-Analysis Attacks using Time Series Methods.*<br>  [thesis](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EWMkuwhW28NNk6veJ0ENuiUBf1Q9dUmDEffC19hr_7_hKg?e=JjxMRv), 
 
 :star: Leveni, *Non-planar Object Detection and Identification by Features Matching and Triangulation Growth.*<br>
-:closed_book:[thesis](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EcKCxSnjOgFGs7ZSBAahOzgBSNMS5SYCcUf-lEPtWBZ-Zg?e=jMaNW2) [slides](https://www.dropbox.com/scl/fi/b98pjt6jlsvljnoq83aoa/2018_Thesis_Presentation.pdf?rlkey=ywp4c1gp7pwp290v2q25vq6b3&dl=0)
+[thesis](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EcKCxSnjOgFGs7ZSBAahOzgBSNMS5SYCcUf-lEPtWBZ-Zg?e=jMaNW2) [slides](https://www.dropbox.com/scl/fi/b98pjt6jlsvljnoq83aoa/2018_Thesis_Presentation.pdf?rlkey=ywp4c1gp7pwp290v2q25vq6b3&dl=0)
