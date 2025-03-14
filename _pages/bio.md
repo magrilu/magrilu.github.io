@@ -16,7 +16,7 @@ In 2018-2019 I joined the R&D group of [FARO Technologies][faro] (Rezzato, IT) w
 
 Since november 2019 I joined the Dipartimento di Elettronica, Informazione e Bioingegneria of the Politecnico di Milano (DEIB) where now I am an Associate Professor.
 
-* Curriculum Vitae: [<a href="https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EbuNPSfUEdpGlpQhguuCaRcBzy4X_zgzxZ2laowF-zkEnQ?e=UWAhTL">full cv </a>]
+* Curriculum Vitae: [<a href="https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EasGhInfg9dLusYyn8O7kqkBQhdM2VLRZJEelCckslNvJw?e=NTf3Zm">full cv </a>]
 * [Publications](/publications)
 
 <div class="social">
