@@ -8,12 +8,10 @@ description: Here you can find some particularly worthy theses, some of which ha
 
 :star:  Francesco Azzoni, *Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras.*<br>
  [executive summary](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eefl1otmF2hJmrCQi7bBXDYBvgois0Y0wmmtcdL2enBxlg?e=kptqx5), 
- [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EUBoO1IcMjBJi-W-vgta8zYBbwXuQoeSjRvJDVIformYqg?e=X7RZz2), published at ECCV 2024.
-
+ [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EUBoO1IcMjBJi-W-vgta8zYBbwXuQoeSjRvJDVIformYqg?e=X7RZz2), published at ECCV 2024.<br>
 :star: Andrea Marelli, *Temporal consistent CAMs for weakly supervised video segmentation in Waste Sorting.*<br>
  [executive summary](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZZsLJt2JmNAiFFxPO7RaIoB3v3P413yryBvXNiXqVjtSA?e=bw0eI9), 
- [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZZsLJt2JmNAiFFxPO7RaIoB3v3P413yryBvXNiXqVjtSA?e=bw0eI9),  published at the Industrial Vision Workshop hosted at ECCV 2024.
-
+ [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZZsLJt2JmNAiFFxPO7RaIoB3v3P413yryBvXNiXqVjtSA?e=bw0eI9),  published at the Industrial Vision Workshop hosted at ECCV 2024.<br>
 :star: Carlo Sgaravatti, *A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection.*<br>
  [thesis article](), 
  [slides](),  published  at the Industrial Vision Workshop hosted at ECCV 2024.
@@ -27,7 +25,7 @@ description: Here you can find some particularly worthy theses, some of which ha
  [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EVgNJpq-BIhEtEB8Hau8Ap0BuHpasroBZ3jXjq_0bg4rVQ?e=YBffB3),  published at Pattern Recognition Letters, August 2024.
 
 :star: Matteo Farina, *Quantum Multi-Model Fitting*.<br>
- [poster](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ERzWbWCEI95Ks75YwHMLJuMB6SfQCU-xwwB3C_UdDr5ZCQ?e=r6btKf),  published at CVPR 2023
+ [poster](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ERzWbWCEI95Ks75YwHMLJuMB6SfQCU-xwwB3C_UdDr5ZCQ?e=r6btKf),  published at CVPR 2023.
 
 :star: Andrea Porfiri Dal Cin, *Synchronization of Group-labelled Multi-graphs*.<br>
  [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ETbpaPurA_5Ogf261RRkyMIBG9ZUAH8aDW75RJtXvq3Syg?e=jSlIXQ),  published  at ICCV 2022.
