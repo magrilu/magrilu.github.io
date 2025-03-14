@@ -10,7 +10,7 @@ description: Here you can find some particularly worthy theses, some of which ha
     {% include figure.html 
         path="assets/img/imthof.jpg" 
         class="img-fluid rounded" 
-        style="max-width: 30%;" 
+        style="max-width: 20%;" 
         caption="Our students A. Marelli, F. Azzoni, and M. Farina proudly presenting their work during a poster session at international conferences." 
         zoomable=false 
     %}
@@ -18,28 +18,30 @@ description: Here you can find some particularly worthy theses, some of which ha
 
 
 *  Francesco Azzoni, _Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras._<br>
+:clipboard: [executive summary](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eefl1otmF2hJmrCQi7bBXDYBvgois0Y0wmmtcdL2enBxlg?e=kptqx5), 
+:mortar_board: [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EUBoO1IcMjBJi-W-vgta8zYBbwXuQoeSjRvJDVIformYqg?e=X7RZz2)<br>
 The work has been published and presented at ECCV 2024.
-
 * Andrea Marelli, _Temporal consistent CAMs for weakly supervised video segmentation in Waste Sorting_<br>
-[executive summary](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZZsLJt2JmNAiFFxPO7RaIoB3v3P413yryBvXNiXqVjtSA?e=bw0eI9) [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZZsLJt2JmNAiFFxPO7RaIoB3v3P413yryBvXNiXqVjtSA?e=bw0eI9)<br>
+:clipboard: [executive summary](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZZsLJt2JmNAiFFxPO7RaIoB3v3P413yryBvXNiXqVjtSA?e=bw0eI9), 
+:mortar_board: [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZZsLJt2JmNAiFFxPO7RaIoB3v3P413yryBvXNiXqVjtSA?e=bw0eI9)<br>
 The work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
 * Carlo Sgaravatti, _A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection_<br>
 [executive summary]()
 [slides]()
 The work has been published and presented at the Industrial Vision Workshop hosted at ECCV 2024.
 * Olmo Michelangelo Notarianni, _Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree_<br>
-[executive summary]()
-[slides]()<br>
+:clipboard: [executive summary](), 
+:mortar_board: [slides]()<br>
 The work has been published and presented at the Advanced Analytics and Learning on Temporal Data Workshop at ECML 2024
 * Fiore Amarù, Michele Alziati, _Ensemble clustering via synchronized relabelling_.<br>
-[executive summary]()
-[slides]()<br>
+:clipboard: [executive summary](), 
+:mortar_board: [slides]()<br>
 The work has been published at Pattern Recognition Letters, August 2024
 * Matteo Farina, _Quantum Multi-Model Fitting_.<br>
 The work has been published and presented as an highlights at CVPR 2023.
 * Andrea Porfiri Dal Cin, _Synchronization of Group-labelled Multi-graphs_.<br>
-[executive summary]()
-[slides]()<br>
+:clipboard:  [executive summary](), 
+:mortar_board: [slides]()<br>
 The work has been published and presented  at ICCV 2022.
 
 

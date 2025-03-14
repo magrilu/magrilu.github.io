@@ -6,6 +6,15 @@ nav: false
 description: 
 ---
 
+<div class="d-flex justify-content-center">
+    {% include figure.html 
+        path="assets/img/imthof.jpg" 
+        class="img-fluid rounded" 
+        style="max-width: 20%;" 
+        caption="Our students A. Marelli, F. Azzoni, and M. Farina proudly presenting their work during a poster session at international conferences." 
+        zoomable=false 
+    %}
+</div>
 
 
 * Romeo, _Forcing latent space Disentanglement for enhanced model Explainability._ [summary](https://www.dropbox.com/scl/fi/a11svgvqudkv9aeh6ggvi/Thesis.pdf?rlkey=wjknv1flrybvm3nkxbo5em1ub&dl=0), [ppt](https://www.dropbox.com/scl/fi/leotn6igx7hj4e83c4oal/slides-Federico-Romeo_final.pptx?rlkey=ihwklfqdreundl8t7f4ey7fl6&dl=0)
