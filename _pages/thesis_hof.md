@@ -6,13 +6,15 @@ nav: false
 description: Here you can find some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 ---
 
-*  Francesco Azzoni, *Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras.*<br>
+:star:  Francesco Azzoni, *Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras.*<br>
 :clipboard: [executive summary](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eefl1otmF2hJmrCQi7bBXDYBvgois0Y0wmmtcdL2enBxlg?e=kptqx5), 
 :mortar_board: [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EUBoO1IcMjBJi-W-vgta8zYBbwXuQoeSjRvJDVIformYqg?e=X7RZz2), published at ECCV 2024.
-* Andrea Marelli, *Temporal consistent CAMs for weakly supervised video segmentation in Waste Sorting.*<br>
+
+:star: Andrea Marelli, *Temporal consistent CAMs for weakly supervised video segmentation in Waste Sorting.*<br>
 :clipboard: [executive summary](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZZsLJt2JmNAiFFxPO7RaIoB3v3P413yryBvXNiXqVjtSA?e=bw0eI9), 
 :mortar_board: [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EZZsLJt2JmNAiFFxPO7RaIoB3v3P413yryBvXNiXqVjtSA?e=bw0eI9),  published at the Industrial Vision Workshop hosted at ECCV 2024.
-* Carlo Sgaravatti, *A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection.*<br>
+
+:star: Carlo Sgaravatti, *A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection.*<br>
 :closed_book: [thesis article](), 
 :mortar_board: [slides](),  published  at the Industrial Vision Workshop hosted at ECCV 2024.
 * Olmo Michelangelo Notarianni, *Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree.*<br>
