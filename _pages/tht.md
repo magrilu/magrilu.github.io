@@ -2,11 +2,11 @@
 layout: page
 permalink: /tht/
 title: Thesis How to
-nav: false
+nav: true
 description:
 ---
 On this page you can find useful materials to better set up your thesis work.
-The content is also curated by [Prof. Boracchi](https://boracchi.faculty.polimi.it) and it is based on the hints and advices of [Prof. Florian](https://www.floriandaniel.it/students.html) who is kindly acknowledged here.
+The content is also curated by [Prof. Boracchi](https://boracchi.faculty.polimi.it) and it is also based on the hints and advices of [Prof. Florian](https://www.floriandaniel.it/students.html) who is kindly acknowledged here.
 
 ## Slides
 
@@ -21,7 +21,9 @@ The content is also curated by [Prof. Boracchi](https://boracchi.faculty.polimi.
 
 ## Resources
 
-:abacus: Please fill in this [form](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=K3EXCvNtXUKAjjCd8ope60vwKNvHTbBBlryvNtxfrkhUNFRHSDQxSlVQS05ZNTNOSUJGSlI1M0hGQi4u) to request access to our machines with GPU and to the Airlab.
+:star: You can visit our <a href="/thof">Thesis-Hall-of-Fame</a>  to get an idea of our past theses (some of which have been published at workshops, conferences and journals)!
+
+:abacus: Please fill in this [form](https://forms.office.com/e/dULHhfRfWz) to request access to our machines with GPU and to the Airlab.
 
 :green_book: Have a look at the guide [Servers how to](https://polimi365-my.sharepoint.com/:f:/r/personal/10569363_polimi_it/Documents/Ricerca/VisionMachines?csf=1&web=1&e=HD7zcC) to setup the connection to our machines (it's a work in progress, thanks to Luca Alessandrini!).
 
