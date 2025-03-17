@@ -34,4 +34,3 @@ Here a short [biosketch][bio].
 [bio]:/bio/
 [research]:/publications/
 [teaching]:/teaching/
-[cs]:/cs2022/

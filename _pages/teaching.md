@@ -5,7 +5,7 @@ title: teaching
 description:
 nav: true
 dropdown: true
-nav_order: 3
+nav_order: 4
 children: 
     - title: Informatica A
       permalink: /infoA/
