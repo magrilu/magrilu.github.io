@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /infoA/
+permalink: /infoA_GES/
 title: Informatica A
 ---
 
