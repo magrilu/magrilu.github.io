@@ -9,10 +9,10 @@ nav_order: 5
 ---
 > It is good to have an end to journey toward; but it is the journey that matters, in the end. _Hemingway_
 
-- :mortar_board: Typically twice a year (September-February) we present our **thesis proposal**.
-- :pushpin: We organize a series of <a href="/tht">Thesis-How-To</a> meetings to guide you during your thesis.
-- :star: You can visit our <a href="/thof">Thesis-Hall-of-Fame</a>  to get an idea of our past theses (some of which have been published at workshops, conferences and journals)
 - :envelope: If you want to be updated on the very latest opportunities, just drop an email!
+- :star: You can visit our <a href="/thof">Thesis-Hall-of-Fame</a>  to get an idea of our past theses (some of which have been published at workshops, conferences and journals)
+- :mortar_board: Typically twice a year (September-February) we present our **thesis proposal**.  Some [advice](https://polimi365-my.sharepoint.com/:b:/g/personal/10245349_polimi_it/Ec9gPAyZ0JVIv3iSUH7CPOoBUymAJVbQEG8BKaIOBRG8Gg?e=dlWh3Z) for applying to the right thesis.
+- :pushpin: We organize a series of <a href="/tht">Thesis-How-To</a> meetings to guide you during your thesis.
 
 
 Thesis topics include
@@ -35,6 +35,12 @@ You can have a look at the thesis I supervised to get an idea of the topics I am
 
 #### Thesis supervised 
 
+* Enrico Barbieri, _Pose and camera calibration from cylinders via a silhouette based homotopy continuation_. MSc in Computer Science and Engineering. July 2024, PoliMi.
+* Caterina Giardi, _Heart Rate estimation from videos: a robust approach for rPPG signals analysis_. MSc in Computer Science and Engineering. July 2024, PoliMi.
+* Mattro Forlivesi, _Critical Configurations in Two-View Reconstruction: A Degeneracy Test for Fundamental Matrix Estimation_. MSc in Computer Science and Engineering. April 2024, PoliMi.
+* Andrea Bertogalli, _Multi-modal sensing for autonomous driving: a unified calibration framework for LiDAR, RGB and Event cameras_. MSc in Computer Science and Engineering. April 2024, PoliMi.
+* Yassine Ouhadi, _Explainable Agglomerative Clustering Tree: ExACt_.
+MSc in Computer Science and Engineering. April 2024, PoliMi.
 * Andrea Ferraris, _Geometric-Aware Local Optimization for Primitive Fitting_. MSc in Computer Science and Engineering. December 2024, PoliMi.
 * Andrea Naclerio, _Vision-Based Heart Rate Monitoring: Towards Adaptive Dynamic ROI Selection._ MSc in Biomedical Engineering. December 2024, PoliMi.
 * Erica Manfrin, _Structure-based anomaly detection on 3D Point Clouds._ MSc in Mathematical Engineering. October 2024, PoliMi.

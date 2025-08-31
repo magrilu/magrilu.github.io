@@ -9,6 +9,15 @@ nav_order: 6
 On this page you can find useful materials to better set up your thesis work.
 The content is also curated by [Prof. Boracchi](https://boracchi.faculty.polimi.it) and it is also based on the hints and advices of [Prof. Florian](https://www.floriandaniel.it/students.html) who is kindly acknowledged here.
 
+
+## The right mindset
+
+* It’s normal not to have everything clear from the start. Uncertainty is part of research, it’s how discovery begins.
+* The thesis journey is like moving through a jungle. You clear the path step by step. There’s no single route, everyone finds their own way.
+* You are not alone! Trust your advisors, they’re here to support you.
+
+
+
 ## Slides
 
 1. [Getting started](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EasifBlYIMFMu1UG34E7c4wBJprUqbdaNs7N3QdmUMa7MQ?e=WCZr4F)

@@ -6,6 +6,9 @@ nav: false
 description: Here you can find some particularly worthy theses, some of which have been then evolved into papers published at Workshops, Conferences and Journals.
 ---
 
+:star: Andrea Bertogalli, _*Multi-modal sensing for autonomous driving: a unified calibration framework for LiDAR, RGB and Event cameras*.<br>
+[executive summary](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EYsWEfGmMItFjSn0svloJFcBvqBXmRIDyzb2EIM7flNs_w?e=moDPHN), [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ESPKuihxmYhCmsw9ZQ4HxJoBEVXVDbeUM_hMhL3SYeA6WA?e=MG1OD6),
+published at BMVC 2025.<br>
 :star:  Francesco Azzoni, *Deep Monocular Autocalibration of Radially Symmetric Wide-Angle Cameras.*<br>
  [executive summary](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Eefl1otmF2hJmrCQi7bBXDYBvgois0Y0wmmtcdL2enBxlg?e=kptqx5), 
  [slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EUBoO1IcMjBJi-W-vgta8zYBbwXuQoeSjRvJDVIformYqg?e=X7RZz2), published at ECCV 2024.<br>
