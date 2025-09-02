@@ -6,7 +6,7 @@ title: Informatica A
 
 <img src="../assets/img/dog_infoa.jpg" align="right" Hspace="18" Vspace="15" 
 Border="0"  width="350" height="auto">
-#####   Ingegneria Matematica, PoliMi, 2025/2026, L. Magri & G. Boracchi
+#####   Ingegneria Matematica, PoliMi, 2025/2026,<br> L. Magri & G. Boracchi
 
 *** 
 
