@@ -17,10 +17,7 @@ Pagina in costruzione per gli studenti di ingegneria matematica
 
 ### Calendario
 
-La prima lezione del corso si terrà lunedì XXX in XXX dalle XXX alle XXX.
-
-<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FRome&showTitle=0&showDate=1&showPrint=0&showTabs=0&showTz=0&showCalendars=0&mode=AGENDA&showNav=0&src=ZTMwOWNlMWQ3NjZmYjRkNzE4Yjc5NDM2MjY0NDIxYjFjM2RkNWVjODg0NjczZTkyMGVkMjMxY2IzNzlmOWFjM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%2333B679" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
-
+TBD
 
 ***
 
@@ -34,11 +31,7 @@ Le esercitazioni del corso sono tenute da Dr. Luca Alessandrini.
 
 ### Laboratori
 
-I laboratori del corso sono tenuti da Roberto Basla, Riccardo Margheritti e Olmo Notarianni il venerdì secondo il calendario.
-I laboratori sono articolati su 3 squadre in 3 turni differenti:
-* Squadra 1: BL27.1.4, 8:15-11:15, da ABDELGALIL a BERTOLI 
-* Squadra 2: BL27.1.4, 11:15-14:15,  da BESATI a CAMPAGNA 
-* Squadra 3: B6.2.1, 11:15-14:15,  da CAMPOREALE a CHITTI
+TBD
 
 ***
 
