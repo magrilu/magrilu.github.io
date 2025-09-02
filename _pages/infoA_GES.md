@@ -5,7 +5,7 @@ title: Informatica A
 ---
 
 <img src="../assets/img/cat.jpg" align="right" Hspace="18" Vspace="15" 
-Border="0"  width="350" height="auto">
+Border="0"  width="150" height="auto">
 #####   Ingegneria Gestionale, PoliMi, 2024/2025
 
 *** 
