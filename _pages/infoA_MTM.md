@@ -4,6 +4,8 @@ permalink: /infoA_MTM/
 title: Informatica A
 ---
 
+<img src="../assets/img/cavaliere_cs.jpg" align="right" Hspace="18" Vspace="15" 
+Border="0"  width="210" height="auto">
 #####   Ingegneria Matematica, PoliMi, 2025/2026
 ######   L. Magri & G. Boracchi
 *** 
@@ -11,7 +13,6 @@ title: Informatica A
 * [Cartella condivisa](https://polimi365-my.sharepoint.com/:f:/g/personal/10245349_polimi_it/EpqeknM7KMxHhfbikS5NhNoBYwq1sb7njhE6zj4Ck-8f1w?e=cJaOw1) con i materiali del corso
 * [Esercitazioni](https://alessandriniluca.github.io/index.html)
 * Setup dell'ambiente di sviluppo: [win10 & mac](https://boracchi.faculty.polimi.it/teaching/InfoA/2021_InfoA_installazione_IDE.pdf), [win11](https://boracchi.faculty.polimi.it/teaching/InfoA/Install_code_blocks%20_win11.pdf)
-* [Link alle registrazioni](https://docs.google.com/spreadsheets/d/1x8IEXx3xfKhG3OQBwhLkrz2RrD40OAVSXXOf4qX1FhY/edit?usp=sharing) 
 * [Programma del corso](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=863518&lang=IT&__pj0=0&__pj1=d9ffc733a749aeaeef990d6075b83159)
 * [Dispensa da utilizzare all'esame](https://boracchi.faculty.polimi.it/teaching/InfoA/dispensaEsame.pdf)
 
