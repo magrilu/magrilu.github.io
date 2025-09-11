@@ -5,15 +5,15 @@ title: Informatica A
 ---
 
 <img src="../assets/img/cat.jpg" align="right" Hspace="18" Vspace="15" 
-Border="0"  width="150" height="auto">
-#####   Ingegneria Gestionale, PoliMi, 2024/2025
+Border="0"  width="210" height="auto">
+#####   Ingegneria Gestionale, PoliMi, 2025/2026
 
 *** 
 
-* [Cartella condivisa](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EgjfFrnKl7pOv1bmhrscOkgBpJcrYKu0yCrjEfnlXevivw?e=dlA5JO) con i materiali del corso
+* [Cartella condivisa](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EqUFeD-sIFpChkIWkWusljcBeoHiYTEJgZKOZqfN2fNEQQ?e=p1O6SS) con i materiali del corso
 * [Setup dell'ambiente di sviluppo](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EXO6Nb0jwEdLgtsjHNIfwzwBMwK-wpiAh-hdf-MHh-dU2g?e=uvV7rc )
 * [Link alle registrazioni](https://docs.google.com/spreadsheets/d/1AOhwVo7HZd1SCarp8LmnCF28lwVxABxuuRHCtluKuyY/edit?usp=sharing) 
-* [Programma del corso](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=837446&lang=IT&__pj0=0&__pj1=cbc4f2d6f0cebd69d066919952e0ce7c)
+* [Programma del corso](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=864658&lang=IT&__pj0=0&__pj1=7dec9fd9e0e179eaabf397d8966c6fe8)
 
 
 ***
@@ -21,7 +21,7 @@ Border="0"  width="150" height="auto">
 
 ### Calendario
 
-La prima lezione del corso si terrà lunedì 16/09/24 in L.09 dalle 9:30 alle 11:15.
+La prima lezione del corso si terrà lunedì 15/09/25 in L.06 dalle 8:30 alle 11:15.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FRome&showTitle=0&showDate=1&showPrint=0&showTabs=0&showTz=0&showCalendars=0&mode=AGENDA&showNav=0&src=ZTMwOWNlMWQ3NjZmYjRkNzE4Yjc5NDM2MjY0NDIxYjFjM2RkNWVjODg0NjczZTkyMGVkMjMxY2IzNzlmOWFjM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%2333B679" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
 
@@ -30,9 +30,9 @@ La prima lezione del corso si terrà lunedì 16/09/24 in L.09 dalle 9:30 alle 11
 
 ### Snippets
 
-Durante le lezioni, per alcuni esempi ed esercizi sono forniti dei frammenti di codice, li trovate nelle cartelle [Snippets_todo](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EmhstNQzhx9OpYEINFU-oYwBIW0FlbC6E835XnoT2JWRMA?e=lb0VJx) e [Snippets](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EsVBVYMBZBdCtRXAV9h4fjIBAFgbnHGhSN8-1EnLqzf4eQ?e=tct3RT)
+Durante le lezioni, per alcuni esempi ed esercizi sono forniti dei frammenti di codice, li trovate nelle cartelle [Snippets_todo](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EmPvgppi4ZJFtyZ7U32JLsYBpkcREL_kCLOUGtYZ2r-CVg?e=LCeu16) e [Snippets](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EuyjwY9d_ehDqDS4N74tp7QBRBFSRiLEUM_OY2UrBwQdPw?e=0zmX9b)
 Nella versione ```todo```, il codice è solamente abbozzato con parti mancanti da completare. Siete invitati a provare voi stessi a completarlo, dopo aver letto i commenti che suggeriscono qualche idea per la soluzione o sottolineano alcuni aspetti importanti.
-Quando disponibile, potete consultare la versione completa per verificare la correttezza della vostra soluzione. Tuttavia non c'è un solo modo per risolvere un esercizio! Provate diverse strategie risolutive e domandatevi quale è la migliore.
+Quando disponibile, potete consultare la versione completa per verificare la correttezza della vostra soluzione. Tuttavia non c'è un solo modo per risolvere un esercizio! Provate diverse strategie risolutive e domandatevi sempre quale è la migliore.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-1 mt-3 mt-md-0">
@@ -45,41 +45,29 @@ Quando disponibile, potete consultare la versione completa per verificare la cor
 
 ### Esercitazioni
 
-Le esercitazioni del corso sono tenute da Dr. Michele Zanella, Dr. Michele Craighero.  Il materiale delle esercitazioni è disponibile anche su Webeep.
+Le esercitazioni del corso sono tenute dal Dr. Michele Craighero, il materiale è disponibile nella cartella condivisa.
 
 ### Laboratori
+Sono previste 5 sessioni di Laboratorio (i mercoledì indicati sul calendario).
+I laboratori sono articolati su 3 turni
+* Squadra 1: cognomi da Abate a Battaglia, in aula B8 1.4 dalle 8:15 alle 11:15
+* Squadra 2: cognomi da Battanta a Brivio, in aula B8 1.2 dalle 11:15 alle 14:15
+* Squadra 3: cognomi da  Broglio a Chiesa, in aula B8 1.4 dalle 8:15 alle 11:15
 
-I laboratori del corso sono tenuti da Roberto Basla, Riccardo Margheritti e Olmo Notarianni il venerdì secondo il calendario.
-I laboratori sono articolati su 3 squadre in 3 turni differenti:
-* Squadra 1: BL27.1.4, 8:15-11:15, da ABDELGALIL a BERTOLI 
-* Squadra 2: BL27.1.4, 11:15-14:15,  da BESATI a CAMPAGNA 
-* Squadra 3: B6.2.1, 11:15-14:15,  da CAMPOREALE a CHITTI
+
+### Tutoraggio
+
+Verso dicembre e a ridosso degli esami saranno attivate delle sessioni di tutoraggio, è un'ottima idea partecipare attivamente per prepararvi al meglio.
 
 ***
 
 ### Esame
 
 L'esame consiste di due parti:
-* Parte A (durata 30 minuti - 4 punti): domande a risposta multipla. Ogni risposta corretta vale 0,5 punti; una risposta sbagliata o lasciata vuota vale 0. La prova si intende superata se si risponde correttamente ad almeno 5 domande su 8. 
-* Parte B (durata 2 ore - 29 punti): 4 esercizi di programmazione.
+* Parte A: una decina di quesiti che includono domande a risposta multipla, risoluzione di problemi e la scrittura di semplici snippet di codice. 
+* Parte B: esercizi di programmazione.
 
 Condizione necessaria (ma non sufficiente) per passare l'esame è aver superato la parte A.  Il voto finale è dato dalla somma dei punteggi della parte A e B.
-
-{% highlight C %}
-int risposte_corrette_parte_A;
-int punti_parte_A ,punti_parte_B;
-// inizializzare le variabili con i vostri voti
-voto_finale = punti_parte_A + punti_parte_B;
-if(risposte_corrette_parte_A>=5){
-    if(voto_finale>=18){
-        fprintf("complimenti! Hai passato l'esame");
-    }
-    else{
-        fprintf("non scoraggiarti, studia meglio ed esercitati ancora!");
-    }
-}
-{% endhighlight %}
-
 
 
 

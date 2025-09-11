@@ -4,64 +4,39 @@ permalink: /infoA_MTM/
 title: Informatica A
 ---
 
-<img src="../assets/img/dog_infoa.jpg" align="right" Hspace="18" Vspace="15" 
-Border="0"  width="350" height="auto">
-#####   Ingegneria Matematica, PoliMi, 2025/2026,<br> L. Magri & G. Boracchi
-
+#####   Ingegneria Matematica, PoliMi, 2025/2026
+######   L. Magri & G. Boracchi
 *** 
 
-Pagina in costruzione per gli studenti di ingegneria matematica
+* [Cartella condivisa](https://polimi365-my.sharepoint.com/:f:/g/personal/10245349_polimi_it/EpqeknM7KMxHhfbikS5NhNoBYwq1sb7njhE6zj4Ck-8f1w?e=cJaOw1) con i materiali del corso
+* [Esercitazioni](https://alessandriniluca.github.io/index.html)
+* Setup dell'ambiente di sviluppo: [win10 & mac](https://boracchi.faculty.polimi.it/teaching/InfoA/2021_InfoA_installazione_IDE.pdf) [win11](https://boracchi.faculty.polimi.it/teaching/InfoA/Install_code_blocks%20_win11.pdf)
+* [Link alle registrazioni](https://docs.google.com/spreadsheets/d/1x8IEXx3xfKhG3OQBwhLkrz2RrD40OAVSXXOf4qX1FhY/edit?usp=sharing) 
+* [Programma del corso](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=863518&lang=IT&__pj0=0&__pj1=d9ffc733a749aeaeef990d6075b83159)
+* [Dispensa da utilizzare all'esame](https://boracchi.faculty.polimi.it/teaching/InfoA/dispensaEsame.pdf)
 
 ***
 
+<img src="../assets/img/dog_infoa.jpg" align="center" Hspace="18" Vspace="15" 
+Border="0"  width="350" height="auto">
 
 ### Calendario
 
-TBD
+<iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=2&ctz=Europe%2FRome&showPrint=0&showDate=0&showTabs=0&showTz=0&mode=AGENDA&showCalendars=0&showTitle=0&src=aDJrbGQ2ajVsZGs2ZTNqMTZjNTVpN3BudWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23d4fb79" style="border-width:0" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 
 ***
-
-### Snippets
 
 
 
 ### Esercitazioni
 
-Le esercitazioni del corso sono tenute da Dr. Luca Alessandrini. 
-
-### Laboratori
-
-TBD
-
-***
-
-### Esame
+Le esercitazioni del corso sono tenute da Dr. Luca Alessandrini e i materiali sono disponibili a [questa pagina](https://alessandriniluca.github.io/index.html).
 
 
-***
-
-> Studiare informatica serve per imparare a...
-
-* _analizzare e risolvere problemi_:
-nel vostro lavoro di ingegneri matematici vi troverete ad affrontare modelli complessi, dati numerosi e fenomeni non immediatamente intuitivi. L’informatica vi fornisce gli strumenti per tradurre queste sfide in procedure chiare, scomporle in passi gestibili e arrivare a soluzioni precise ed eleganti.
-* _trasformare la teoria in pratica_:
-le equazioni non vivono solo sulla carta. Per verificarle, simularle e applicarle a casi concreti serve la potenza di calcolo. L’informatica permette di mettere alla prova le idee, esplorare scenari diversi e misurare l’impatto delle vostre scelte modellistiche.
-
-* _ottimizzare e calcolare in grande_:
-un conto è risolvere un esercizio a mano, un altro è affrontare migliaia di variabili o sistemi con milioni di dati. Pensare in termini algoritmici vi aiuta a cercare non solo soluzioni corrette, ma anche efficienti, in grado di scalare a problemi di dimensioni reali.
-
-*_automatizzare procedure ripetitive_:
-i matematici devono essere pigri! molti calcoli, simulazioni o verifiche si prestano a essere programmati una volta per tutte. Automatizzare significa liberare tempo ed energie da dedicare all’intuizione matematica e all’interpretazione dei risultati.
-
-* _dialogare con il mondo scientifico e tecnologico_:
-oggi ogni disciplina quantitativa – dalla fisica alla finanza, dall’ingegneria all’intelligenza artificiale – vive di calcolo e programmazione. Avere familiarità con l’informatica vi permetterà di collaborare con altri professionisti parlando un linguaggio comune.
-
-* _stare al passo_:
-i metodi computazionali si evolvono rapidamente e aprono possibilità nuove per la matematica applicata. Conoscere le basi dell’informatica significa avere la chiave per comprendere e padroneggiare le tecnologie del presente e del futuro.
-***
 
 ####  Risorse aggiuntive 
 
+* [Pagina del corso](https://boracchi.faculty.polimi.it/teaching/InfoA.htm) degli anni precedenti curata dal prof. Boracchi.
 * [Dispensa a cura del Prof. Barenghi](https://barenghi.faculty.polimi.it/lib/exe/fetch.php?media=teaching:dispensa.pdf) che copre i prima argomenti del corso.
 * [The C Programming Language](https://venkivasamsetti.github.io/ebookworm.github.io/Books/cse/C%20Programming%20Language%20(2nd%20Edition).pdf).
 * Un [compilatore online](https://repl.it/languages/c) che può essere utile per iniziare a familiarizzare con il C. Tuttavia cercate di iniziare ad utilizzare un IDE il prima possibile.
