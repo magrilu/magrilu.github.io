@@ -5,7 +5,7 @@ title: Image Analysis and Computer Vision
 ---
 <img src="../assets/img/ciclope.jpg" align="right" Hspace="15" Vspace="0" 
 Border="0"  width="200" height="auto">
-#####   Politecnico di Milano, 2024/2025
+#####   Politecnico di Milano, 2025/2026
 
 This page collects some material for the the practical sessions of Image Analysis and Computer Vision taught by Prof. Caglioti. Please consult weebep for other resources.
 
@@ -18,9 +18,30 @@ If you are interested in doing a [thesis in Computer Vision](https://magrilu.git
 
 ## Material
 
-* [Shared folder](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/Eob0HjQK20FKj315cVLFH-sBYxt9Clukjnq4zmjmtBWHSg?e=Tvkoqq) collecting the "todo" source files and the data I used during the practical sessions.
+* [Shared folder](https://polimi365-my.sharepoint.com/:f:/g/personal/10755186_polimi_it/EpQZ_1BwJPpDuMN9bj2PlQEBCw696ly6IKC0o1Iwq7cL2g?e=JoghZf) collecting the source files and the data I used during the practical sessions.
+* Introduction to the course [Slide by Prof. Caglioti](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EdB-19dc9FFPrE0ovoyJxYEBxGqGlgIM7hNeCrWmSsBxxQ?e=TpxDOC)
 * Recordings of my practical sessions [link](https://docs.google.com/spreadsheets/d/1SWuwLzWNb-8hCOPULQUSghMeCD174pNePTUSh1BfUuY/edit?usp=sharing)
 * The template for the report of the final project: [zip file](https://polimi365-my.sharepoint.com/:u:/g/personal/10755186_polimi_it/EXhqADe0KkZGlp9CWQ1nitsBlfI9aLphLl1cqkoIHmJ5Yg?e=X0joWl)
+
+
+#### Introduction to image analysis
+<div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.html path="assets/img/histogram_equalization.gif" class="img-fluid rounded" style="max-width: 20%;" zoomable=false %} 
+</div>
+* [Slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ESR-nWKRAwNHhWG1ziavcGEBfA1hdvONaTMhp_xMbEAuwA?e=2Jvw4g)
+* Introduction to MatLab: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ES_imzLg2ClHiSaPRU6EXOsBVhtbhJZDJBdkl0-GyMXVsg?e=gUqsRg).
+* Image manipulations: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ETpnoICfapRKhZuvQsKqcioBQwM5PLCrViLJjLQ-Mu-E1w?e=hLZEfq)
+* Image transformations: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ETjjtT7meM1OvqqDJK0VEw4BKeX23B4lIC7OegXU7Ks8_w?e=CocOdK)
+
+
+#### Template matching, linear filters
+<div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.html path="assets/img/template_matching.gif" class="img-fluid rounded" style="max-width: 20%;" zoomable=false %} 
+</div>
+* [Slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ETaXUOqqwDtHmeLzDCvUVUgBLuP8pJ0XcvRwYdfqUBOrew?e=RwwZ8T)
+* Template matching [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EX8j8Fwu-h1JpZhxkN3Em4MBuiGGTynd672fuuDg43w6BQ?e=QZtUIm)
+* Linear filters [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EQklE0yKugdMjvP-lsYT8MYBWpgvrnsk8nwnrMMucPBGHQ?e=URPmIJ)
+
 
 #### Homogeneous coordinates, lines and vanishing points
 
@@ -28,8 +49,7 @@ If you are interested in doing a [thesis in Computer Vision](https://magrilu.git
     {% include figure.html path="assets/img/cube_iacv.png" class="img-fluid rounded" style="max-width: 20%;" zoomable=false %} 
 </div>
 
-* Introduction to MatLab: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ES_imzLg2ClHiSaPRU6EXOsBVhtbhJZDJBdkl0-GyMXVsg?e=gUqsRg).
-* Introduction to image processing in MatLab: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EWekWQ3NPDlCqubZjncu3sABQe1IIw0gaFzzvnJXtIJEJw?e=iZNWXg).
+
 * Homogenous coordinates, points line and duality: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EXwgWsWwyIVDu_FCkdQ3pRsBhU1-jQQchsbl7WmEdQHrZw?e=prh6aj). 
 * Drawing a cube in isometric projection: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EREdWc5lK9BDoj0VfpkDxy0BHuuZogbld4d2sV7H_Xu1gw?e=dq8oll).
 
