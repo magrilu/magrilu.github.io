@@ -36,7 +36,7 @@ If you are interested in doing a [thesis in Computer Vision](https://magrilu.git
 
 #### Template matching, linear filters
 <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.html path="assets/img/template_matching.gif" class="img-fluid rounded" style="max-width: 20%;" zoomable=false %} 
+    {% include figure.html path="assets/img/template_matching.gif" class="img-fluid rounded" style="max-width: 60%;" zoomable=false %} 
 </div>
 * [Slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/ETaXUOqqwDtHmeLzDCvUVUgBLuP8pJ0XcvRwYdfqUBOrew?e=RwwZ8T)
 * Template matching [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EX8j8Fwu-h1JpZhxkN3Em4MBuiGGTynd672fuuDg43w6BQ?e=QZtUIm)
@@ -46,7 +46,7 @@ If you are interested in doing a [thesis in Computer Vision](https://magrilu.git
 #### Homogeneous coordinates, lines and vanishing points
 
 <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.html path="assets/img/cube_iacv.png" class="img-fluid rounded" style="max-width: 20%;" zoomable=false %} 
+    {% include figure.html path="assets/img/cube_iacv.png" class="img-fluid rounded" style="max-width: 70%;" zoomable=false %} 
 </div>
 
 
