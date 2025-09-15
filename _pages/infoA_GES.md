@@ -51,8 +51,8 @@ Le esercitazioni del corso sono tenute dal Dr. Michele Craighero, il materiale √
 Sono previste 5 sessioni di Laboratorio (i mercoled√¨ indicati sul calendario).
 I laboratori sono articolati su 3 turni
 * Squadra 1: cognomi da Abate a Battaglia, in aula B8 1.4 dalle 8:15 alle 11:15
-* Squadra 2: cognomi da Battanta a Brivio, in aula B8 1.2 dalle 11:15 alle 14:15
-* Squadra 3: cognomi da  Broglio a Chiesa, in aula B8 1.4 dalle 8:15 alle 11:15
+* Squadra 2: cognomi da Battanta a Brivio, in aula B8 1.4 dalle 11:15 alle 14:15
+* Squadra 3: cognomi da  Broglio a Chiesa, in aula B8 1.2 dalle 11:15 alle 14:15
 
 
 ### Tutoraggio
