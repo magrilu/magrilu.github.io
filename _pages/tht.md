@@ -35,6 +35,6 @@ The content is also curated by [Prof. Boracchi](https://boracchi.faculty.polimi.
 
 :abacus: Please fill in this [form](https://forms.office.com/e/dULHhfRfWz) to request access to our machines with GPU and to the Airlab.
 
-:green_book: Have a look at the guide [Servers how to](https://polimi365-my.sharepoint.com/:f:/r/personal/10569363_polimi_it/Documents/Ricerca/VisionMachines?csf=1&web=1&e=HD7zcC) to setup the connection to our machines (it's a work in progress, thanks to Luca Alessandrini!).
+:green_book: Have a look at the guide [Servers how to](https://polimi365-my.sharepoint.com/:f:/g/personal/10569363_polimi_it/EsFM4vKjDBNJuG4iKfL9qKYB4jAbVu6d9Wn9bp5R4TOQFg?e=uKHqeR) to setup the connection to our machines (it's a work in progress, thanks to Luca Alessandrini!).
 
 :wave: You can join our [Discord server](https://discord.gg/N7dQnz652s).
