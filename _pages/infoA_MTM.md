@@ -35,56 +35,44 @@ Le esercitazioni del corso sono tenute da Dr. Luca Alessandrini e i materiali so
 
 ### Temi d'esame 
 
-- Temi d’esame AA20/21 su MS forms:
-  - [1° Appello Febbraio 2021](https://forms.office.com/Pages/ResponsePage.aspx?id=33)
-  - [2° Appello 19 Febbraio 2021](https://forms.office.com/Pages/ResponsePage.aspx?id=34)
-  - [22 Giugno 2021](https://forms.office.com/Pages/ResponsePage.aspx?id=35)
-  - [19 Luglio 2021](https://forms.office.com/Pages/ResponsePage.aspx?id=36)
-  - [30 Agosto 2021](https://forms.office.com/Pages/ResponsePage.aspx?id=37)
+2023/2024
 
-- Temi d’esame AA21/22 su MS forms:
-  - [1° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=38)
-  - [2° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=39)
-  - [3° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=40)
-  - [4° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=41)
-  - [5° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=42)
+* [Prima prova](https://forms.office.com/e/GdxfxP3mBM)
+* [Appello gennaio](https://forms.office.com/e/REVRfR3pbc)
+* [Appello febbraio](https://forms.office.com/e/9TP0e1k9Dp)
+* [Appello giugno](https://forms.office.com/e/kubrABsKW3)
+* [Appello luglio](https://forms.office.com/e/JmrSTi8z4T)
+* [Appello settembre](https://forms.office.com/e/mSneQ40Db7)
 
-- Temi d’esame AA22/23 su MS forms:
-  - [Prova in itinere](https://forms.office.com/Pages/ResponsePage.aspx?id=43)
-  - [1° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=44)
-  - [2° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=45)
-  - [3° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=46)
-  - [4° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=47)
-  - [5° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=48)
+2022/2023
+* [Prima prova](https://forms.office.com/r/qVvYqExphw)
+* [Appello gennaio](https://forms.office.com/e/sHUPtML1tR)
+* [Appello febbraio](https://forms.office.com/e/NvC0Juckch)
+* [Appello giugno](https://forms.office.com/e/F52ErA30CG)
+* [Appello luglio](https://forms.office.com/e/3xJeJtJJfY)
+* [Appello settembre](https://forms.office.com/e/Z5tNSTiUhf)
 
-- Temi d’esame AA23/24 su MS forms:
-  - [Prova in itinere](https://forms.office.com/Pages/ResponsePage.aspx?id=49)
-  - [1° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=50)
-  - [2° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=51)
-  - [3° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=52)
-  - [4° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=53)
-  - [5° Appello](https://forms.office.com/Pages/ResponsePage.aspx?id=54)
+2021/2022
+* [gennaio 2022](https://forms.office.com/r/ePBzBxvs8V)
+* [febbrario 2022](https://forms.office.com/r/9vr3mha1pT)
+* [giugno 2022](https://forms.office.com/r/gXD8bNtv7a)
+* [luglio 2022](https://forms.office.com/r/aPN3wfxVRC)
+* [settembre 2022](https://forms.office.com/r/R142KQeGsb)
 
-- Temi d’esame anni precedenti:
-  - [Molti TDE dal 2007 al 2013](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#55)
-  - [Molti TDE dal 2013 al 2021](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#56)
-  - [Appello Gennaio 2020](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#57)
-  - [Appello Febbraio 2020 con Soluzioni](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#58)
-  - [TDE AA18/19](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#59)
+2020/2021
+* [19 febbraio 2021](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6_dVLrExCjFKnjNfU-Tb1b1UOE0zQThIS1gyVTJSUzVZMElCODM0T0Q2MC4u)
+* [1 febbraio](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope60vwKNvHTbBBlryvNtxfrkhUMUJYWDJCOUo3SlNHOVVRNFIyWjA0UENCTy4u)
+* [agosto 2021](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope60vwKNvHTbBBlryvNtxfrkhUQ01LTklVRTBHMEJSRVc4NklYWDY4UEsyTC4u)
+* [giugno 2021](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6_dVLrExCjFKnjNfU-Tb1b1UQllKOUI5OFlPN0tZSlBMNVEwVFVNV0JCTy4u)
+* [luglio 2021](https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope60vwKNvHTbBBlryvNtxfrkhURUpRV05MSjJMOFROOEY0UkhVVlJBRjlNNS4u)
 
-- Esercizi e TDE Risolti Prof. Campi:
-  - [Esercizi Extra, introduzione C](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#60)
-  - [Esercizi Extra, Array e stringhe](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#61)
-  - [Esercizi Extra, Strutture](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#62)
-  - [Esercizi Extra, Matrici](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#63)
-  - [Esercizi Extra, Funzioni](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#64)
-  - [Esercizi Extra, Ricorsione](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#65)
-  - [Esercizi Extra, Riepilogo fino alla Ricorsione, parte 1](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#66)
-  - [Esercizi Extra, Riepilogo fino alla Ricorsione, parte 2](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#67)
-  - [Esercizi Extra, Liste, parte 1](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#68)
-  - [Esercizi Extra, Liste, parte 2](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#69)
-  - [Esercizi Extra, Alberi](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#70)
-  - [Esercizi Extra, SQL](https://boracchi.faculty.polimi.it/teaching/InfoA.htm#71)
+
+
+
+
+
+
+
 
 
 
