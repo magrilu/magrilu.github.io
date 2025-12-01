@@ -35,8 +35,15 @@ Le esercitazioni del corso sono tenute da Dr. Luca Alessandrini e i materiali so
 
 ### Temi d'esame 
 
-2023/2024
+2024/2025
+* [Prima prova](https://forms.office.com/e/3UuDAyQYq7)
+* [Appello gennaio](https://forms.office.com/e/8ML1ve1zXc)
+* [Appello febbraio](https://forms.office.com/e/Z4QRAS2ZuL)
+* [Appello giugno](https://forms.office.com/e/CSbGfDbNcT)
+* [Appello luglio](https://forms.office.com/e/PVimnUwt55)
+* [Appello settembre](https://forms.office.com/e/bPXZN5udxY)
 
+2023/2024
 * [Prima prova](https://forms.office.com/e/GdxfxP3mBM)
 * [Appello gennaio](https://forms.office.com/e/REVRfR3pbc)
 * [Appello febbraio](https://forms.office.com/e/9TP0e1k9Dp)

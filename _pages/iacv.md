@@ -100,7 +100,8 @@ Extra:
 * [Slides](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ee-2oFfzrZFOpPDVcGP7aeABfRjSxqwl6z7UjCLitOdIsA?e=HjiNBa)
 * Random Sample Consensus : [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EXhVEKV9ZSRCisPpBtvlCloBDxTRaJoClD_JEpBtzOz5Fw?e=5wt7gR).
 * Least Median of Squares: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/EU649eHcmbdIo6MT4pxKT8wBzAhLP6RK7NlNPbnke43q0Q?e=vJZhfE).
-* Multi-model fitting: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ed-xn64yLU5NhKz0m-eyk3gByCw1HSP5AFLw9wEvAKA1hQ?e=bggGdk).
+* Sequential Msac: [demo code](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/Ed-xn64yLU5NhKz0m-eyk3gByCw1HSP5AFLw9wEvAKA1hQ?e=bggGdk).
+* Hough transform: [demo code](https://polimi365-my.sharepoint.com/:u:/g/personal/10755186_polimi_it/IQB-KbciKYBMTIK2XZoRUOdmASzzi2XHmHJXsHW3SGnXr9A?e=4gnale)
 
 
 #### Matching
