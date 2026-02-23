@@ -33,7 +33,7 @@ $black-color: #000000 !default;
 
 
 // card colors
-$global-card-bg-color:lighten($orange-color, 40%);
+$global-card-bg-color: rgba($orange-color, 0.08);
 
 // Theme colors
 

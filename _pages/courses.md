@@ -6,7 +6,7 @@ description:
 ---
 
 <div class="card mb-4 p-4" markdown="1">
-#### Lecture slides in Geometric Computer Vision
+ Lecture slides in Geometric Computer Vision
  [available here][GCVslides]. 
 </div>
 
