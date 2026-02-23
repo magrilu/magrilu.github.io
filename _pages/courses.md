@@ -7,11 +7,11 @@ description:
 
 Lecture slides in Geometric Computer Vision [available here][GCVslides]. 
 
-## A.Y. 2024-2025
+## A.Y. 2025-2026
 
-* [Informatica A]([infoa]) (Ingegneria Gestionale)
+* [Informatica A]([infoa_GES]) (Ingegneria Gestionale)
+* [Informatica A]([infoa_MTM]) (Ingegneria Matematica)
 * [Image Analysis and Computer Vision](iacv) T.A.
-* Deep learning for Computer Vision (@Bocconi)
 * Computer Vision and Image Processing (@Bocconi)
 
 
@@ -27,7 +27,12 @@ Lecture slides in Geometric Computer Vision [available here][GCVslides].
 
 
 #### MSc  @ Politecnico di Milano
-* 2023-2024 [Image Analysis and Computer Vision][iacv], teaching assistant (course by Prof. V. Caglioti)
+* 2025-2026 [Image Analysis and Computer Vision][iacv], teaching assistant (course by Prof. V. Caglioti)
+* 2025-2026 Informatica A, Faculty of Managment Engeneering
+* 2025-2026 Informatica A, Faculty of Mathematical Engeneering (co-taught with Prof. Giacomo Boracchi)
+* 2024-2025 Image Analysis and Computer Vision, teaching assistant (course by Prof. V. Caglioti)
+* 2024-2025  Informatica A, Faculty of Managment Engeneering
+* 2023-2024 Image Analysis and Computer Vision, teaching assistant (course by Prof. V. Caglioti)
 * 2023-2024 Informatica A, Faculty of Managment Engeneering
 * 2022-2023 [Computer Science][cs], Faculty of Civil Engineering
 * 2022-2023 Image Analysis and Computer Vision, teaching assistant (course by Prof. V. Caglioti)
@@ -39,6 +44,9 @@ Lecture slides in Geometric Computer Vision [available here][GCVslides].
 * 2020-2021 Image Analysis and Computer Vision, teaching assistant (course by Prof. V. Caglioti)
 
 #### MSc @ Bocconi
+* 2025-2026 Computer Vision and Image Processing (co-taught with Prof. Chiara Plizzari)
+* 2024-2025 Computer Vision and Image Processing (co-taught with Prof. Giacomo Boracchi)
+* 2024-2025 Deep learning for Computer Vision (co-taught with Prof. Giacomo Boracchi)
 * 2023-2024 Computer Vision and Image Processing (co-taught with Prof. Giacomo Boracchi)
 * 2023-2024 Deep learning for Computer Vision (co-taught with Prof. Giacomo Boracchi)
 
@@ -53,7 +61,8 @@ Lecture slides in Geometric Computer Vision [available here][GCVslides].
 
 
 ***
-[infoa]:/infoA/
+[infoa_GES]:/infoA_GES/
+[infoa_MTM]:/infoA_MTM/
 [labinfo]:/labinfo/
 [cs]:/cs2022/
 [iacv]:https://boracchi.faculty.polimi.it/teaching/IACV.htm

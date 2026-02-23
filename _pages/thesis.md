@@ -10,21 +10,19 @@ nav_order: 5
 > It is good to have an end to journey toward; but it is the journey that matters, in the end. _Hemingway_
 
 A thesis has a destination, but it is also a process: learning how to think rigorously, how to model a problem, and how to build something that works while understanding why it works.
-I am particularly interested in _Geometry-Driven Vision_: designing practical vision systems that combine geometric reasoning with modern learning techniques.
+I am particularly interested in <strong>Geometry-Driven Vision</strong>: designing practical vision systems that combine geometric reasoning with modern learning techniques.
 
 
 #### Available thesis topics:
 
-- :mortar_board: The complete and updated list of thesis opportunities in Computer Vision, Deep Learning, Image Processing, and Machine Learning is available [here](thesisProposal).
+- :mortar_board: The complete and updated list of [thesis opportunities](https://boracchi.faculty.polimi.it/ThesisOpportunities.html) in Computer Vision, Deep Learning, Image Processing, and Machine Learning is available.
 - :mag: Within these broader research directions, I am currently looking for motivated students interested in:
 
   * _Direct 3D Curve Reconstruction for Sports Applications_ — Analytic reconstruction of 3D curves directly from multi-view images, with applications to high-performance sailing and shape optimization.
-
   * _Skeleton-Based Multi-View Calibration_ — Privacy-preserving multi-camera calibration directly from 2D pose estimation outputs, embedding articulated constraints into a robust geometric optimization framework.
-
   * _Geometry-Aware 3D Reconstruction in Structured Environments_ — Joint recovery of scene geometry and camera poses in warehouse environments by combining vanishing-point reasoning, Manhattan priors, and learned components.
 
-- :envelope: If you would like to be updated on these or other upcoming opportunities, feel free to drop me an email.
+- :envelope: If you would like to be updated on these or other upcoming opportunities, feel free to <strong>drop me an email</strong>.
 - :book: Some [advice](https://polimi365-my.sharepoint.com/:b:/g/personal/10245349_polimi_it/Ec9gPAyZ0JVIv3iSUH7CPOoBUymAJVbQEG8BKaIOBRG8Gg?e=dlWh3Z) on choosing and applying for the right thesis.
 - :star: You can visit our [Thesis Hall of Fame](/thof) to get an idea of past successful theses (some of which have been published at workshops, conferences, and journals).
 
@@ -38,6 +36,16 @@ Beyond the specific theses listed above, my research interests within Geometry-D
 - _Robust estimation and primitive decomposition_ for real-world geometric problems   
 - _Geometry-aware self-supervision_ and learning with limited labels  
 - _Pattern recognition in structured domains_, including clustering, anomaly detection, and explainability
+
+
+#### Background and Preparation
+
+Do not worry if some background is missing, small gaps can be bridged at the beginning of a thesis, and we will provide references when needed.
+A solid starting point typically includes courses such as [IACV](https://magrilu.github.io/iacv/), [AN2DL](https://boracchi.faculty.polimi.it/teaching/AN2DL.htm), or [MMMIP](https://boracchi.faculty.polimi.it/teaching/MMMIP.htm), or equivalent preparation in multi-view geometry, deep learning, and image processing.
+Nobody knows everything before starting, this is not an exam session!  
+By the time you graduate, however, you should master every aspect of your work.
+We also organize a series of [Thesis-How-To](/tht) meetings to provide structured guidance throughout the thesis.
+
 
 
 #### Theses supervised
