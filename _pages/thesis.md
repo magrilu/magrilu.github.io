@@ -9,30 +9,25 @@ nav_order: 5
 ---
 > It is good to have an end to journey toward; but it is the journey that matters, in the end. _Hemingway_
 
-A thesis has a destination, but it is also a process: learning how to think rigorously, how to model a problem, and how to build something that works while understanding why it works.
+A thesis has a destination, but it is also a process: learning how to think rigorously, how to model a problem, and how to build something that works while understanding why it works.<br>
 I am particularly interested in __Geometry-Driven Vision__: designing practical vision systems that combine geometric reasoning with modern learning techniques.
 
 
 #### Available thesis topics:
 
-- :mortar_board: The complete and updated list of [thesis opportunities](https://boracchi.faculty.polimi.it/ThesisOpportunities.html) in Computer Vision, Deep Learning, Image Processing, and Machine Learning is available.
+- :mortar_board: The complete and updated list of [thesis opportunities](https://boracchi.faculty.polimi.it/ThesisOpportunities.html) in Computer Vision, Deep Learning, Image Processing is available.
 - :mag: Within these broader research directions, I am currently looking for motivated students interested in:
 
   <div class="card mb-4 p-4" markdown="1">
 
-  :sailboat: **Direct 3D Curve Reconstruction for Sports Applications**  
+  :sailboat: _Direct 3D Curve Reconstruction for Sports Applications_  
   Analytic reconstruction of 3D curves directly from multi-view images, with applications to high-performance sailing and shape optimization.
 
-  <br>
-
-  :skull: **Skeleton-Based Multi-View Calibration**  
+  :skull: _Skeleton-Based Multi-View Calibration_  
   Privacy-preserving multi-camera calibration directly from 2D pose estimation outputs, embedding articulated constraints into a robust geometric optimization framework.
 
-  <br>
-
-  :package: **Geometry-Aware 3D Reconstruction in Structured Environments**  
+  :package: _Geometry-Aware 3D Reconstruction in Structured Environments_
   Joint recovery of scene geometry and camera poses in warehouse environments by combining vanishing-point reasoning, Manhattan priors, and learned components.
-
   </div>
 
 - :envelope: If you would like to be updated on these or other upcoming opportunities, feel free to __drop me an email__.

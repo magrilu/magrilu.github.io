@@ -72,15 +72,15 @@ blockquote {
 .card {
   background-color: var(--global-card-bg-color);
 
- img:not(.emoji) {
-  width: 100%;
- }
+  img:not(.emoji) {
+    width: 100%;
+  }
 
- .card img.emoji {
-  width: 1.2em;
-  height: 1.2em;
-  vertical-align: -0.1em;
-}
+  img.emoji {
+    width: 1.2em;
+    height: 1.2em;
+    vertical-align: -0.1em;
+  }
 
   .card-title {
     color: var(--global-text-color);
@@ -94,6 +94,19 @@ blockquote {
       display: flex;
       align-items: center;
     }
+  }
+
+  /* testo più compatto */
+  p {
+    margin-bottom: 0.4rem;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  strong {
+    font-weight: 600;
   }
 }
 
