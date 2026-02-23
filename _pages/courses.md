@@ -9,8 +9,8 @@ Lecture slides in Geometric Computer Vision [available here][GCVslides].
 
 ## A.Y. 2025-2026
 
-* [Informatica A]([infoa_GES]) (Ingegneria Gestionale)
-* [Informatica A]([infoa_MTM]) (Ingegneria Matematica)
+* [Informatica A](https://magrilu.github.io/infoA_GES/) (Ingegneria Gestionale)
+* [Informatica A](https://magrilu.github.io/infoA_MTM/) (Ingegneria Matematica)
 * [Image Analysis and Computer Vision](iacv) T.A.
 * Computer Vision and Image Processing (@Bocconi)
 
