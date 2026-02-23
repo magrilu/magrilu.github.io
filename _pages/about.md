@@ -23,7 +23,7 @@ Via Ponzio 34/5,<br>
 
 * E-mail: name.surname@polimi.it
 
-My [research][research] focuses on geometry-driven computer vision, integrating principled geometric modeling with modern learning techniques for robust 3D reconstruction and structured visual understanding.
+My [research][research] focuses on geometry-driven computer vision, integrating principled geometric modeling with modern learning techniques for robust 3D reconstruction and structured visual understanding.  
 You can find a short [biosketch][bio] here.
 
 
