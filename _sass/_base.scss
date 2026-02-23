@@ -72,9 +72,15 @@ blockquote {
 .card {
   background-color: var(--global-card-bg-color);
 
-  img {
-    width: 100%;
-  }
+ img:not(.emoji) {
+  width: 100%;
+ }
+
+ .card img.emoji {
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: -0.1em;
+}
 
   .card-title {
     color: var(--global-text-color);
