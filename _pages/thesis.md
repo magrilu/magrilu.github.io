@@ -18,9 +18,22 @@ I am particularly interested in __Geometry-Driven Vision__: designing practical 
 - :mortar_board: The complete and updated list of [thesis opportunities](https://boracchi.faculty.polimi.it/ThesisOpportunities.html) in Computer Vision, Deep Learning, Image Processing, and Machine Learning is available.
 - :mag: Within these broader research directions, I am currently looking for motivated students interested in:
 
-  * :sailboat: _Direct 3D Curve Reconstruction for Sports Applications_ — Analytic reconstruction of 3D curves directly from multi-view images, with applications to high-performance sailing and shape optimization.
-  * :skull: _Skeleton-Based Multi-View Calibration_ — Privacy-preserving multi-camera calibration directly from 2D pose estimation outputs, embedding articulated constraints into a robust geometric optimization framework.
-  * :package: _Geometry-Aware 3D Reconstruction in Structured Environments_ — Joint recovery of scene geometry and camera poses in warehouse environments by combining vanishing-point reasoning, Manhattan priors, and learned components.
+  <div class="card mb-4 p-4" markdown="1">
+
+  :sailboat: **Direct 3D Curve Reconstruction for Sports Applications**  
+  Analytic reconstruction of 3D curves directly from multi-view images, with applications to high-performance sailing and shape optimization.
+
+  <br>
+
+  :skull: **Skeleton-Based Multi-View Calibration**  
+  Privacy-preserving multi-camera calibration directly from 2D pose estimation outputs, embedding articulated constraints into a robust geometric optimization framework.
+
+  <br>
+
+  :package: **Geometry-Aware 3D Reconstruction in Structured Environments**  
+  Joint recovery of scene geometry and camera poses in warehouse environments by combining vanishing-point reasoning, Manhattan priors, and learned components.
+
+  </div>
 
 - :envelope: If you would like to be updated on these or other upcoming opportunities, feel free to __drop me an email__.
 - :book: Some [advice](https://polimi365-my.sharepoint.com/:b:/g/personal/10245349_polimi_it/Ec9gPAyZ0JVIv3iSUH7CPOoBUymAJVbQEG8BKaIOBRG8Gg?e=dlWh3Z) on choosing and applying for the right thesis.
