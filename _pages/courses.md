@@ -5,7 +5,11 @@ title: Courses
 description:
 ---
 
-Lecture slides in Geometric Computer Vision [available here][GCVslides]. 
+<div class="card mb-4 p-4">
+### Lecture slides in Geometric Computer Vision
+ [available here][GCVslides]. 
+</div>
+
 
 ## A.Y. 2025-2026
 
