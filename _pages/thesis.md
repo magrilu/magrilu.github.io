@@ -13,25 +13,24 @@ A thesis has a destination, but it is also a process: learning how to think rigo
 I am particularly interested in __Geometry-Driven Vision__: designing practical vision systems that combine geometric reasoning with modern learning techniques.
 
 
-#### Available thesis topics:
+### Available thesis topics:
 
 - :mortar_board: The complete and updated list of [thesis opportunities](https://boracchi.faculty.polimi.it/ThesisOpportunities.html) in Computer Vision, Deep Learning, Image Processing is available.
 - :mag: Within these broader research directions, I am currently looking for motivated students interested in:
 
   <div class="card mb-4 p-4" markdown="1">
 
-  :sailboat: _Direct 3D Curve Reconstruction for Sports Applications_  
+  :sailboat: __Direct 3D Curve Reconstruction for Sports Applications__  
   Analytic reconstruction of 3D curves directly from multi-view images, with applications to high-performance sailing and shape optimization.
 
-  :skull: _Skeleton-Based Multi-View Calibration_  
+  :skull: __Skeleton-Based Multi-View Calibration__  
   Privacy-preserving multi-camera calibration directly from 2D pose estimation outputs, embedding articulated constraints into a robust geometric optimization framework.
 
-  :package: _Geometry-Aware 3D Reconstruction in Structured Environments_
+  :package: __Geometry-Aware 3D Reconstruction in Structured Environments__  
   Joint recovery of scene geometry and camera poses in warehouse environments by combining vanishing-point reasoning, Manhattan priors, and learned components.
   </div>
 
 - :envelope: If you would like to be updated on these or other upcoming opportunities, feel free to __drop me an email__.
-- :book: Some [advice](https://polimi365-my.sharepoint.com/:b:/g/personal/10245349_polimi_it/Ec9gPAyZ0JVIv3iSUH7CPOoBUymAJVbQEG8BKaIOBRG8Gg?e=dlWh3Z) on choosing and applying for the right thesis.
 - :star: You can visit our [Thesis Hall of Fame](/thof) to get an idea of past successful theses (some of which have been published at workshops, conferences, and journals).
 
 #### Other Topics of Interest
@@ -56,7 +55,7 @@ We also organize a series of [Thesis-How-To](/tht) meetings to provide structure
 
 
 
-#### Theses supervised
+### Theses supervised
 
 You can have a look at the theses I supervised to get a sense of the possible research directions:
 * Alessandro Ardenghi, _Teaching CAMs to Remember: a Memory-Enhanced approach to Weakly Supervised Video Semantic_ . MSc in Artificial Intelligence, December 2025, Bocconi University.
