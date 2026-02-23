@@ -23,9 +23,8 @@ Via Ponzio 34/5,<br>
 
 * E-mail: name.surname@polimi.it
 
-
-My [research][research]  lies at the intersection of Computer Vision and Pattern Recognition. Specifically, my work is mainly focused on robust fitting for 3D model acquisition from images.
-Here a short [biosketch][bio].
+My [research][research] focuses on geometry-driven computer vision, integrating principled geometric modeling with modern learning techniques for robust 3D reconstruction and structured visual understanding.
+You can find a short [biosketch][bio] here.
 
 
 
