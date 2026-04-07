@@ -58,6 +58,8 @@ We also organize a series of [Thesis-How-To](/tht) meetings to provide structure
 ### Theses supervised
 
 You can have a look at the theses I supervised to get a sense of the possible research directions:
+* Mattia Pozzi, _Unsynchronized Stereo Camera Calibration via Drone Trajectory Tracking_. MSc in Computer Science and Engineering. March 2026, PoliMi.
+* Marco Cerino, _Two-View Motion Segmentation with Semi-Calibrated Cameras via Hypothesis Filtering_.  MSc in Computer Science and Engineering. March 2026, PoliMi.
 * Alessandro Ardenghi, _Teaching CAMs to Remember: a Memory-Enhanced approach to Weakly Supervised Video Semantic_ . MSc in Artificial Intelligence, December 2025, Bocconi University.
 * Francesco Santambrogio, _A Frequency Loss Driven Framework for Respiration Monitoring Using Depth-Sensing Cameras_. MSc in Computer Science and Engineering. October 2025, PoliMi.
 * Francesco Buccoliero, _Template Matching for Logos Exploiting Geometry and Color Priors_. MSc in Computer Science and Engineering. October 2025, PoliMi.
