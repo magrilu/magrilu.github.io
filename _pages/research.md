@@ -3,10 +3,50 @@ layout: page
 title: research
 permalink: /research/
 description: Geometry-driven computer vision for estimation and reconstruction under non-ideal conditions.
-nav: false
+nav: true
 nav_order: 2
 ---
 
+I work in **Computer Vision**, focusing on geometry-driven methods for estimation and 3D reconstruction under non-ideal conditions.
+
+My research deals with settings where standard assumptions break: data may contain multiple structures, measurements may include outliers, reconstruction may become ambiguous, and sensing conditions may be heterogeneous or unconventional.
+
+## Robust fitting and multi-structure estimation
+
+Methods for estimating multiple geometric models from noisy data with outliers and overlapping structures.
+
+**Clustering of preferences.**  
+A recurring idea in this line of work is to represent data through the preferences they grant to a pool of provisional models. This turns multi-model fitting into a clustering problem in a suitable conceptual space, as in T-Linkage {% cite 2014_cvpr %}, Multi-Link {% cite magri2021 %}, and robust matrix-factorization approaches {% cite 2015_bmvc magri2017multiple %}.
+
+**Coverage formulations.**  
+An alternative view formulates multi-model fitting as a coverage problem, yielding a simple and principled alternative to clustering-based methods {% cite 2016_cvpr %}. This perspective also motivates later work on quantum optimization formulations {% cite FarinaAl23 %}.
+
+**Applications.**  
+These methods have been applied to indoor point clouds for scan2BIM {% cite 2018_3dv 2019_ispr %}, motion segmentation, and 1D signal analysis in industrial settings.
+
+## Calibration and geometric reconstruction
+
+Methods for calibration and reconstruction in multiview geometry, from minimal problems to modern sensing systems.
+
+**Autocalibration and camera models.**  
+This includes work on minimal autocalibration problems, self-calibration in dynamic scenes, and flexible models for wide-angle cameras.
+
+**Multimodal and dynamic reconstruction.**  
+A second line addresses calibration and reconstruction with heterogeneous sensor suites and scenes containing multiple rigid motions, combining geometric reasoning with learning-based components.
+
+## Critical configurations in 3D reconstruction
+
+A more theoretical line of work studies when and why reconstruction becomes ambiguous or unstable.
+
+Using tools from algebraic geometry, this research analyzes **critical configurations**: situations in which different 3D scenes or camera arrangements produce indistinguishable image observations {% cite bertolini2020critical bertolini2019critical %}. The goal is to better understand the failure modes of reconstruction pipelines.
+
+## Structure-based anomaly detection
+
+This line of work studies how to detect observations that do not conform to an underlying geometric or structural pattern.
+
+Instead of recovering all structures first and labeling the residual points as outliers, these methods aim to identify anomalies directly through preference embeddings and isolation mechanisms {% cite leveni2020 LeveniAl23 RizzoAl23 %}. Applications range from geometric data to industrial monitoring and optical sensing.
+
+---
 I work in **Computer Vision**, focusing on geometry-driven methods for estimation and 3D reconstruction in non-ideal conditions.
 My research addresses scenarios where standard assumptions break: data may contain multiple structures, measurements may be corrupted by outliers, reconstruction may be ambiguous, and sensing conditions may be heterogeneous or unconventional.
 
@@ -23,7 +63,7 @@ A recurring idea in this line of work is to represent data through the preferenc
 A different direction consists in formulating multi-model fitting as a coverage problem, yielding RansaCov {% cite 2016_cvpr %} a simple and principled alternative to clustering-based approaches. In this view, the goal is to select a set of models that jointly explains the data while naturally accounting for outliers and intersecting structures. This formulation was later extended to quantum optimization hardware, connecting robust estimation with emerging computational paradigms that are well suited to the combinatorial nature of the problem {% cite FarinaAl23 pandey2025outlier%}.
 
 **Applications.**  
-These methods have been applied in different domains, including indoor point clouds for scan2BIM {% cite 2018_3dv 2019_ispr %}, motion segmentation {% cite %}, and geometric primitive decomposition with superquadrics {% cite ferraris2025geometric} in the context of the **GEOPRIDE** project (PRIN).
+These methods have been applied in different domains, including indoor point clouds for scan2BIM {% cite 2018_3dv 2019_ispr %}, motion segmentation {% cite %}, and geometric primitive decomposition with superquadrics {% cite ferraris2025geometric%} in the context of the **GEOPRIDE** project (PRIN).
 
 
 
