@@ -30,7 +30,7 @@ Jump to: [Robust fitting](#robust-fitting) · [Calibration](#calibration) · [Cr
 
 ---
 
-## Robust fitting and multi-structure estimation
+### Robust fitting and multi-structure estimation {#robust-fitting}
 
 Methods for estimating multiple geometric models from noisy data with outliers and overlapping structures.
 
