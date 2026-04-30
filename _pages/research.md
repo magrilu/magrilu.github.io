@@ -3,13 +3,32 @@ layout: page
 title: research
 permalink: /research/
 description: Geometry-driven computer vision for estimation and reconstruction under non-ideal conditions.
-nav: true
+nav: false
 nav_order: 2
 ---
 
 I work in **Computer Vision**, focusing on geometry-driven methods for estimation and 3D reconstruction under non-ideal conditions.
 
 My research deals with settings where standard assumptions break: data may contain multiple structures, measurements may include outliers, reconstruction may become ambiguous, and sensing conditions may be heterogeneous or unconventional.
+
+
+- [**Robust fitting and multi-structure estimation**](#robust-fitting)  
+  Methods for recovering multiple parametric models from noisy data with outliers and overlapping structures.
+
+- [**Calibration and 3D reconstruction**](#calibration)  
+  Problems in multiview geometry arising when camera parameters are unknown, scenes are dynamic or sensing modalities are heterogeneous.
+
+- [**Critical configurations in 3D reconstruction**](#critical-configurations)  
+  When and why does 3D reconstruction fail?
+
+- [**Structure-based anomaly detection**](#anomaly-detection)  
+  When the main interest is not modeling the underlying structures, but detecting the observations that do not conform to them.
+
+
+
+Jump to: [Robust fitting](#robust-fitting) · [Calibration](#calibration) · [Critical configurations](#critical-configurations) · [Anomaly detection](#anomaly-detection)
+
+---
 
 ## Robust fitting and multi-structure estimation
 
@@ -96,8 +115,7 @@ On the theoretical side, this includes work on minimal problems and autocalibrat
   
 ## Critical configurations in 3D reconstruction
 
-A more theoretical line of work studies the geometric conditions under which 3D reconstruction becomes ambiguous or unstable.
-
+When and why does 3D reconstruction fail?
 Using tools from algebraic geometry, this research analyzes **critical configurations**: situations in which different 3D scenes or camera arrangements produce indistinguishable image observations. Understanding these degeneracies is important both from a theoretical point of view and for designing reconstruction pipelines that are aware of their own failure modes.
 
 **Selected papers**
