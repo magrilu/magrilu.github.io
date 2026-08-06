@@ -26,6 +26,9 @@ I am particularly interested in __Geometry-Driven Vision__: designing practical 
   :skull: __Skeleton-Based Multi-View Calibration__  
   Privacy-preserving multi-camera calibration directly from 2D pose estimation outputs, embedding articulated constraints into a robust geometric optimization framework.
 
+  :bubble: __Geometric Segmentation of 3D Gaussian Splatting Representations__
+  Geometric segmentation of 3D Gaussian Splatting representations by interpreting splats as anisotropic surface primitives, enabling robust multi-model fitting and primitive-level abstraction of reconstructed 3D scenes.
+
   :package: __Geometry-Aware 3D Reconstruction in Structured Environments__  
   Joint recovery of scene geometry and camera poses in warehouse environments by combining vanishing-point reasoning, Manhattan priors, and learned components.
   </div>
@@ -58,6 +61,7 @@ We also organize a series of [Thesis-How-To](/tht) meetings to provide structure
 ### Theses supervised
 
 You can have a look at the theses I supervised to get a sense of the possible research directions:
+* Alessandro Marcassa, _Relative Pose Estimation for Calibrated and Uncalibrated Cameras from the Multi-view Geometry of Quadrics_. MSc in Computer Science and Engineering. July 2026, PoliMi.
 * Mattia Pozzi, _Unsynchronized Stereo Camera Calibration via Drone Trajectory Tracking_. MSc in Computer Science and Engineering. March 2026, PoliMi.
 * Marco Cerino, _Two-View Motion Segmentation with Semi-Calibrated Cameras via Hypothesis Filtering_.  MSc in Computer Science and Engineering. March 2026, PoliMi.
 * Alessandro Ardenghi, _Teaching CAMs to Remember: a Memory-Enhanced approach to Weakly Supervised Video Semantic_ . MSc in Artificial Intelligence, December 2025, Bocconi University.
