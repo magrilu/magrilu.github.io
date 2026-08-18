@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-10-16 11:00:00-0400
-place: Università degli Studi di Milano-Bicocca
+date: 2025-11-17 11:00:00-0400
+place: Università Bocconi
 inline: true
 ---
-Robust Fitting in Computer Vision.
+Geometric 3D vision.
