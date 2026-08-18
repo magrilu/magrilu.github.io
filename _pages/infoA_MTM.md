@@ -35,6 +35,13 @@ Le esercitazioni del corso sono tenute da Dr. Luca Alessandrini e i materiali so
 
 ### Temi d'esame 
 
+2025/2026
+* [Prima prova](https://forms.cloud.microsoft/e/TudUTUp8hB)
+* [Appello gennaio](https://forms.cloud.microsoft/e/U1bBujvcBe)
+* [Appello febbraio](https://forms.cloud.microsoft/e/ksBDW8Vqkk)
+* [Appello giugno](https://forms.cloud.microsoft/e/sg6dhgnS7N)
+* [Appello luglio](https://forms.cloud.microsoft/e/fjkfDU7Y8N)
+
 2024/2025
 * [Prima prova](https://forms.office.com/e/3UuDAyQYq7)
 * [Appello gennaio](https://forms.office.com/e/8ML1ve1zXc)
