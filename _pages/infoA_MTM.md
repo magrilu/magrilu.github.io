@@ -19,8 +19,12 @@ Border="0"  width="210" height="auto">
 
 ### Calendario
 
-L'orario settimanale delle lezioni è indicativamente **lunedì 15:00–17:00,
-martedì 9:00–13:00, mercoledì 9:00–13:00 e venerdì 11:00–14:00**.
+L'orario settimanale delle lezioni è indicativamente:
+
+- Lunedì, 14:30–17:15 in Aula 9.0.1
+- Martedì, 8:30–12:15 in Aula 3.1.2
+- Mercoledì, 16:30–18:15 in Aula T.2.1
+- Venerdì, 10:30–13:15 in Aula B.3.4
 
 Il calendario sottostante riporta **date, aule ed eventuali variazioni o lezioni di recupero** e costituisce il riferimento aggiornato per il corso.
 
@@ -51,35 +55,50 @@ Durante il semestre sono previsti incontri di tutorato per esercitarsi sugli arg
 
 ### Modalità d'esame
 
-L'esame consiste in una **prova scritta** seguita da una **prova orale**.
+L'esame consiste in una prova scritta seguita da una prova orale.
+
+#### Prova scritta
 
 La prova scritta si svolge al computer. Gli esercizi vengono proposti tramite Microsoft Forms e ciascuno studente deve utilizzare il proprio PC per sviluppare le soluzioni e caricare sul form il codice prodotto.
-Per gli esercizi di programmazione ci si aspetta che il codice consegnato compili e venga eseguito correttamente. È quindi importante arrivare all'esame con un ambiente di sviluppo correttamente installato e configurato. Gli unici IDE ammessi sono Dev C++,
-CodeBlocks, XCode.
-Le istruzioni per l'installazione e la configurazione dell'ambiente consigliato sono disponibili
 
-La prova scritta comprende tre esercizi di **programmazione in C** e un esercizio sull'SQL. Per essere ammessi alla prova orale è necessario ottenere **almeno 10 punti complessivi nei tre esercizi di programmazione in C**.
+Per gli esercizi di programmazione ci si aspetta che il codice consegnato compili e venga eseguito correttamente. È quindi importante arrivare all'esame con un ambiente di sviluppo correttamente installato e configurato.
+
+Gli unici IDE ammessi durante la prova sono Dev-C++, Code::Blocks e Xcode. 
+
+Durante la prova scritta è possibile utilizzare la [dispensa del corso](https://boracchi.faculty.polimi.it/teaching/InfoA/dispensaEsame.pdf).
+
+Per essere ammessi alla prova orale è necessario ottenere almeno 10 punti complessivi nei tre esercizi di programmazione in C.
+
+#### Prova orale
+
+Per la prova orale tipicamente viene proposto un esercizio da risolvere su carta, che viene successivamente discusso con il docente.
 
 #### Prova in itinere
 
-Durante il semestre è prevista una **prova in itinere (compitino)**. Il superamento della prova consente di **non svolgere il primo degli esercizi della prova scritta** negli appelli di **gennaio e febbraio**. Il beneficio è valido esclusivamente per questi due appelli.
+Durante il semestre è prevista una prova in itinere (compitino). Il superamento della prova consente di non svolgere il primo esercizio di programmazione della prova scritta negli appelli di **gennaio e febbraio**. Il beneficio è valido esclusivamente per questi due appelli.
 
-Durante la prova scritta è possibile utilizzare la [dispensa del corso](https://boracchi.faculty.polimi.it/teaching/InfoA/dispensaEsame.pdf).
+#### Esami integrativi
+
+Gli studenti che devono sostenere un esame integrativo a seguito della convalida di un esame di Informatica di un altro corso di studi devono **contattare il docente** per concordare il programma della prova.
+
+Usalmente la prova riguarda **memoria dinamica (liste e alberi)** e **SQL**, argomenti trattati nella seconda parte del corso. Poiché il corso utilizza il linguaggio **C**, a chi proviene da corsi basati su altri linguaggi è consigliato seguire le lezioni almeno a partire dall'introduzione di **puntatori e funzioni in C**, indicativamente dalla seconda metà di ottobre.
+
+Il voto finale è calcolato come **media pesata sui CFU** tra il voto dell'esame convalidato e quello ottenuto nella prova integrativa.
 
 ***
 
 ### Temi d'esame
 
-Per gli appelli dell'ultimo anno sono disponibili sia il tema d'esame sia la relativa soluzione.
+Per gli appelli dell'ultimo anno sono disponibili i temi d'esame.
 
-| Appello 2025/26 | Tema | Soluzione |
-| --- | :---: | :---: |
-| Prima prova | [Form](https://forms.cloud.microsoft/e/TudUTUp8hB) | [Soluzione](LINK_SOLUZIONE) |
-| Gennaio | [Form](https://forms.cloud.microsoft/e/U1bBujvcBe) | [Soluzione](LINK_SOLUZIONE) |
-| Febbraio | [Form](https://forms.cloud.microsoft/e/ksBDW8Vqkk) | [Soluzione](LINK_SOLUZIONE) |
-| Giugno | [Form](https://forms.cloud.microsoft/e/sg6dhgnS7N) | [Soluzione](LINK_SOLUZIONE) |
-| Luglio | [Form](https://forms.cloud.microsoft/e/fjkfDU7Y8N) | [Soluzione](LINK_SOLUZIONE) |
-| Settembre | [Form]() | [Soluzione]() | 
+#### 2025/2026
+
+**Prima prova:** [Tema](https://forms.cloud.microsoft/e/TudUTUp8hB) · [Soluzione](LINK_SOLUZIONE)  
+**Gennaio:** [Tema](https://forms.cloud.microsoft/e/U1bBujvcBe) · [Soluzione](LINK_SOLUZIONE)  
+**Febbraio:** [Tema](https://forms.cloud.microsoft/e/ksBDW8Vqkk) · [Soluzione](LINK_SOLUZIONE)  
+**Giugno:** [Tema](https://forms.cloud.microsoft/e/sg6dhgnS7N) · [Soluzione](LINK_SOLUZIONE)  
+**Luglio:** [Tema](https://forms.cloud.microsoft/e/fjkfDU7Y8N) · [Soluzione](LINK_SOLUZIONE)  
+**Settembre:** Tema · Soluzione
 
 #### Archivio TDE
 
