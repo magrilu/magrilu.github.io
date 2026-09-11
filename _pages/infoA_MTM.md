@@ -28,7 +28,7 @@ L'orario settimanale delle lezioni è indicativamente:
 
 Il calendario sottostante riporta **date, aule ed eventuali variazioni o lezioni di recupero** e costituisce il riferimento aggiornato per il corso.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=5e275c0e64b94f9358937225f0104afc4f7fff4173249ec76ee3dce0dac0e854%40group.calendar.google.com&ctz=Europe%2FRome" style="border: 0" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FRome&showPrint=0&showTitle=0&showTabs=0&mode=AGENDA&src=NWUyNzVjMGU2NGI5NGY5MzU4OTM3MjI1ZjAxMDRhZmM0ZjdmZmY0MTczMjQ5ZWM3NmVlM2RjZTBkYWMwZTg1NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%231dc246" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ***
@@ -93,14 +93,15 @@ Per gli appelli dell'ultimo anno sono disponibili i temi d'esame.
 
 #### 2025/2026
 
-**Prima prova:** [Tema](https://forms.cloud.microsoft/e/TudUTUp8hB) · [Soluzione](LINK_SOLUZIONE)  
-**Gennaio:** [Tema](https://forms.cloud.microsoft/e/U1bBujvcBe) · [Soluzione](LINK_SOLUZIONE)  
+**Prima prova:** [Tema](https://forms.cloud.microsoft/e/TudUTUp8hB) · [Soluzione](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/IQB0uFjs7l8PSaOctH2EAITmAZJyz7-QqG4JofDrqEjCkOU?e=juXflc)  
+**Gennaio:** [Tema](https://forms.cloud.microsoft/e/U1bBujvcBe) · [Soluzione](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/IQDl3bfv4uO4QKuBZJSsBEeSAQqu4HMBEq6gBJh2QssVpE8?e=clwE4Z)  
 **Febbraio:** [Tema](https://forms.cloud.microsoft/e/ksBDW8Vqkk) · [Soluzione](LINK_SOLUZIONE)  
-**Giugno:** [Tema](https://forms.cloud.microsoft/e/sg6dhgnS7N) · [Soluzione](LINK_SOLUZIONE)  
-**Luglio:** [Tema](https://forms.cloud.microsoft/e/fjkfDU7Y8N) · [Soluzione](LINK_SOLUZIONE)  
-**Settembre:** Tema · Soluzione
+**Giugno:** [Tema](https://forms.cloud.microsoft/e/sg6dhgnS7N)
+**Luglio:** [Tema](https://forms.cloud.microsoft/e/fjkfDU7Y8N)  
+**Settembre:** [Tema](https://forms.cloud.microsoft/e/v6zRZVAY8N)
 
 #### Archivio TDE
+
 
 **2024/25:** [Prima prova](https://forms.office.com/e/3UuDAyQYq7) · [Gennaio](https://forms.office.com/e/8ML1ve1zXc) · [Febbraio](https://forms.office.com/e/Z4QRAS2ZuL) · [Giugno](https://forms.office.com/e/CSbGfDbNcT) · [Luglio](https://forms.office.com/e/PVimnUwt55) · [Settembre](https://forms.office.com/e/bPXZN5udxY)
 
@@ -119,6 +120,8 @@ Per temi ancora precedenti si rimanda alla [pagina storica del corso](https://bo
 Gli studenti che devono sostenere un esame integrativo a seguito della convalida di un esame di Informatica di un altro corso di studi devono contattare il docente per concordare il programma della prova.
 
 Tipicamente la prova riguarda memoria dinamica (liste e alberi) e SQL, argomenti trattati nella seconda parte del corso. Poiché il corso utilizza il linguaggio C, a chi proviene da corsi basati su altri linguaggi è consigliato seguire le lezioni almeno a partire dall'introduzione di puntatori e funzioni in C. Il voto finale è calcolato come media pesata sui CFU tra il voto dell'esame convalidato e quello ottenuto nella prova integrativa.
+
+***
 
 ### Risorse aggiuntive
 
