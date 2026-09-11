@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /infoA_MTM/
+permalink: /infoA_MTM_old/
 title: Informatica A
 ---
 
