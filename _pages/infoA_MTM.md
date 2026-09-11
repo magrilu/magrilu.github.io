@@ -95,8 +95,8 @@ Per gli appelli dell'ultimo anno sono disponibili i temi d'esame.
 
 **Prima prova:** [Tema](https://forms.cloud.microsoft/e/TudUTUp8hB) · [Soluzione](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/IQB0uFjs7l8PSaOctH2EAITmAZJyz7-QqG4JofDrqEjCkOU?e=juXflc)  
 **Gennaio:** [Tema](https://forms.cloud.microsoft/e/U1bBujvcBe) · [Soluzione](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/IQDl3bfv4uO4QKuBZJSsBEeSAQqu4HMBEq6gBJh2QssVpE8?e=clwE4Z)  
-**Febbraio:** [Tema](https://forms.cloud.microsoft/e/ksBDW8Vqkk) · [Soluzione](LINK_SOLUZIONE)  
-**Giugno:** [Tema](https://forms.cloud.microsoft/e/sg6dhgnS7N)
+**Febbraio:** [Tema](https://forms.cloud.microsoft/e/ksBDW8Vqkk) · [Soluzione](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/IQD6I_Dft02uQ5X4yb5edSrTAZDopFojul-Jl1Bu7ysbqS4?e=YONpgi)  
+**Giugno:** [Tema](https://forms.cloud.microsoft/e/sg6dhgnS7N)  
 **Luglio:** [Tema](https://forms.cloud.microsoft/e/fjkfDU7Y8N)  
 **Settembre:** [Tema](https://forms.cloud.microsoft/e/v6zRZVAY8N)
 
@@ -118,7 +118,6 @@ Per temi ancora precedenti si rimanda alla [pagina storica del corso](https://bo
 ### Esami integrativi
 
 Gli studenti che devono sostenere un esame integrativo a seguito della convalida di un esame di Informatica di un altro corso di studi devono contattare il docente per concordare il programma della prova.
-
 Tipicamente la prova riguarda memoria dinamica (liste e alberi) e SQL, argomenti trattati nella seconda parte del corso. Poiché il corso utilizza il linguaggio C, a chi proviene da corsi basati su altri linguaggi è consigliato seguire le lezioni almeno a partire dall'introduzione di puntatori e funzioni in C. Il voto finale è calcolato come media pesata sui CFU tra il voto dell'esame convalidato e quello ottenuto nella prova integrativa.
 
 ***
