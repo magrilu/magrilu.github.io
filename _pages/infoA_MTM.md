@@ -23,8 +23,17 @@ L'orario settimanale delle lezioni è indicativamente:
 
 - Lunedì, 14:30–17:15 in Aula 9.0.1
 - Martedì, 8:30–12:15 in Aula 3.1.2
-- Mercoledì, 16:30–18:15 in Aula T.2.1
+- Mercoledì mattina, 8:30–12:15 — Aula 9.0.1
+- Mercoledì pomeriggio, 16:30–18:15 in Aula T.2.1
 - Venerdì, 10:30–13:15 in Aula B.3.4
+
+> **Eccezioni di aula**
+>
+> Le attività previste in [**Aula Gatti**]([https://onlineservices.polimi.it/spazi/spazi/controller/Aula.do?idaula=4801&lang=IT&__pj0=0&__pj1=6b78ad996b946972b5e4f13740e71841](https://onlineservices.polimi.it/spazi/spazi/controller/Aula.do?idaula=4801&lang=IT&__pj0=0&__pj1=6b78ad996b946972b5e4f13740e71841)) sono:
+>
+> - mercoledì 30 settembre: esercitazione sulle strutture di controllo;
+> - mercoledì 7 ottobre: esercitazione su array e stringhe;
+> - martedì 13 ottobre: lezione sulle funzioni.
 
 Il calendario sottostante riporta **date, aule ed eventuali variazioni o lezioni di recupero** e costituisce il riferimento aggiornato per il corso.
 
@@ -42,7 +51,7 @@ Le esercitazioni del corso sono tenute dal **Dr. Luca Alessandrini**. Il materia
 ### Laboratori
 
 I laboratori sono dedicati alla programmazione in C e allo svolgimento guidato di esercizi.
-[Calendario e materiale dei laboratori](https://docs.google.com/spreadsheets/d/1nb7kYFJAR_dKXedBRcHyG4gSF-P1UaDzye51h0UnuL8/edit?usp=sharing)
+[Calendario](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/IQDVyKE5uBDETKRHUC15NiTzAVdWsCQG1tYgM9k8_l1vKac?e=9nF2IB) e [materiale dei laboratori](https://docs.google.com/spreadsheets/d/1nb7kYFJAR_dKXedBRcHyG4gSF-P1UaDzye51h0UnuL8/edit?usp=sharing)
 
 ***
 
