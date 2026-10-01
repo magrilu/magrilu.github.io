@@ -29,7 +29,7 @@ L'orario settimanale delle lezioni è indicativamente:
 
 > **Eccezioni di aula**
 >
-> Le attività previste in [**Aula Gatti**]([https://onlineservices.polimi.it/spazi/spazi/controller/Aula.do?idaula=4801&lang=IT&__pj0=0&__pj1=6b78ad996b946972b5e4f13740e71841](https://onlineservices.polimi.it/spazi/spazi/controller/Aula.do?idaula=4801&lang=IT&__pj0=0&__pj1=6b78ad996b946972b5e4f13740e71841)) sono:
+> Le attività previste in **Aula Gatti** sono:
 >
 > - mercoledì 30 settembre: esercitazione sulle strutture di controllo;
 > - mercoledì 7 ottobre: esercitazione su array e stringhe;
