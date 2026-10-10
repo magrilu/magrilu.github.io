@@ -95,6 +95,8 @@ Usalmente la prova riguarda **memoria dinamica (liste e alberi)** e **SQL**, arg
 Il voto finale è calcolato come **media pesata sui CFU** tra il voto dell'esame convalidato e quello ottenuto nella prova integrativa.
 
 L'esame integrativo potrà essere sostenuto in un appello d'esame regolare a partire da gennaio, **non** è invece possibile sostenere l'esame integrativo durante il compitino.
+
+
 ***
 
 ### Temi d'esame
