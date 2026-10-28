@@ -72,11 +72,15 @@ La prova scritta si svolge al computer. Gli esercizi vengono proposti tramite Mi
 
 Per gli esercizi di programmazione ci si aspetta che il codice consegnato compili e venga eseguito correttamente. È quindi importante arrivare all'esame con un ambiente di sviluppo correttamente installato e configurato.
 
-Gli unici IDE ammessi durante la prova sono Dev-C++, Code::Blocks e Xcode. 
+Gli unici IDE ammessi durante la prova sono Dev-C++, Code::Blocks e Xcode (versione 15.4), come descritto nelle [istruzioni dettagliate](https://polimi365-my.sharepoint.com/:b:/g/personal/10755186_polimi_it/IQCLG2gsTQZ0T6VVnuKy1ZNnATB5IVDTdINHFH7Nz3XWyoU?e=dclRr4) da seguire prima e durante lo svolgimento della prova scritta.
 
 Durante la prova scritta è possibile utilizzare la [dispensa del corso](https://boracchi.faculty.polimi.it/teaching/InfoA/dispensaEsame.pdf).
 
+
+
 Per essere ammessi alla prova orale è necessario ottenere almeno 10 punti complessivi nei tre esercizi di programmazione in C.
+
+
 
 #### Prova orale
 
